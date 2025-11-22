@@ -8,3 +8,6 @@ phrase type, word order typology
 
 The Analysis folder contains all analytical code. dep_analysis is the phrase characteristics analysis, while the [language]-analysis files are the linguistic complexity characteristics analysis. 
 The data_files contain the language samples used to test the program. The files containing the collected language data points are labeled by date, only the most recent date depicts what the analysis files will return and can be used as orientation. 
+
+## Referencing this work
+Grosse, Florence. 'Linguistic Universals In The Cognitive Complexity Processing Of Syntax'. Sächsisches Landesgymnasium St. Afra Meißen. 2025.
