@@ -1,0 +1,3167 @@
+chunk,phrase_type,word_order
+pred root det nsubj,noun_phrase,ps
+punct advmod mark nsubj advcl obl,subordinate_clause,svo
+punct parataxis X,unknown_chunk,v
+obl det amod pobj root nsubj nsubj,noun_phrase,ops
+case obl acl,prepositional_phrase,v
+punct nsubj advmod acl,adverbial_clause,sv
+punct cc obl det amod amod pobj,noun_phrase,v
+conj advmod nsubj nsubj advmod acl,adverbial_clause,sv
+punct nsubj advmod advmod advmod acl aux,adverbial_clause,sv
+advmod root nsubj det obj nmod,adverbial_clause,pso
+case nmod cc conj advmod obl det pobj xcomp,prepositional_phrase,v
+punct mark advmod advmod amod nsubj,subordinate_clause,vs
+case det obl advcl,prepositional_phrase,v
+punct cc obl det pobj conj advmod attr,adverbial_clause,v
+cc advmod attr advmod mark xcomp punct cc advmod amod nsubj obj case det amod obl conj,prepositional_phrase,sov
+punct mark advcl obj obl pobj advmod advmod,subordinate_clause,v
+mark xcomp,subordinate_clause,unknown
+mark nsubj det advmod case det obl neg xcomp advcl,prepositional_phrase,sov
+cc obl,unknown_chunk,v
+case cc obl case advmod root nsubj iobj advmod advmod xcomp obl pobj acl det amod obj,prepositional_phrase,ops
+relcl cc obl pobj nsubj advmod advmod acl obl det amod pobj acomp,adverbial_clause,osv
+ccomp acl amod attr relcl X X X X X X X,noun_phrase,v
+nsubj root obj amod,noun_phrase,spo
+punct nsubj parataxis advmod obl advmod pobj ref advmod obj,adverbial_clause,so
+acl:relcl,unknown_chunk,v
+det nsubj root attr det det nmod ref nsubj acl,noun_phrase,sp
+cc advmod advmod advmod,adverbial_clause,v
+conj aux nsubj obj acl advmod parataxis advmod attr,adverbial_clause,sv
+cc advmod attr parataxis det nsubj ref nsubj,adverbial_clause,sv
+case obl acl X X X X,prepositional_phrase,v
+advmod root advmod amod nsubj poss nsubj advmod advmod,adverbial_clause,ps
+ccomp punct obl amod pobj,noun_phrase,v
+punct cc,unknown_chunk,v
+conj nsubj advmod amod advmod compound:prt xcomp obl pobj,adverbial_clause,svo
+punct advcl nsubj advmod advmod ccomp punct,subordinate_clause,sv
+cc mark nsubj poss amod obj advcl compound:prt xcomp,subordinate_clause,sov
+nsubj root,main_clause,sp
+case det amod obl advmod advmod det obj nmod:gen,prepositional_phrase,v
+cc root nsubj advmod advmod,adverbial_clause,ps
+mark nsubj advmod det amod attr,subordinate_clause,vs
+ccomp mark,subordinate_clause,v
+mark cop advcl,subordinate_clause,v
+mark nsubj advmod xcomp,subordinate_clause,sv
+ccomp X X X,complement_clause,v
+mark mark advmod root,subordinate_clause,p
+punct mark nsubj,subordinate_clause,vs
+prep det pobj advcl,prepositional_phrase,v
+punct acl:relcl advmod case pobj acl,prepositional_phrase,v
+punct punct nsubj,unknown_chunk,vs
+ccomp nummod obj case xcomp punct,prepositional_phrase,v
+cc nsubj conj,unknown_chunk,sv
+case obl det nmod,prepositional_phrase,v
+punct mark nsubj obj,subordinate_clause,vso
+cc conj conj,unknown_chunk,v
+punct cc case nmod:poss obj,prepositional_phrase,v
+punct advmod advmod punct mark nsubj det obj obl pobj advmod advcl,subordinate_clause,sov
+punct advmod mark advmod mark nsubj aux obj conj case obl,prepositional_phrase,sov
+punct cc obj advmod case conj pobj,prepositional_phrase,v
+punct cc nsubj,unknown_chunk,s
+conj det obj advmod advmod obl pobj xcomp,adverbial_clause,v
+det nsubj root poss obj,noun_phrase,spo
+mark advcl punct vocative punct det nsubj root,subordinate_clause,sp
+punct mark aux parataxis det nsubj,subordinate_clause,vs
+punct mark nsubj det nummod obj advmod obl det pobj,subordinate_clause,vso
+cc advmod det pobj advcl advmod punct cc advmod nsubj dobj det amod obj obl pobj conj xcomp,subordinate_clause,osv
+advmod root det nsubj advmod advmod nummod obj,adverbial_clause,pso
+case xcomp,prepositional_phrase,v
+punct cc,unknown_chunk,v
+conj case obl advmod advmod,prepositional_phrase,v
+case det amod obl,prepositional_phrase,unknown
+cc nsubj root advmod advmod advmod advmod det amod nmod:gen,adverbial_clause,sp
+punct mark nsubj obl,subordinate_clause,vso
+case amod advcl,prepositional_phrase,v
+advmod root nsubj nmod obl advmod acomp,adverbial_clause,pso
+mark det amod obl cc,subordinate_clause,v
+conj advmod advmod advmod nummod nummod nmod acomp X,adverbial_clause,v
+det nummod nsubj amod root,noun_phrase,sp
+case obl punct nsubj,prepositional_phrase,ovs
+conj det obj advmod appos,adverbial_clause,v
+case mark acl case obl cc conj det obl punct det obj nsubj,prepositional_phrase,ovs
+case det obl acl,prepositional_phrase,v
+advmod root nsubj det obj,adverbial_clause,pso
+punct advmod advcl nsubj advmod,subordinate_clause,vs
+punct mark nsubj obj advcl,subordinate_clause,so
+punct mark nsubj obj advmod advmod neg advcl,subordinate_clause,sov
+cc mark det obl case nummod nmod punct conj advmod punct cc,prepositional_phrase,unknown
+mark nsubj punct nsubj obj,subordinate_clause,svo
+acl:relcl punct nsubj root advmod acomp,adverbial_clause,sp
+punct nsubj,unknown_chunk,vs
+case case obl acl:relcl,prepositional_phrase,v
+case nmod:poss obl cc case nmod:poss conj,prepositional_phrase,unknown
+obl case root nsubj obl det,prepositional_phrase,ops
+case obl det case,prepositional_phrase,unknown
+det amod nsubj cc amod conj root,noun_phrase,sp
+mark advmod,subordinate_clause,v
+ccomp punct,complement_clause,v
+mark case det amod obl advmod compound:prt xcomp,prepositional_phrase,v
+ccomp case det obl,prepositional_phrase,v
+cc case det conj punct,prepositional_phrase,v
+mark nsubj case obl advcl,prepositional_phrase,sov
+nsubj root iobj advmod det obj,adverbial_clause,spo
+punct mark amod nsubj advcl,subordinate_clause,vs
+root punct vocative mark nsubj advmod xcomp,subordinate_clause,ps
+ccomp cc,complement_clause,v
+conj punct,unknown_chunk,v
+mark ccomp advmod det acomp,subordinate_clause,v
+punct mark advmod det nsubj obj aux advcl,subordinate_clause,sov
+punct mark nsubj acomp,subordinate_clause,vs
+ccomp punct obl det det pobj,noun_phrase,v
+cc obl det det pobj punct,noun_phrase,sv
+acl:relcl det obj acl punct obl det amod pobj,noun_phrase,v
+punct obl det amod pobj,noun_phrase,v
+punct obl amod amod pobj,noun_phrase,v
+cc obl det det amod pobj punct obl det amod amod pobj,noun_phrase,v
+cc obl det amod pobj punct,noun_phrase,v
+cc obl det amod pobj punct,noun_phrase,sv
+acl:relcl nsubj det obj,noun_phrase,svo
+cc det obj acl obl amod pobj,noun_phrase,v
+punct cc obl det compound amod pobj,noun_phrase,v
+punct acl:relcl det obj acl,noun_phrase,v
+punct obl amod pobj,noun_phrase,v
+cc obl pobj punct,unknown_chunk,v
+cc obl det compound amod pobj punct,noun_phrase,v
+cc obl det det pobj punct,noun_phrase,sv
+acl:relcl det obj acl,noun_phrase,v
+advmod amod cc conj amod det iobj advmod obl pobj xcomp root advmod amod,adverbial_clause,p
+conj advmod nsubj advmod obl pobj xcomp obl det amod pobj nsubj advmod obl pobj acl,adverbial_clause,sov
+cc obl det amod pobj det amod nmod X X X X,noun_phrase,v
+mark amod det nmod punct nsubj advmod advmod obl,subordinate_clause,vso
+acl:relcl punct nsubj root neg advmod obl det pobj,adverbial_clause,spo
+punct acl:relcl obl det nmod obj,noun_phrase,sv
+acl:relcl,unknown_chunk,unknown
+cc root mark det nsubj nmod:poss advcl case det obl nmod,prepositional_phrase,pso
+punct advmod,adverbial_clause,v
+conj det nsubj nmod:poss obj,noun_phrase,vso
+cc nmod:poss obj case obl punct,prepositional_phrase,v
+cc conj cc det amod conj,noun_phrase,unknown
+root mark det det nsubj case nmod det conj cc det,prepositional_phrase,ps
+conj conj cc amod nsubj advcl obj advmod det obl,subordinate_clause,sov
+case det nmod nsubj obj advmod,prepositional_phrase,vso
+acl:relcl X X X X,unknown_chunk,v
+cc advmod root nsubj obj advmod obj,adverbial_clause,pso
+cc conj obj amod cc conj amod obj acl:relcl obj obl det pobj,noun_phrase,v
+cc det pobj,noun_phrase,v
+cc det pobj cc det pobj cc det pobj cc advmod det pobj,adverbial_clause,v
+mark conj nsubj obj obl,subordinate_clause,svo
+case det amod pobj,prepositional_phrase,v
+mark nsubj obj advmod conj X X X X X,subordinate_clause,sov
+det root punct nsubj advmod obj acl:relcl,adverbial_clause,pso
+punct nsubj acl:relcl,unknown_chunk,sv
+case det det obl compound:prt punct mark mark nsubj obl obj advcl,prepositional_phrase,osv
+mark amod det obl ref,subordinate_clause,v
+case obl acl ref acl nsubj,prepositional_phrase,ovs
+case obl root nsubj obj neg,prepositional_phrase,ops
+case xcomp X X X,prepositional_phrase,v
+cc advmod case obl root punct nsubj amod obj,prepositional_phrase,ops
+conj punct,unknown_chunk,v
+cc nsubj advcl obj xcomp,subordinate_clause,sv
+punct punct advmod parataxis,adverbial_clause,v
+punct mark obl nsubj advcl,subordinate_clause,vos
+punct nsubj advmod amod obj,adverbial_clause,vso
+acl:relcl X,unknown_chunk,v
+voc amod voc,noun_phrase,sv
+acl:relcl advmod amod cop,adverbial_clause,v
+case obl root det obj,prepositional_phrase,p
+case det amod obl advmod advcl nsubj obj xcomp obl amod pobj,prepositional_phrase,osv
+cc obl advmod amod pobj,adverbial_clause,sv
+acl:relcl obj advmod acl cc obj advmod,adverbial_clause,v
+conj advcl,subordinate_clause,v
+ccomp nsubj advmod xcomp cc advcl,subordinate_clause,sv
+ccomp nsubj xcomp X X X X X X X,infinitive_clause,sv
+root advmod acomp,adverbial_clause,p
+punct mark nsubj advmod obj advmod xcomp csubj,subordinate_clause,vso
+punct advmod advcl det nsubj det obj obl obl neg xcomp,subordinate_clause,vso
+punct advmod expl det advcl,subordinate_clause,v
+punct mark nsubj ccomp X,subordinate_clause,sv
+cc nsubj mark nsubj acl:relcl mark root neg advmod attr advmod,subordinate_clause,sp
+cc advmod advmod root nsubj advmod advmod,adverbial_clause,ps
+case det obl xcomp,prepositional_phrase,v
+cc advmod xcomp X X X X,adverbial_clause,v
+mark obj neg det obj,subordinate_clause,v
+cc det conj advmod advcl ref nsubj obj acomp,subordinate_clause,vso
+relcl root advmod parataxis nsubj advmod mark obj,subordinate_clause,pso
+ccomp case det obl ref advmod acl X X X X X,prepositional_phrase,v
+advmod root nsubj obl,adverbial_clause,pso
+case,prepositional_phrase,unknown
+nsubj advmod case advmod amod obj root,prepositional_phrase,sop
+punct mark nsubj attr nmod advcl,subordinate_clause,sv
+punct advcl,subordinate_clause,v
+conj advmod advmod advmod,adverbial_clause,v
+case obl case obl punct advmod,prepositional_phrase,v
+mark nsubj advcl,subordinate_clause,sv
+advmod root nsubj advmod advmod advmod case xcomp punct mark nsubj advmod advmod advmod advmod,prepositional_phrase,ps
+ccomp,complement_clause,v
+det advmod amod ref det amod nmod cc det amod conj obl det nummod poss pobj obl amod pobj obj root nsubj advmod compound:prt xcomp X,adverbial_clause,ops
+mark advcl nsubj amod obj,subordinate_clause,vso
+punct advmod advcl,subordinate_clause,v
+case advmod det pobj cc det conj cc det det pobj punct mark det nsubj advmod ccomp,prepositional_phrase,osv
+punct mark advcl nsubj advmod,subordinate_clause,vs
+case advmod obl cc advmod advmod conj punct advmod,prepositional_phrase,v
+mark nsubj appos advmod root,subordinate_clause,sp
+advmod root,adverbial_clause,p
+mark nsubj advcl,subordinate_clause,sv
+punct nsubj parataxis,unknown_chunk,sv
+amod det nsubj cc det conj cc det conj punct ref amod obj advmod root obl pobj,adverbial_clause,sop
+cc conj pobj punct obl det obl,noun_phrase,v
+punct ref obl pobj,unknown_chunk,sv
+acl:relcl punct,unknown_chunk,v
+mark advmod obl advcl det nsubj,subordinate_clause,ovs
+case det obl punct mark advmod det det nsubj advmod obl advcl,prepositional_phrase,ovs
+punct mark nsubj det amod obj xcomp advcl,subordinate_clause,sov
+punct obl det det obl,noun_phrase,v
+punct ref det nsubj,noun_phrase,vs
+acl:relcl X,unknown_chunk,v
+advmod advmod root iobj det attr nmod det nmod,adverbial_clause,p
+case det amod nmod punct discourse advmod nsubj root punct,prepositional_phrase,sp
+mark obj amod nsubj advmod,subordinate_clause,vs
+ccomp punct ref advmod acl obj aux,adverbial_clause,sv
+acl:relcl X,unknown_chunk,v
+nsubj root,main_clause,sp
+punct mark nsubj advcl,subordinate_clause,sv
+punct det attr,noun_phrase,v
+case nmod:poss obl,prepositional_phrase,unknown
+advmod root nsubj,adverbial_clause,ps
+punct nsubj advmod amod obj advmod case acl advmod case xcomp punct cc obj det amod compound nsubj advmod,prepositional_phrase,sov
+conj punct nsubj,unknown_chunk,vs
+conj case det amod obl neg,prepositional_phrase,v
+cc nsubj root advmod obj,adverbial_clause,spo
+punct nsubj advmod amod obj acl:relcl obl det advmod amod obl obl det obl,adverbial_clause,sov
+nsubj root advmod obj,adverbial_clause,spo
+punct mark nsubj advcl advmod advmod,subordinate_clause,sv
+cc conj neg,unknown_chunk,unknown
+mark nsubj advmod advcl,subordinate_clause,sv
+punct advcl,subordinate_clause,v
+case amod obl punct aux advmod det nsubj det nmod:poss nmod:poss obj case det nmod advcl,prepositional_phrase,osv
+punct advmod advcl nsubj amod nmod nmod:poss obj,subordinate_clause,vso
+case det amod nmod punct mark advmod det nsubj det amod appos cc nsubj cop acomp conj,prepositional_phrase,sv
+punct advmod det amod appos nsubj advmod root,adverbial_clause,sp
+nsubj aux obj obl pobj parataxis acomp punct mark advmod det nsubj advcl root,subordinate_clause,sop
+mark nsubj advcl advmod advmod acomp,subordinate_clause,sv
+punct advmod nsubj advmod root,adverbial_clause,sp
+cc obl punct acl:relcl case det nmod advmod xcomp aux,prepositional_phrase,v
+punct acl:relcl acl advmod advmod advmod,adverbial_clause,v
+case det obl punct obj nsubj case det amod obl root,prepositional_phrase,osp
+cc mark advmod det nsubj acomp cc conj advcl,subordinate_clause,sv
+punct advmod nsubj advmod,adverbial_clause,vs
+ccomp punct advmod,adverbial_clause,v
+mark advmod det nsubj cc conj,subordinate_clause,sv
+case det nmod root punct nsubj,prepositional_phrase,ps
+case det obl acl:relcl,prepositional_phrase,v
+mark advmod advcl det amod nsubj,subordinate_clause,vs
+case amod obl cc conj compound obl det obl,prepositional_phrase,v
+cc conj xcomp,infinitive_clause,v
+cc conj obl det obl advmod acomp root X,adverbial_clause,p
+cc advmod advmod root nsubj acomp nsubj det amod obj,adverbial_clause,pso
+acl:relcl advmod nsubj parataxis obj amod X X X,adverbial_clause,sov
+voc appos punct amod voc,noun_phrase,v
+punct case det amod obl root nsubj det obj,prepositional_phrase,ops
+case amod obl,prepositional_phrase,unknown
+det root punct mark nsubj obl,subordinate_clause,pso
+case xcomp,prepositional_phrase,sv
+acl:relcl,unknown_chunk,v
+nsubj root advmod det advmod amod attr,adverbial_clause,sp
+punct nsubj iobj det amod obj advmod advmod xcomp,adverbial_clause,sov
+acl:relcl,unknown_chunk,v
+mark obj root nsubj advmod amod obj,subordinate_clause,ops
+punct amod amod vocative punct amod vocative punct mark nsubj obj obl det amod pobj advmod advmod xcomp advcl,subordinate_clause,vso
+dep dep dep punct dep dep punct dep dep punct dep dep punct dep dep dep dep dep,unknown_chunk,v
+punct dep root dep,main_clause,p
+punct dep dep dep dep dep punct dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep dep dep,unknown_chunk,v
+punct dep,unknown_chunk,v
+punct dep,unknown_chunk,v
+punct dep dep dep dep punct dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep punct dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep punct dep punct dep dep dep dep dep dep dep dep dep dep dep dep dep dep dep dep,unknown_chunk,v
+punct dep dep dep dep dep dep,unknown_chunk,v
+det amod nsubj punct advcl nsubj punct voc punct det obj obl pobj cc conj advcl,subordinate_clause,sov
+punct mark root attr,subordinate_clause,p
+punct relcl det nsubj det conj,noun_phrase,sv
+cc det conj punct det,noun_phrase,v
+conj cc det conj advmod obl pobj advmod xcomp aux,adverbial_clause,v
+det amod obj cc conj root nsubj punct voc,noun_phrase,ops
+punct det iobj obl pobj xcomp obl det pobj,noun_phrase,v
+cc conj det pobj,noun_phrase,unknown
+mark nsubj advmod amod root,subordinate_clause,sp
+punct obj nsubj,unknown_chunk,vos
+punct vocative punct det iobj case obl aux parataxis,prepositional_phrase,v
+punct advmod advmod parataxis det nsubj advmod xcomp,adverbial_clause,sv
+punct advmod parataxis obj advmod advmod advmod advmod xcomp,adverbial_clause,v
+punct obj nsubj det iobj case det obl xcomp parataxis,prepositional_phrase,osv
+cc advmod obl root det amod nsubj obj xcomp,adverbial_clause,ops
+case amod obl punct cc det nsubj conj advmod amod attr,prepositional_phrase,osv
+punct mark case obl aux advmod xcomp,prepositional_phrase,v
+ccomp cc nsubj obj advmod xcomp,adverbial_clause,sov
+conj punct,unknown_chunk,v
+cc obj xcomp,infinitive_clause,v
+conj case advmod conj,prepositional_phrase,v
+punct cc obj advmod,adverbial_clause,v
+conj,unknown_chunk,v
+mark nsubj advmod iobj det amod nmod obj cc det amod obj ccomp,subordinate_clause,sov
+punct nsubj root obj det amod nsubj,noun_phrase,spo
+root,main_clause,p
+advmod obj nsubj case advmod amod obl aux root,prepositional_phrase,osp
+punct advmod conj nsubj advmod,adverbial_clause,vs
+punct mark nsubj advmod xcomp,subordinate_clause,vs
+ccomp punct,complement_clause,v
+cc mark nsubj obj,subordinate_clause,vso
+ccomp cc obj,complement_clause,v
+conj punct obj,unknown_chunk,v
+cc conj punct advmod conj cc advmod obj conj,adverbial_clause,v
+nsubj aux,unknown_chunk,sv
+case obl cc case conj case obl root,prepositional_phrase,p
+amod xcomp aux det nsubj appos root,noun_phrase,sp
+mark nsubj advcl,subordinate_clause,sv
+case obl case obl case advmod obl cc case det amod obl punct advmod nsubj iobj det amod obj root,prepositional_phrase,osp
+case det amod obl punct,prepositional_phrase,v
+mark nsubj advmod advcl,subordinate_clause,sv
+cc advmod obl root det nsubj,adverbial_clause,ops
+case det obl punct punct ccomp case obl obl cc case obl conj obl amod nmod punct punct punct ccomp nmod case det obl cc amod conj case det obl det obl punct nsubj amod obj,prepositional_phrase,ovs
+acl:relcl case obl,prepositional_phrase,v
+punct advmod det compound nsubj advmod,adverbial_clause,sv
+case obl conj,prepositional_phrase,v
+punct advmod advcl mark nsubj ccomp amod obj punct punct ccomp obl punct,subordinate_clause,sov
+punct mark conj punct punct det ccomp cop case obl,prepositional_phrase,v
+punct punct,unknown_chunk,v
+cc advmod conj nsubj det obl case det obl cc,prepositional_phrase,so
+cc advmod advmod aux nsubj root,adverbial_clause,sp
+punct mark advmod advmod det amod nsubj det amod obj advcl,subordinate_clause,sov
+mark advmod nsubj obl,subordinate_clause,vso
+case advmod advmod advmod obl advcl,prepositional_phrase,v
+punct advmod root nsubj advmod obl det,adverbial_clause,pso
+case punct punct det nsubj ccomp obl case punct punct,prepositional_phrase,sov
+cc conj det amod obj appos,noun_phrase,v
+punct mark nsubj acomp,subordinate_clause,vs
+ccomp obl det amod,noun_phrase,v
+case punct,prepositional_phrase,v
+cc conj iobj det obj,noun_phrase,v
+punct mark nsubj det obj compound:prt acl det obj,subordinate_clause,sov
+punct nsubj det obj acl:relcl,noun_phrase,sov
+punct cc nsubj det obj acl:relcl,noun_phrase,sov
+punct mark nsubj iobj det obj advmod acl,subordinate_clause,sov
+nsubj aux advmod root,adverbial_clause,sp
+punct parataxis obj punct ref det obj det nmod,noun_phrase,sv
+acl:relcl punct ref aux advmod det amod obj,adverbial_clause,sv
+acl:relcl,unknown_chunk,v
+mark root advmod,subordinate_clause,p
+case obl acomp punct advcl det obj det obj advcl,prepositional_phrase,v
+punct advcl nsubj iobj det obj compound:prt,subordinate_clause,vso
+ccomp punct advcl obj nsubj advmod,subordinate_clause,vos
+ccomp aux,complement_clause,v
+punct mark nsubj,subordinate_clause,vs
+case amod obl cc case amod obl mark obj xcomp advcl,prepositional_phrase,v
+mark nsubj advcl neg,subordinate_clause,sv
+case nmod:gen obl punct,prepositional_phrase,v
+mark advmod det nsubj advcl,subordinate_clause,sv
+case det det obl punct advmod root nsubj advmod advmod det obl neg xcomp,prepositional_phrase,ops
+nsubj root det amod obj,noun_phrase,spo
+cc conj punct advmod,adverbial_clause,v
+case det obl,prepositional_phrase,v
+cc conj,unknown_chunk,v
+case det det obl,prepositional_phrase,unknown
+det advcl det obj iobj det,subordinate_clause,v
+case obl punct advmod compound advcl nsubj advmod advmod det amod obj,prepositional_phrase,osv
+punct mark nsubj,subordinate_clause,vs
+case det obl advmod advcl,prepositional_phrase,v
+punct advmod,adverbial_clause,v
+case det obl punct advmod obj nsubj det obj advmod advcl,prepositional_phrase,osv
+case det obl punct,prepositional_phrase,v
+cc advmod compound advcl nsubj obj advmod xcomp,subordinate_clause,sov
+cc conj,unknown_chunk,v
+case det det obl cc case det det obl cc case det det obl punct,prepositional_phrase,v
+mark nsubj advmod advmod advmod,subordinate_clause,sv
+case det amod obj advcl,prepositional_phrase,v
+punct mark nsubj advcl,subordinate_clause,sv
+punct mark advmod,subordinate_clause,v
+case det amod obl cc obl obl root,prepositional_phrase,p
+det nsubj,noun_phrase,s
+cc det nsubj root iobj amod obj advmod xcomp,adverbial_clause,spo
+punct mark nsubj advmod advmod det obj aux,subordinate_clause,sov
+ccomp,complement_clause,v
+cc nsubj obj advmod conj cc det obj det nmod advcl punct mark root nsubj obj obl,subordinate_clause,sop
+case,prepositional_phrase,unknown
+nsubj root nummod obj xcomp,infinitive_clause,spo
+nsubj root det obj,noun_phrase,spo
+punct nsubj ccomp det amod obj,noun_phrase,svo
+punct mark obj,subordinate_clause,v
+cc det amod obj obl pobj advcl,subordinate_clause,v
+advmod root det nsubj,adverbial_clause,ps
+case obl punct mark ccomp nsubj,prepositional_phrase,ovs
+punct rel det amod nmod obj acl,noun_phrase,v
+det amod nsubj mark root det attr amod,subordinate_clause,sp
+punct nsubj parataxis,unknown_chunk,vs
+punct nsubj advmod attr parataxis,adverbial_clause,sv
+det root amod obj advmod obj,adverbial_clause,p
+punct mark nsubj advmod advmod advmod advcl,subordinate_clause,sv
+det nsubj root det obj,noun_phrase,spo
+punct mark advcl case det obl nsubj,prepositional_phrase,os
+mark nsubj advcl aux:pass,subordinate_clause,sv
+cc case det obl case nmod conj aux:pass,prepositional_phrase,v
+case det obl punct nsubj,prepositional_phrase,ovs
+case obl,prepositional_phrase,sv
+acl:relcl punct advmod root nsubj amod obj,adverbial_clause,pso
+cc conj,unknown_chunk,unknown
+det obj advcl nsubj,subordinate_clause,os
+case obl case obl cc case obl cc case amod nmod obl cc case obl punct mark case case aux xcomp root X,prepositional_phrase,p
+det nsubj root obl det pobj neg obj,noun_phrase,spo
+punct cc,unknown_chunk,v
+conj det obj neg xcomp,noun_phrase,v
+advmod case obl nsubj det obj,prepositional_phrase,vso
+cc det conj amod root,noun_phrase,p
+case det amod obl root det nsubj advmod xcomp,prepositional_phrase,ops
+case obl punct,prepositional_phrase,v
+mark nsubj case obl xcomp advcl,prepositional_phrase,sov
+cc case det conj,prepositional_phrase,unknown
+case det amod obl mark det nsubj,prepositional_phrase,ovs
+case det obl aux advcl case obl,prepositional_phrase,v
+cc conj obj xcomp,infinitive_clause,v
+cc nsubj,unknown_chunk,s
+conj det obj xcomp,noun_phrase,v
+case obl,prepositional_phrase,v
+case obl mark root det nsubj advmod,prepositional_phrase,ops
+conj case obl det,prepositional_phrase,v
+cc conj advmod det obj mark nsubj advcl advmod ccomp X X X,subordinate_clause,os
+cc nsubj root advmod,adverbial_clause,sp
+cc conj,unknown_chunk,v
+prep det pobj cc conj advmod,prepositional_phrase,v
+cc nsubj root,main_clause,sp
+mark iobj obj ccomp cc mark nsubj attr,subordinate_clause,osv
+cc case conj ccomp,prepositional_phrase,v
+nsubj root,main_clause,sp
+punct vocative punct ccomp iobj,complement_clause,v
+case obl punct ccomp nsubj advmod discourse,prepositional_phrase,ovs
+punct conj det nsubj,noun_phrase,vs
+punct conj,unknown_chunk,v
+mark nsubj ccomp,subordinate_clause,sv
+punct cc nsubj conj obj nsubj,unknown_chunk,svo
+ccomp cc,complement_clause,v
+conj case obl advmod nsubj advcl,prepositional_phrase,osv
+cc conj,unknown_chunk,v
+punct obj punct nsubj,unknown_chunk,ovs
+ccomp advmod,adverbial_clause,v
+case obl amod obl,prepositional_phrase,v
+mark nsubj advcl,subordinate_clause,sv
+case obl case obl xcomp,prepositional_phrase,unknown
+cc nsubj root iobj nsubj,main_clause,spo
+ccomp,complement_clause,v
+nsubj xcomp iobj aux,infinitive_clause,sov
+punct root nsubj,main_clause,ps
+punct obl pobj nsubj advmod advmod acl aux,adverbial_clause,osv
+cc obj,unknown_chunk,v
+ccomp nsubj obj mark xcomp obl obj,subordinate_clause,sov
+mark xcomp,subordinate_clause,v
+mark ccomp nsubj advmod xcomp,subordinate_clause,sv
+punct root nsubj,main_clause,ps
+case nmod:poss obl punct root nsubj,prepositional_phrase,ops
+punct mark,subordinate_clause,v
+ccomp nsubj advmod,adverbial_clause,sv
+case obl,prepositional_phrase,unknown
+advmod root nsubj,adverbial_clause,ps
+case det nmod:poss obl ccomp nsubj case nmod:poss obj ccomp,prepositional_phrase,osv
+cc case nmod:poss obj conj punct,prepositional_phrase,v
+cc nsubj conj obj,unknown_chunk,svo
+case obl,prepositional_phrase,unknown
+cc advmod det nsubj root cc det nsubj ref case det obl conj mark nsubj advmod,prepositional_phrase,spo
+ccomp punct advmod,adverbial_clause,v
+conj nsubj,unknown_chunk,vs
+case advmod obl cc conj obj,prepositional_phrase,v
+case obl advmod,prepositional_phrase,v
+cc mark nsubj root,subordinate_clause,sp
+mark nsubj advmod,subordinate_clause,vs
+ccomp advmod,adverbial_clause,v
+punct advmod conj nsubj det obj,adverbial_clause,svo
+punct cc det nsubj conj,noun_phrase,sv
+punct vocative punct,unknown_chunk,v
+ccomp nsubj obj advmod obl det amod amod pobj punct conj det nsubj,adverbial_clause,sov
+punct ccomp mark nsubj obl advmod pobj advmod,subordinate_clause,vso
+mark ccomp,subordinate_clause,v
+advmod advmod punct root nsubj,adverbial_clause,ps
+punct ccomp nsubj advmod advmod neg advmod xcomp,adverbial_clause,sv
+punct mark conj nsubj neg det amod attr,subordinate_clause,vs
+nsubj cc det conj root advmod,adverbial_clause,sp
+cc conj advmod,adverbial_clause,v
+case obl cc det amod amod obl punct,prepositional_phrase,v
+case nummod obl nsubj case det obl advmod acl:relcl xcom,prepositional_phrase,osv
+cc nsubj root obl det pobj obl pobj,noun_phrase,spo
+punct cc advmod nsubj obl det pobj,adverbial_clause,vso
+conj punct advmod,adverbial_clause,v
+conj nsubj det amod obj,noun_phrase,vso
+cc conj advmod det amod obj obl,adverbial_clause,v
+mark nsubj,subordinate_clause,vs
+ccomp obl det pobj,noun_phrase,v
+advmod root nsubj det obj,adverbial_clause,pso
+case obl,prepositional_phrase,v
+cc det nsubj root det obj iobj,noun_phrase,spo
+mark advmod mark nsubj advmod advcl,subordinate_clause,sv
+cc mark nsubj root obl det obl,subordinate_clause,spo
+punct advmod conj det nsubj,adverbial_clause,s
+cc nsubj root,main_clause,sp
+case obl punct,prepositional_phrase,v
+cc nsubj conj advmod,adverbial_clause,sv
+cc conj advmod,adverbial_clause,unknown
+cc advmod nsubj advmod aux advcl aux:pass nsubj attr aux,subordinate_clause,sv
+ccomp punct advmod root nsubj det obl pobj,adverbial_clause,pso
+cc conj obj amod obj,noun_phrase,v
+cc conj advmod obl det pobj,adverbial_clause,v
+cc conj obl,unknown_chunk,v
+cc mark nsubj aux advcl,subordinate_clause,sv
+punct mark advcl nsubj,subordinate_clause,vs
+case det obl nmod:poss nummod amod nmod,prepositional_phrase,v
+cc conj punct cc nsubj root,main_clause,sp
+case obl punct cc conj obj,prepositional_phrase,unknown
+cc advmod nsubj obj root,adverbial_clause,sp
+punct advmod conj cc conj nsubj obj,adverbial_clause,sv
+cc conj amod obj case obl ccomp nsubj det obj acl:relcl,prepositional_phrase,osv
+amod vocative punct root nsubj obl pobj,noun_phrase,pso
+punct obj nsubj aux iobj nsubj,unknown_chunk,svo
+ccomp punct nsubj,complement_clause,vs
+ccomp obj xcomp obl pobj,infinitive_clause,v
+cc advmod conj nsubj,adverbial_clause,vs
+case advcl det nsubj obj aux advmod,prepositional_phrase,sv
+ccomp cc conj neg ccomp advmod,adverbial_clause,unknown
+cc case obl mark nsubj advmod advcl,prepositional_phrase,osv
+case obl punct advmod root nummod nsubj case obl advmod xcomp,prepositional_phrase,ops
+punct ref,unknown_chunk,sv
+acl:relcl case obl amod det amod obj,prepositional_phrase,unknown
+nsubj aux advmod advmod xcomp obl pobj,adverbial_clause,svo
+mark nsubj det obj obl det pobj neg,subordinate_clause,vso
+ccomp xcomp root,infinitive_clause,p
+cc nsubj det det obj root acl,noun_phrase,sop
+acl:relcl obj obl det pobj,noun_phrase,v
+cc conj advmod,adverbial_clause,unknown
+cc advmod nsubj advcl,subordinate_clause,sv
+case obl punct advmod root nsubj,prepositional_phrase,ops
+punct voc punct nsubj,unknown_chunk,vs
+ccomp advmod det obj,adverbial_clause,v
+cc det det obj obj nsubj acl:relcl cc det det obj cc det det obj,noun_phrase,osv
+mark nsubj,subordinate_clause,vs
+case obl aux obj,prepositional_phrase,v
+punct mark nsubj,subordinate_clause,vs
+case amod obl advcl advmod nsubj,prepositional_phrase,ovs
+conj case det attr,prepositional_phrase,v
+advmod aux nsubj det obj,adverbial_clause,vso
+case det obl root,prepositional_phrase,p
+cc nsubj root det obj,noun_phrase,spo
+mark advmod advcl,subordinate_clause,v
+case det obl nsubj obl advmod,prepositional_phrase,osv
+acl:relcl mark nsubj,subordinate_clause,s
+case det obl advmod advmod amod obj aux ccomp X,prepositional_phrase,v
+cc obl det obl obj nsubj obl case acl,prepositional_phrase,osv
+punct advmod conj obl amod obj obl,adverbial_clause,v
+case det obl det obj punct obl obj aux root,prepositional_phrase,p
+cc root det nsubj mark nsubj det obj advmod xcomp,subordinate_clause,pso
+ccomp punct,complement_clause,v
+mark nsubj obj advcl,subordinate_clause,sov
+voc punct parataxis nsubj,unknown_chunk,vs
+punct advmod root nsubj,adverbial_clause,ps
+mark nsubj advmod obl cc conj ccomp,subordinate_clause,so
+case nmod:poss obl punct root nsubj,prepositional_phrase,ops
+punct advmod nsubj,adverbial_clause,vs
+ccomp punct det nsubj parataxis advmod advmod,adverbial_clause,vs
+cc conj det obj nsubj det obj,noun_phrase,vos
+ccomp case det obl,prepositional_phrase,v
+discourse det obl obl pobj root nsubj obl pobj,noun_phrase,ops
+conj obj obl det pobj advmod,adverbial_clause,v
+conj obj det obj,noun_phrase,v
+cc advmod root obj nmod:poss det obj advmod,adverbial_clause,p
+cc conj iobj det obj,noun_phrase,v
+cc conj obj,unknown_chunk,v
+case obl det obj ccomp punct mark nsubj,prepositional_phrase,ovs
+case det obl advmod advcl xcomp,prepositional_phrase,v
+cc mark nsubj case obj det advcl,prepositional_phrase,sov
+mark nsubj det amod obj xcomp ccomp,subordinate_clause,sov
+punct mark root nsubj,subordinate_clause,ps
+punct amod voc punct ccomp nsubj advmod xcomp,adverbial_clause,sv
+case obl case nmod nmod obl det nmod voc,prepositional_phrase,v
+punct conj nsubj,unknown_chunk,vs
+punct case obl,prepositional_phrase,v
+ccomp nsubj advmod advmod,adverbial_clause,sv
+advmod root nsubj obl det obj,adverbial_clause,pso
+punct vocative punct parataxis nsubj obl amod pobj obj det amod attr obl pobj xcomp obl det nmod appos nmod nmod appos,noun_phrase,sov
+punct parataxis nsubj,unknown_chunk,vs
+punct nsubj,unknown_chunk,vs
+ccomp advmod neg advmod,adverbial_clause,v
+punct advmod mark advmod advmod nsubj advcl obj nsubj attr cop,subordinate_clause,sv
+punct nsubj,unknown_chunk,vs
+conj obl pobj xcomp,infinitive_clause,v
+cc advmod conj obj cc det obj advmod,adverbial_clause,v
+cc conj advmod advmod,adverbial_clause,v
+mark nsubj,subordinate_clause,vs
+case obl,prepositional_phrase,v
+case obl root,prepositional_phrase,p
+advmod root det nsubj,adverbial_clause,ps
+case obl xcomp,prepositional_phrase,v
+case amod obl case amod obl,prepositional_phrase,unknown
+cc mark det nsubj amod aux advcl,subordinate_clause,sv
+case det obl punct,prepositional_phrase,v
+mark root nsubj advmod,subordinate_clause,ps
+cc conj advmod,adverbial_clause,v
+case det obl,prepositional_phrase,unknown
+advmod root nsubj compound:prt mark xcomp,subordinate_clause,ps
+case det obl det compound nsubj aux acl:relcl,prepositional_phrase,osv
+advmod root nsubj obj nsubj amod aux,adverbial_clause,pso
+ccomp amod obj rel advmod nmod:poss,adverbial_clause,sv
+acl:relcl obj,unknown_chunk,v
+mark obl,subordinate_clause,unknown
+cc punct root nsubj,main_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp advmod advmod xcomp,adverbial_clause,v
+punct nsubj parataxis aux det advmod nsubj xcomp,adverbial_clause,sv
+case det amod nmod det nmod:poss nmod punct mark nsubj advcl advmod advmod advmod,prepositional_phrase,sv
+case det obl cc case det obl,prepositional_phrase,unknown
+voc voc punct root nsubj,main_clause,ps
+punct obj aux nsubj advmod,adverbial_clause,ovs
+ccomp punct advcl nsubj advcl advmod det nmod nmod obj,subordinate_clause,svo
+det nsubj root xcomp obj advmod,adverbial_clause,spo
+prep mark pobj,prepositional_phrase,v
+mark nsubj advmod,subordinate_clause,sv
+ccomp advmod det obj,adverbial_clause,v
+prep det pobj xcomp,prepositional_phrase,v
+prep pobj rel advmod aux relcl,prepositional_phrase,v
+punct advmod root nsubj amod obj,adverbial_clause,pso
+advmod root nsubj advmod,adverbial_clause,ps
+prep mark pobj,prepositional_phrase,v
+cc conj advmod,adverbial_clause,v
+prep det pobj prep det pobj cc conj,prepositional_phrase,v
+prep amod pobj obj,prepositional_phrase,v
+punct advmod parataxis det obj,adverbial_clause,v
+punct advmod parataxis det obj,adverbial_clause,v
+cc advmod root nsubj advmod advmod,adverbial_clause,ps
+cc advmod xcomp,adverbial_clause,v
+mark mark nsubj advcl obl det amod obl ref nsubj advmod,subordinate_clause,svo
+acl:relcl obj,unknown_chunk,v
+ccomp,complement_clause,v
+cc root obj obl,main_clause,p
+punct cc nsubj,unknown_chunk,vs
+conj advmod obl xcomp,adverbial_clause,v
+nsubj root obj nsubj,main_clause,spo
+ccomp punct,complement_clause,v
+cc nsubj conj advmod punct nummod obl cc conj obl det obj nsubj aux advcl,subordinate_clause,sov
+punct obl det pobj advmod aux nsubj xcomp det obj,adverbial_clause,ovs
+ccomp,complement_clause,unknown
+advmod nsubj obj advcl,subordinate_clause,sov
+punct advmod root nsubj,adverbial_clause,ps
+case det obl punct case advmod punct advmod parataxis acomp attr,prepositional_phrase,v
+punct advmod punct parataxis nsubj,adverbial_clause,vs
+punct ref advmod advmod acl xcomp det amod obj,adverbial_clause,v
+case det obl cc case det obl nmod:poss nmod punct nsubj aux,prepositional_phrase,osv
+conj obj nsubj advmod,adverbial_clause,vos
+ccomp cc,complement_clause,v
+case det obl,prepositional_phrase,v
+conj aux,unknown_chunk,v
+punct advcl nsubj advmod det attr ccomp advcl obl det amod,subordinate_clause,svo
+cc conj case acl aux,prepositional_phrase,v
+cc nsubj root advmod det poss amod obj advmod advcl,subordinate_clause,spo
+mark det nsubj det amod obj xcomp aux,subordinate_clause,sov
+ccomp,complement_clause,v
+nsubj root,main_clause,sp
+punct nsubj,unknown_chunk,vs
+conj obj advmod xcomp,adverbial_clause,v
+cc obj xcomp det amod obj,noun_phrase,v
+cc conj det obj nsubj advmod,adverbial_clause,vos
+acl:relcl,unknown_chunk,v
+cc advmod det nsubj appos,adverbial_clause,sv
+case det obl root aux,prepositional_phrase,p
+cc conj,unknown_chunk,v
+mark nsubj aux advmod,subordinate_clause,sv
+ccomp cc aux obl pobj,complement_clause,v
+conj obj,unknown_chunk,v
+cc conj punct advmod conj nsubj advmod attr,adverbial_clause,vs
+cc conj obj obl amod pobj,noun_phrase,v
+cc conj,unknown_chunk,v
+mark nsubj obl cc obl ccomp attr,subordinate_clause,sov
+det nsubj root obj advmod acomp,adverbial_clause,spo
+case det obl case det obl punct mark nsubj advcl advmod advmod det amod obj,prepositional_phrase,osv
+cc nsubj flat:name root,main_clause,sp
+mark nsubj case obl ccomp aux,prepositional_phrase,sov
+advmod root nsubj,adverbial_clause,ps
+mark nsubj neg aux ccomp det obj ref advmod det obj,subordinate_clause,sov
+acl:relcl mark obl,subordinate_clause,unknown
+cc punct root nsubj,main_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp advmod advmod xcomp,adverbial_clause,v
+punct nsubj ccomp cop obj advmod aux xcomp,adverbial_clause,sov
+case det amod pobj det nmod:poss amod punct mark nsubj advcl advmod advmod advmod,prepositional_phrase,osv
+case det obl cc case det obl,prepositional_phrase,unknown
+voc voc punct root nsubj,main_clause,ps
+punct mark ccomp nsubj advmod xcomp,subordinate_clause,vs
+punct mark nsubj advcl advmod nmod:poss nmod:poss advmod obj,subordinate_clause,svo
+det obj root xcomp nsubj advmod obl,adverbial_clause,ops
+mark xcomp,subordinate_clause,v
+mark nsubj advmod xcomp advmod det obj,subordinate_clause,svo
+case obl amod xcomp,prepositional_phrase,v
+obl pobj ref advmod aux acl:relcl,adverbial_clause,v
+punct advmod root nsubj amod obj,adverbial_clause,pso
+advmod root nsubj advmod,adverbial_clause,ps
+case mark xcomp,prepositional_phrase,v
+cc conj advmod,adverbial_clause,v
+case det obl case det obl cc conj,prepositional_phrase,v
+case amod obl xcomp,prepositional_phrase,v
+advmod root nsubj xcomp,adverbial_clause,ps
+punct advmod conj nsubj xcomp,adverbial_clause,vs
+cc advmod root nsubj advmod advmod,adverbial_clause,ps
+cc advmod xcomp,adverbial_clause,v
+mark mark nsubj advcl,subordinate_clause,sv
+case det amod pobj nsubj det advmod acl:relcl cop,prepositional_phrase,osv
+ccomp,complement_clause,v
+cc root obj obl,main_clause,p
+punct cc nsubj aux advmod obl,adverbial_clause,sv
+conj,unknown_chunk,v
+nsubj root obj nsubj acl,main_clause,spo
+punct cc nsubj,unknown_chunk,vs
+conj advmod,adverbial_clause,v
+amod pobj cc conj obl case nsubj nsubj acl advcl obl,prepositional_phrase,osv
+case pobj advmod aux nsubj aux det obj root X,prepositional_phrase,osp
+mark nsubj obj advcl,subordinate_clause,sov
+punct advmod root nsubj,adverbial_clause,ps
+case det obl,prepositional_phrase,unknown
+obl pobj punct nsubj ccomp advmod attr,adverbial_clause,osv
+punct discourse punct ccomp nsubj,complement_clause,vs
+punct ref advmod advmod,adverbial_clause,sv
+acl:relcl xcomp det amod obj obl det pobj,noun_phrase,v
+cc conj det pobj nmod:poss nmod punct nsubj root xcomp obj nsubj advmod,adverbial_clause,osp
+ccomp cc obl det pobj xcomp aux,noun_phrase,v
+punct advcl nsubj advmod det attr ccomp,subordinate_clause,sv
+acl:relcl obl det amod cc conj pobj cop aux,noun_phrase,v
+cc nsubj root advmod,adverbial_clause,sp
+mark nmod:poss det obj obj advcl mark det nsubj det amod nmod,subordinate_clause,ovs
+ccomp aux xcomp,infinitive_clause,v
+nsubj root,main_clause,sp
+punct nsubj,unknown_chunk,vs
+conj obj advmod xcomp,adverbial_clause,v
+cc conj xcomp det obj amod,noun_phrase,v
+cc conj det obj nsubj advmod,adverbial_clause,vos
+acl:relcl,unknown_chunk,v
+cc mark det nsubj compound,subordinate_clause,sv
+case det obl ccomp,prepositional_phrase,v
+conj cc,unknown_chunk,v
+conj mark nsubj,subordinate_clause,vs
+ccomp advmod xcomp,adverbial_clause,v
+cc conj case obl xcomp obj,prepositional_phrase,v
+cc conj mark advcl nsubj advmod acomp,subordinate_clause,s
+cc conj obj,unknown_chunk,v
+case amod obl cc root,prepositional_phrase,p
+mark nsubj obj,subordinate_clause,vso
+cc conj aux ccomp X,complement_clause,v
+det nsubj root obj advmod acomp,adverbial_clause,spo
+case det obl case det nmod mark nsubj advcl advmod advmod det nummod obj X,prepositional_phrase,osv
+cc compound nsubj root,noun_phrase,sp
+mark nsubj case obl xcomp,prepositional_phrase,sov
+ccomp punct,complement_clause,unknown
+nsubj root,main_clause,sp
+discourse advmod obl nmod:poss,adverbial_clause,v
+case nsubj root advmod advmod acomp,prepositional_phrase,sp
+cc conj aux X X X,unknown_chunk,v
+advmod punct root vocative compound,adverbial_clause,p
+punct expl ccomp nsubj advmod advmod acomp,adverbial_clause,vs
+cc conj iobj acomp,unknown_chunk,v
+amod root det nsubj ref det nsubj obl det pobj,noun_phrase,pso
+acl:relcl punct appos,unknown_chunk,v
+cc conj punct advcl nsubj ccomp advmod,subordinate_clause,sv
+mark nsubj obj advmod ccomp aux,subordinate_clause,sov
+cc det nsubj root mark nsubj det obj,subordinate_clause,spo
+ccomp punct mark nsubj advmod attr advcl advcl obl,subordinate_clause,svo
+ccomp,complement_clause,v
+advmod root nsubj compound,adverbial_clause,ps
+parataxis nsubj advmod advmod,adverbial_clause,vs
+case xcomp advmod parataxis obj nsubj nsubj det obj,prepositional_phrase,vso
+case det obl neg ccomp parataxis nsubj advcl advmod advmod xcomp,prepositional_phrase,osv
+mark nsubj,subordinate_clause,s
+case obl advmod advmod case obl ccomp mark root advmod advmod det obj advmod xcomp case obl case det amod pobj X X X,prepositional_phrase,p
+advmod punct root det nsubj punct obj,adverbial_clause,pso
+ccomp aux punct det obj parataxis nsubj advmod xcomp,adverbial_clause,osv
+cc conj nsubj xcomp,infinitive_clause,sv
+mark advmod mark nsubj advmod,subordinate_clause,sv
+conj punct mark nsubj advcl,subordinate_clause,sv
+mark amod obj det obj cc det nsubj case obl conj xcomp advmod,prepositional_phrase,osv
+cc conj mark nsubj neg advmod,subordinate_clause,sv
+ccomp,complement_clause,unknown
+advmod ccomp nsubj advmod root nsubj X,adverbial_clause,sp
+obl det pobj nsubj advmod advcl,subordinate_clause,ovs
+punct advmod root det nsubj advmod acl,adverbial_clause,ps
+cc conj det iobj,noun_phrase,v
+voc amod obj root nsubj iobj X,noun_phrase,ops
+root iobj obj advmod vocative advmod advmod,adverbial_clause,p
+case det nmod advcl det nsubj advmod advcl det nsubj acl,prepositional_phrase,vs
+conj cc conj mark nsubj advcl advmod,subordinate_clause,sv
+mark nsubj advmod attr,subordinate_clause,sv
+ccomp X X X X X,complement_clause,v
+cc det nsubj root advmod det obj,adverbial_clause,spo
+mark xcomp,subordinate_clause,v
+punct cc advmod,adverbial_clause,v
+conj det obj amod,noun_phrase,unknown
+mark nsubj advcl,subordinate_clause,sv
+case det obl punct mark root nsubj,prepositional_phrase,ops
+mark det nsubj,subordinate_clause,vs
+ccomp case det obl,prepositional_phrase,v
+cc conj,unknown_chunk,v
+case pobj amod,prepositional_phrase,v
+cc case det obl root nsubj det det obj nsubj acl advmod,prepositional_phrase,ops
+cc advmod acomp,adverbial_clause,v
+cc nsubj root obl det obl acl:relcl det obj,noun_phrase,spo
+cc conj amod nsubj advmod advmod obl xcomp X,adverbial_clause,so
+cc det nsubj root det obj,noun_phrase,spo
+punct nsubj acl,unknown_chunk,s
+nsubj root obj advmod advmod xcomp,adverbial_clause,spo
+punct expl parataxis advmod attr obj case obl acl:relcl aux,prepositional_phrase,v
+cc conj advmod det amod nsubj xcomp,adverbial_clause,sv
+case det obl,prepositional_phrase,unknown
+mark det nsubj det obj advcl advmod root nsubj obl,subordinate_clause,sop
+case X,prepositional_phrase,unknown
+voc punct root det obj,noun_phrase,p
+punct mark nsubj advcl attr,subordinate_clause,sv
+case nmod punct mark nsubj aux advcl,prepositional_phrase,sv
+mark amod nsubj case det obl neg ccomp advmod voc,prepositional_phrase,sov
+cc nsubj root advmod,adverbial_clause,sp
+voc punct expl root neg attr advmod xcomp obj advmod,adverbial_clause,p
+ccomp mark nsubj advmod obj advmod xcomp,subordinate_clause,sov
+punct advcl nsubj aux neg acomp,subordinate_clause,sv
+ccomp mark nsubj obj,subordinate_clause,vso
+ccomp punct,complement_clause,v
+cc advmod,adverbial_clause,v
+conj nsubj obj xcomp,infinitive_clause,sov
+punct advcl nsubj ccomp advmod punct conj nsubj obj,subordinate_clause,svo
+mark xcomp,subordinate_clause,v
+discourse root obj case det obl,prepositional_phrase,p
+mark poss advmod xcomp ccomp X X X X,subordinate_clause,v
+voc punct root nsubj nsubj,main_clause,ps
+ccomp obj neg punct advcl nsubj aux advcl obj advmod nsubj,subordinate_clause,osv
+ccomp nsubj advmod acl:relcl punct nsubj conj xcomp advmod compound:prt,adverbial_clause,sv
+obj ccomp nsubj root det nsubj,noun_phrase,sp
+voc punct root nsubj,main_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp obj advmod,adverbial_clause,v
+cc advmod conj nsubj advmod advmod obj,adverbial_clause,vso
+punct nsubj,unknown_chunk,vs
+conj obj nsubj,unknown_chunk,vos
+ccomp obj advmod advmod,adverbial_clause,v
+case det obl ccomp xcomp det amod obj,prepositional_phrase,v
+cc det amod obj case det amod pobj,prepositional_phrase,unknown
+cc advmod det nsubj advcl mark nsubj obj neg xcomp,subordinate_clause,svo
+ccomp punct advmod root nsubj,adverbial_clause,ps
+mark obj xcomp,subordinate_clause,v
+amod voc punct root obj,noun_phrase,p
+punct voc punct obl det pobj,noun_phrase,v
+punct nsubj parataxis obj advmod,adverbial_clause,svo
+punct mark det nsubj amod aux advmod parataxis xcomp,subordinate_clause,sv
+punct advmod parataxis nsubj attr mark nsubj det obj advmod,subordinate_clause,sov
+ccomp punct mark nsubj advmod parataxis,subordinate_clause,vs
+mark nsubj advmod amod attr,subordinate_clause,sv
+ccomp advmod obl,adverbial_clause,v
+advmod root nsubj obj xcomp,adverbial_clause,pso
+punct mark nsubj obj advcl,subordinate_clause,vso
+cc advmod advmod det obj,adverbial_clause,v
+mark advcl punct cc nsubj conj det obj,subordinate_clause,svo
+case det obl cc conj det obj,prepositional_phrase,v
+case det obl cc conj obj nsubj advmod,prepositional_phrase,ovs
+acl:relcl punct cc nsubj conj obj advmod,adverbial_clause,svo
+case xcomp,prepositional_phrase,v
+det nsubj root advmod,adverbial_clause,sp
+amod voc nsubj root mark nsubj aux det obj advmod advcl X X,subordinate_clause,spo
+voc obj punct root nsubj,main_clause,ops
+punct ccomp obl pobj ccomp det nsubj aux obj advmod advmod advmod,adverbial_clause,osv
+ccomp ccomp nsubj det obj advmod,adverbial_clause,vso
+ccomp ccomp nsubj obj advmod xcomp,adverbial_clause,sov
+ccomp,complement_clause,v
+vocative root nsubj flat obj,main_clause,pso
+ccomp nsubj neg,complement_clause,sv
+punct parataxis nsubj advmod advmod xcomp advmod advcl obj,subordinate_clause,svo
+case nmod:poss nmod:poss pobj mark xcomp X X X,prepositional_phrase,v
+cc mark det nsubj advcl det obj mark aux nsubj,subordinate_clause,sov
+case det obl xcomp obj root cc conj case obl,prepositional_phrase,p
+mark nsubj obj,subordinate_clause,so
+ccomp X X,complement_clause,v
+cc nsubj root,main_clause,sp
+advmod mark obj root obj mark xcomp cc ccomp det nsubj,subordinate_clause,ops
+case det obl cc ccomp obj ref nsubj acl,prepositional_phrase,osv
+cc nsubj aux obj neg conj X X X,unknown_chunk,sov
+cc advmod root nsubj obj case det nmod acl mark nsubj aux aux,prepositional_phrase,pso
+ccomp punct cc det nsubj case det nmod conj expl acomp punct,prepositional_phrase,sv
+cc nsubj amod obj advmod aux det amod obj advmod,adverbial_clause,sov
+conj,unknown_chunk,unknown
+advmod root voc obj,adverbial_clause,p
+voc punct compound voc punct advmod ccomp nsubj advmod xcomp xcomp,adverbial_clause,sv
+punct mark nsubj advcl,subordinate_clause,sv
+punct mark det obj aux iobj neg advcl,subordinate_clause,v
+case obl punct nsubj iobj root,prepositional_phrase,osp
+advmod parataxis nsubj advmod root det nsubj nsubj,adverbial_clause,sp
+ccomp advmod attr X X,adverbial_clause,v
+advmod root nsubj det obl pobj advmod,adverbial_clause,pso
+cc conj det obj xcomp obl det pobj,noun_phrase,v
+cc det nsubj root xcomp case det obl cc conj xcomp,prepositional_phrase,spo
+case det obl punct cc advmod conj xcomp,prepositional_phrase,v
+case det obl,prepositional_phrase,unknown
+det obl root,noun_phrase,p
+case obl nummod amod nsubj cc conj obl mark advmod amod obj,prepositional_phrase,osv
+mark nsubj attr,subordinate_clause,vs
+ccomp mark xcomp,subordinate_clause,v
+det obl advmod root det nsubj flat,adverbial_clause,ops
+case nmod:poss amod obl case det obl cc conj xcomp,prepositional_phrase,v
+case amod obl,prepositional_phrase,v
+case nmod punct,prepositional_phrase,unknown
+advmod root nsubj,adverbial_clause,ps
+mark nsubj advmod xcomp advcl advmod obl,subordinate_clause,svo
+mark obj ccomp mark nsubj det nmod obl det,subordinate_clause,osv
+case aux ccomp cc nsubj xcomp advmod,prepositional_phrase,vs
+conj mark det nsubj advcl det amod obj X X X,subordinate_clause,sv
+advmod root,adverbial_clause,p
+case det amod obl mark det det nsubj,prepositional_phrase,ovs
+case det nmod cc det conj ccomp compound:prt,prepositional_phrase,v
+punct advmod mark aux det nsubj advmod,subordinate_clause,sv
+ccomp punct cc conj advmod neg acomp,adverbial_clause,v
+case det obl,prepositional_phrase,unknown
+cc case det obl root nsubj advmod xcomp,prepositional_phrase,ops
+punct cc det dep,noun_phrase,v
+cc det conj,noun_phrase,unknown
+cc det appos appos,noun_phrase,v
+punct nsubj,unknown_chunk,vs
+prep det pobj acl:relcl punct nsubj root,prepositional_phrase,osp
+advmod punct nsubj root advmod obj xcomp,adverbial_clause,spo
+cc conj,unknown_chunk,v
+mark nsubj advmod advmod xcomp xcomp obj nsubj,subordinate_clause,sv
+ccomp,complement_clause,v
+case det det det nsubj advmod advcl,prepositional_phrase,vs
+punct advmod root advmod det nsubj obl amod obj punct amod cc amod punct,adverbial_clause,pso
+cc conj amod nsubj advmod nsubj advmod,adverbial_clause,vs
+acl:relcl xcomp,infinitive_clause,v
+mark nsubj case xcomp aux,prepositional_phrase,sv
+cc det nsubj root,noun_phrase,sp
+case obl cc advmod case det obl det appos punct acl amod punct case obj,prepositional_phrase,v
+cc case obj,prepositional_phrase,unknown
+cc root,main_clause,p
+punct mark advmod mark nsubj advcl,subordinate_clause,sv
+case det obl,prepositional_phrase,unknown
+root nsubj advmod,adverbial_clause,ps
+punct cc conj,unknown_chunk,v
+case det obl punct mark nsubj advmod advcl,prepositional_phrase,osv
+voc voc,unknown_chunk,v
+punct nsubj root iobj det obj obj nsubj advmod advmod,adverbial_clause,spo
+acl:relcl aux,unknown_chunk,v
+punct acl:relcl advmod aux,adverbial_clause,sv
+acl:relcl case det amod obl det nmod:poss nmod,prepositional_phrase,v
+cc conj,unknown_chunk,v
+case obl,prepositional_phrase,unknown
+cc nsubj root attr obl,main_clause,spo
+case acl:relcl nsubj obl det obl aux,prepositional_phrase,sov
+cc obl amod obl xcomp,noun_phrase,v
+punct cc,unknown_chunk,v
+conj obl obl,unknown_chunk,v
+punct cc det nsubj conj advmod obl det obl,adverbial_clause,svo
+cc conj obl det obl,noun_phrase,v
+root xcomp parataxis det nsubj acomp advmod parataxis det obj xcomp,adverbial_clause,pso
+mark parataxis nsubj attr obj nsubj advmod aux acl nsubj iobj xcomp parataxis det obj,subordinate_clause,sov
+case det amod nmod,prepositional_phrase,v
+cc advmod parataxis obl det pobj xcomp mark amod obj,subordinate_clause,v
+mark nsubj obl pobj aux parataxis X X X X X,subordinate_clause,sov
+expl conj det cc det attr punct advmod root nsubj advmod,adverbial_clause,ps
+mark case obl,prepositional_phrase,v
+ccomp punct advcl,subordinate_clause,v
+mark nsubj ccomp,subordinate_clause,sv
+case advmod amod obl mark nsubj acl aux,prepositional_phrase,osv
+case obl root det nsubj nsubj aux det amod obj advmod advmod xcomp,prepositional_phrase,ops
+cc nsubj conj advmod obj X X X,adverbial_clause,sov
+advmod root nsubj,adverbial_clause,ps
+case det amod nmod:poss obl xcomp,prepositional_phrase,v
+cc advmod case det amod amod obj advmod acl,prepositional_phrase,v
+case det amod obl obj,prepositional_phrase,v
+conj nsubj case det obl X X X,prepositional_phrase,sov
+cc advmod nsubj obj aux prt root,adverbial_clause,sop
+cc acomp,unknown_chunk,unknown
+ccomp obj voc appos root nsubj,complement_clause,ops
+cc nsubj,unknown_chunk,vs
+conj obj,unknown_chunk,v
+cc advmod prep case det amod pobj,prepositional_phrase,v
+prep det pobj conj X X X X X,prepositional_phrase,v
+cc nsubj root det amod obj compound:prt punct nsubj advmod,adverbial_clause,spo
+acl:relcl punct advmod conj nsubj xcomp,adverbial_clause,sv
+punct ref acl:relcl,unknown_chunk,unknown
+det nsubj root det obj obj nsubj advmod,adverbial_clause,spo
+acl:relcl aux mark obl advcl,subordinate_clause,v
+advmod root nsubj det obj,adverbial_clause,pso
+cc conj,unknown_chunk,v
+case obl obj nsubj ref nsubj obl det pobj,prepositional_phrase,ovs
+acl:relcl ccomp,complement_clause,v
+voc punct advmod appos punct root advmod,adverbial_clause,p
+punct advcl det nsubj ccomp acomp,subordinate_clause,sv
+punct,unknown_chunk,unknown
+cc nsubj root advmod advmod advmod,adverbial_clause,sp
+cc nsubj root det iobj,noun_phrase,spo
+nsubj root advmod advmod xcomp punct mark nsubj aux advmod advcl,subordinate_clause,sp
+mark nsubj iobj obj,subordinate_clause,vso
+punct cc,unknown_chunk,v
+conj iobj,unknown_chunk,v
+case advmod amod amod obj,prepositional_phrase,v
+case det amod nmod cc conj iobj det obj appos,prepositional_phrase,v
+cc conj advmod det amod obj appos,adverbial_clause,v
+cc conj iobj,unknown_chunk,v
+case nmod obl mark nsubj aux,prepositional_phrase,osv
+ccomp det obj,noun_phrase,v
+mark nsubj advmod,subordinate_clause,sv
+ccomp cc nsubj aux aux,complement_clause,sv
+conj,unknown_chunk,unknown
+cc det nsubj root,noun_phrase,sp
+case obl cc conj obj compound det compound,prepositional_phrase,v
+conj cc det det conj,noun_phrase,unknown
+advmod nsubj obj root,adverbial_clause,sop
+punct ccomp nsubj csubj,complement_clause,s
+punct nsubj,unknown_chunk,vs
+conj advmod advmod punct ccomp nsubj obj advmod neg xcomp ccomp,adverbial_clause,sov
+punct advcl nsubj,subordinate_clause,vs
+ccomp advmod xcomp obj,adverbial_clause,v
+punct advcl nsubj advmod obj advmod,subordinate_clause,vso
+ccomp,complement_clause,v
+advmod root nsubj,adverbial_clause,ps
+case det amod obl,prepositional_phrase,v
+case det obl nsubj advmod acl:relcl obj,prepositional_phrase,osv
+cc conj nsubj advmod,adverbial_clause,vs
+cc conj advmod,adverbial_clause,v
+case det obl punct advmod parataxis nsubj,prepositional_phrase,ovs
+cc conj parataxis advmod obj nsubj aux,adverbial_clause,sv
+acl:relcl obj,unknown_chunk,v
+punct nsubj advmod,adverbial_clause,vs
+case obl aux,prepositional_phrase,sv
+acl:relcl punct cc nsubj parataxis advmod cc parataxis case obl case det amod obl mark nsubj advmod advmod,prepositional_phrase,sov
+ccomp case det obl,prepositional_phrase,v
+case obl X,prepositional_phrase,v
+advmod nsubj relcl case det nmod obj root,prepositional_phrase,sp
+mark det nsubj ccomp xcomp,subordinate_clause,sv
+case det nmod advmod obj advmod advmod amod nsubj aux,prepositional_phrase,osv
+conj cc advmod advmod advmod obj aux,adverbial_clause,v
+conj advmod parataxis attr nsubj parataxis det amod obj,adverbial_clause,svo
+mark nsubj parataxis obj nsubj mark advmod det attr appos,subordinate_clause,sov
+ccomp mark nsubj advmod xcomp,subordinate_clause,sv
+ccomp case nmod det det obl xcomp aux nsubj parataxis advmod,prepositional_phrase,osv
+case det obl det nmod X X X X X,prepositional_phrase,unknown
+advmod root obj amod obj,adverbial_clause,p
+punct cc nsubj ref,unknown_chunk,vs
+case det obl acl:relcl ref,prepositional_phrase,v
+conj det iobj amod obj,noun_phrase,v
+cc conj punct mark nsubj advmod advcl,subordinate_clause,sv
+mark nsubj advmod,subordinate_clause,vs
+ccomp obl case det obl obl case amod obl aux xcom aux,prepositional_phrase,v
+root nsubj advmod advcl obl det,subordinate_clause,pso
+case conj amod nsubj obl advcl conj case acl obl amod,prepositional_phrase,sov
+case conj conj amod X X X,prepositional_phrase,v
+advmod root nsubj obl amod pobj,adverbial_clause,pso
+cc conj advmod obl amod pobj,adverbial_clause,v
+mark nsubj advcl advmod obl pobj,subordinate_clause,svo
+acl:relcl nsubj acl det obj obl det pobj obl det pobj,noun_phrase,svo
+cc obj det nsubj advmod advmod root,adverbial_clause,sp
+case det compound obl mark nsubj advcl,prepositional_phrase,ovs
+mark ccomp det cop obj nsubj det nmod appos aux xcomp,subordinate_clause,sv
+cc conj poss amod obj X X,noun_phrase,unknown
+cc advmod root nsubj iobj det amod obj obj nsubj,adverbial_clause,pso
+acl:relcl cc,unknown_chunk,v
+conj iobj obl pobj,unknown_chunk,v
+cc conj advmod,adverbial_clause,v
+case det obl,prepositional_phrase,v
+ccomp nsubj obj iobj,complement_clause,vso
+ccomp det obl,noun_phrase,v
+cc iobj conj obj nsubj obj advmod xcomp,adverbial_clause,osv
+ccomp,complement_clause,v
+nsubj root,main_clause,sp
+case det obl mark nsubj iobj ccomp,prepositional_phrase,osv
+cc conj nsubj cop advmod,adverbial_clause,sv
+case mark nsubj neg advmod aux obl,prepositional_phrase,svo
+mark nsubj advmod advcl,subordinate_clause,s
+mark nsubj aux amod nmod:poss obl acl det obj,subordinate_clause,sov
+cc conj mark obj aux root X X,subordinate_clause,p
+advmod root nsubj det obj,adverbial_clause,pso
+amod voc punct root nsubj obj det nsubj cop,noun_phrase,pso
+acl:relcl advmod acl case det amod pobj nsubj advmod nsubj neg advmod,prepositional_phrase,sv
+conj obj,unknown_chunk,v
+punct advmod nsubj,adverbial_clause,vs
+conj attr det nmod:poss compound appos aux advmod,adverbial_clause,v
+conj obl nmod:poss pobj cc nsubj acl:relcl obl case nsubj cc conj advmod obj aux acl,prepositional_phrase,osv
+punct punct det nmod:poss compound nsubj,noun_phrase,vs
+conj obl det amod nmod:poss amod obj,noun_phrase,v
+advcl advmod punct root nsubj,subordinate_clause,ps
+punct ccomp nsubj ccomp det attr advmod,adverbial_clause,sv
+punct cc obl det pobj conj nsubj acomp acomp acomp xcomp,noun_phrase,ovs
+advmod nsubj root amod obl nsubj,adverbial_clause,spo
+conj advmod xcomp,adverbial_clause,v
+case det amod obl,prepositional_phrase,v
+mark det nsubj advmod advcl obj nsubj obj,subordinate_clause,vso
+acl:relcl mark nsubj advcl advmod advmod xcomp X X X,subordinate_clause,sv
+advmod root det nummod nsubj obl pobj cc advmod,adverbial_clause,pso
+conj nsubj det appos obl det pobj X,noun_phrase,vso
+advmod root aux det nsubj advmod,adverbial_clause,ps
+cc conj,unknown_chunk,v
+mark det nsubj nsubj,subordinate_clause,vs
+case det obl acl:relcl obj parataxis xcomp X X X,prepositional_phrase,v
+mark det nsubj root obl,subordinate_clause,spo
+case,prepositional_phrase,unknown
+voc amod nsubj root acomp advmod X,adverbial_clause,sp
+advmod root nsubj,adverbial_clause,ps
+advmod det obj punct root nsubj,adverbial_clause,ops
+punct ccomp nsubj,complement_clause,vs
+ccomp case det obl,prepositional_phrase,v
+punct ref aux acl det obj,noun_phrase,v
+case det amod obl punct,prepositional_phrase,v
+cc det det nsubj conj obj advmod,adverbial_clause,svo
+case det obl nsubj advcl,prepositional_phrase,osv
+advmod punct root nsubj,adverbial_clause,ps
+punct ccomp obj xcomp attr advmod,adverbial_clause,v
+punct conj nsubj,unknown_chunk,vs
+punct advmod,adverbial_clause,v
+amod voc root nsubj advmod,adverbial_clause,ps
+ccomp case obl advmod xcomp advcl det nsubj advcl amod obj xcomp nsubj,prepositional_phrase,vso
+conj acomp cc conj cc advmod obj,adverbial_clause,v
+case obl nsubj,prepositional_phrase,vos
+conj X X X X X,unknown_chunk,unknown
+discourse root det nsubj mark advmod case amod obl ccomp det nsubj acomp,prepositional_phrase,pso
+mark advmod det nsubj advmod acomp conj mark nsubj advmod aux,subordinate_clause,sv
+ccomp X X X,complement_clause,v
+case det obl aux nsubj advmod root,prepositional_phrase,osp
+ccomp nsubj attr ccomp nsubj,complement_clause,sv
+acl:relcl aux det obj,noun_phrase,v
+case det amod obl obl case det amod nsubj acl:relcl aux X,prepositional_phrase,osv
+amod vocative root det nsubj,noun_phrase,ps
+case det obl advmod parataxis obj,prepositional_phrase,v
+mark iobj nsubj,subordinate_clause,os
+ccomp case obj parataxis obj nsubj,prepositional_phrase,ovs
+ccomp parataxis nsubj nsubj,complement_clause,vs
+ccomp det det amod attr,noun_phrase,v
+case det obl,prepositional_phrase,v
+cc conj det attr amod cc conj attr,noun_phrase,v
+cc case det obl det nmod compound advmod amod parataxis,prepositional_phrase,v
+mark nsubj ref case obl,prepositional_phrase,sv
+acl:relcl case obl,prepositional_phrase,v
+mark nsubj ccomp case det obl X X X X X X,prepositional_phrase,sov
+cc advmod root obl det obl,adverbial_clause,p
+mark xcomp advmod advmod advmod obj obl pobj,subordinate_clause,v
+advmod mark nsubj advcl xcomp,subordinate_clause,sv
+case nmod obj mark root nsubj advmod,prepositional_phrase,ops
+mark nsubj det appos det amod obj aux,subordinate_clause,sov
+ccomp case det amod nmod amod pobj advmod mark nsubj iobj advmod xcomp,prepositional_phrase,os
+ccomp case det pobj nsubj advmod aux,prepositional_phrase,osv
+conj X,unknown_chunk,v
+cc det nsubj det nsubj advmod nsubj det advmod acomp aux,adverbial_clause,sv
+ccomp punct aux nsubj obj det obj nmod:poss aux root,noun_phrase,sop
+mark det nsubj aux advcl punct cc det nsubj case det nmod det obj conj case det nmod punct,prepositional_phrase,sov
+cc det nsubj root advmod case det amod obl cc conj det obj case advmod cc conj amod obj,prepositional_phrase,spo
+punct ccomp nsubj advmod obj advcl,subordinate_clause,sov
+mark xcomp,subordinate_clause,unknown
+advmod root obj det nsubj advmod xcomp,adverbial_clause,pos
+cc conj,unknown_chunk,v
+amod vocative advmod aux nsubj root det amod obj xcomp,adverbial_clause,spo
+mark nsubj,subordinate_clause,vs
+cc conj ref obl det case obj aux ccomp mark xcomp X X,prepositional_phrase,v
+advmod root nsubj advmod,adverbial_clause,ps
+case xcomp advmod,prepositional_phrase,v
+mark nsubj advmod obl,subordinate_clause,vso
+case ccomp punct,prepositional_phrase,v
+mark nsubj neg advmod obl,subordinate_clause,vso
+case advcl aux,prepositional_phrase,v
+punct mark nsubj advmod advcl,subordinate_clause,vs
+mark det nsubj obl det amod case advmod obj ccomp aux,prepositional_phrase,sov
+mark nsubj advcl,subordinate_clause,sv
+obj iobj advmod root xcomp xcomp,adverbial_clause,p
+punct mark nsubj obj neg xcomp advcl,subordinate_clause,sov
+punct nsubj parataxis advmod amod obj advmod,adverbial_clause,svo
+case xcomp,prepositional_phrase,v
+voc root det obj xcomp nsubj,noun_phrase,pos
+cc conj,unknown_chunk,v
+ccomp case acomp,prepositional_phrase,v
+mark xcomp mark obj obj iobj nsubj aux,subordinate_clause,osv
+acl:relcl mark det obj,subordinate_clause,v
+mark xcomp case det amod obl,prepositional_phrase,v
+case det amod obl nsubj advmod advmod aux,prepositional_phrase,osv
+acl:relcl X X X,unknown_chunk,v
+advmod root det nsubj,adverbial_clause,ps
+case obl advcl,prepositional_phrase,v
+cc conj,unknown_chunk,v
+vocative root acomp,main_clause,p
+mark advmod aux advcl nsubj case xcomp mark xcomp X X,prepositional_phrase,sv
+advmod root nsubj advmod obl punct det obj nsubj,adverbial_clause,pso
+conj cc advmod obj poss acl,adverbial_clause,v
+conj,unknown_chunk,v
+advmod voc punct root nsubj,adverbial_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp expl acomp,complement_clause,v
+mark xcomp punct advcl obl pobj aux nsubj,subordinate_clause,ovs
+ccomp nsubj,complement_clause,vs
+conj aux obj det obl det amod nmod,noun_phrase,v
+punct ref obj advmod,adverbial_clause,v
+ccomp aux,complement_clause,v
+vocative punct root det nsubj,noun_phrase,ps
+punct nmod:poss obj ccomp nsubj advmod obj,adverbial_clause,osv
+mark xcomp mark det amod obj obl det pobj,subordinate_clause,v
+mark obj mark advcl,subordinate_clause,v
+mark det obj ref nsubj aux,subordinate_clause,osv
+acl:relcl punct mark nsubj ref obl pobj aux ccomp,subordinate_clause,sov
+advmod nsubj root mark nsubj neg xcomp,subordinate_clause,sp
+ccomp punct,complement_clause,v
+mark nsubj attr advcl nsubj obj det,subordinate_clause,svo
+mark obl xcomp,subordinate_clause,v
+ccomp mark det nsubj,subordinate_clause,vs
+case xcomp advcl,prepositional_phrase,unknown
+advmod advmod root nsubj iobj compound xcomp,adverbial_clause,pso
+mark nsubj obj,subordinate_clause,vso
+ccomp ref nsubj aux,complement_clause,sv
+mark obj acl:relcl,subordinate_clause,v
+voc punct root nsubj,main_clause,ps
+punct advmod,adverbial_clause,v
+ccomp det nsubj advcl nsubj iobj advcl,subordinate_clause,sov
+punct advcl nsubj,subordinate_clause,vs
+ccomp advmod xcomp obj,adverbial_clause,v
+mark xcomp,subordinate_clause,v
+nsubj aux obj advmod,adverbial_clause,sov
+ccomp punct root det nsubj,noun_phrase,ps
+cc conj obj,unknown_chunk,v
+case det obl cc conj advmod,prepositional_phrase,v
+case det obl,prepositional_phrase,unknown
+cc det nsubj case det nmod root advmod,prepositional_phrase,sp
+mark xcomp,subordinate_clause,v
+mark det nsubj case det nmod advcl,prepositional_phrase,sv
+case obj xcompl,prepositional_phrase,v
+advmod root det nsubj cc det conj punct det amod obj obl det pobj,adverbial_clause,pso
+conj,unknown_chunk,unknown
+cc det nsubj root,noun_phrase,sp
+case det obl,prepositional_phrase,v
+punct,unknown_chunk,unknown
+cc mark advmod mark nsubj obj advcl advmod,subordinate_clause,sov
+conj nsubj det obj compound:prt xcomp,noun_phrase,so
+cc root obl pobj det amod pobj nsubj obl pobj acl X,noun_phrase,pos
+root obj punct parataxis,main_clause,p
+case obl advmod obl,prepositional_phrase,v
+punct advcl nsubj aux neg,subordinate_clause,sv
+ccomp case amod obl,prepositional_phrase,v
+punct nsubj aux parataxis det obj xcomp,noun_phrase,svo
+punct advcl nsubj advmod advmod,subordinate_clause,vs
+ccomp aux,complement_clause,v
+case det obl root det nsubj compound:prt,prepositional_phrase,ops
+case det obl cc case obl det amod conj case nmod cc case conj,prepositional_phrase,unknown
+cc mark advmod mark nsubj advcl,subordinate_clause,sv
+case det obl,prepositional_phrase,v
+cc det nsubj obj conj xcomp advmod root nsubj compound:prt,adverbial_clause,sop
+mark xcomp X,subordinate_clause,v
+root parataxis amod voc det appos,noun_phrase,p
+cc conj obj advmod X X X,adverbial_clause,v
+cc det nsubj root obl,noun_phrase,spo
+case,prepositional_phrase,v
+voc punct root advmod det obj,adverbial_clause,p
+punct advcl mark nsubj advmod aux ccomp,subordinate_clause,sv
+punct det obj compound:prt aux xcomp,noun_phrase,v
+case det obl punct advmod det det obj,prepositional_phrase,v
+case det nmod aux advmod conj mark nsubj obj neg obj,prepositional_phrase,sov
+ccomp,complement_clause,unknown
+voc root nsubj nsubj,main_clause,ps
+ccomp neg attr advmod det nsubj nsubj,adverbial_clause,vs
+conj attr cc neg attr,unknown_chunk,v
+cc case det obj det nmod,prepositional_phrase,v
+mark conj advmod conj nsubj nmod:poss obj obl pobj advcl nsubj advmod,subordinate_clause,sov
+ccomp xcomp X X X X X X,infinitive_clause,v
+mark root nsubj det obj,subordinate_clause,pso
+case det obl,prepositional_phrase,v
+cc conj obj advmod advmod advmod advmod,adverbial_clause,v
+mark nsubj neg advcl cc,subordinate_clause,sv
+conj det obj,noun_phrase,v
+cc conj obj advmod,adverbial_clause,v
+cc conj obj obl case cc conj obl det obj X,prepositional_phrase,v
+vocative advmod root nsubj acomp,adverbial_clause,ps
+mark nsubj advmod ccomp X,subordinate_clause,sv
+advmod root iobj neg advmod det obj punct obj acl nsubj neg,adverbial_clause,pos
+amod voc punct root det nsubj,noun_phrase,ps
+punct nsubj aux ccomp iobj obj advmod xcomp,adverbial_clause,sov
+mark nsubj iobj det obj aux advcl,subordinate_clause,sov
+advmod root nsubj det det obj advmod,adverbial_clause,pso
+mark det nsubj acl,subordinate_clause,sv
+case det amod amod obl cc conj advmod advmod,prepositional_phrase,v
+case obl,prepositional_phrase,v
+cc mark nsubj advmod advcl,subordinate_clause,sv
+punct nsubj root det obj,noun_phrase,spo
+cc nmod:poss obj,unknown_chunk,v
+cc conj mark nsubj advmod,subordinate_clause,s
+ccomp punct cc nsubj conj det attr obl pobj,noun_phrase,svo
+nsubj root cc conj,main_clause,sp
+voc punct nsubj root advmod,adverbial_clause,sp
+punct nsubj conj advmod,adverbial_clause,sv
+cc conj advmod,adverbial_clause,v
+cc conj det obj,noun_phrase,v
+discourse vocative punct expl root det nsubj acomp advmod advmod advmod,adverbial_clause,ps
+cc mark nsubj obj advcl nsubj root obj,subordinate_clause,sop
+cc conj X,unknown_chunk,v
+voc punct advmod parataxis obl,adverbial_clause,v
+punct nsubj ccomp iobj,complement_clause,svo
+punct obl nmod:poss obj punct root nsubj,main_clause,ops
+punct advmod,adverbial_clause,v
+ccomp nsubj obj advmod xcomp,adverbial_clause,sov
+punct amod obl,noun_phrase,sv
+acl:relcl advmod acl,adverbial_clause,v
+advmod advmod root nsubj det amod attr nsubj advmod,adverbial_clause,ps
+acl:relcl punct cc nsubj advmod det amod obj xcomp conj nsubj conj xcomp xcomp,adverbial_clause,sov
+punct advcl advmod advcl nsubj,subordinate_clause,vs
+cc nsubj obj advmod conj punct nsubj root obj xcomp obl,adverbial_clause,sop
+case,prepositional_phrase,v
+case amod mark nsubj advcl cop advmod root,prepositional_phrase,sp
+case det obl case det nmod mark nsubj advcl advmod obj advmod acl X,prepositional_phrase,osv
+cc advmod advmod root acomp,adverbial_clause,p
+cc conj nmod:poss attr,unknown_chunk,v
+punct advmod nsubj advmod parataxis,adverbial_clause,vs
+mark nmod:poss nsubj,subordinate_clause,vs
+ccomp det amod obj cop obl det pobj,noun_phrase,v
+cc nsubj root,main_clause,sp
+punct nsubj parataxis obj advmod xcomp,adverbial_clause,svo
+mark nsubj obj ccomp,subordinate_clause,sov
+punct mark amod nsubj aux iobj,subordinate_clause,svo
+case amod nmod advcl,prepositional_phrase,unknown
+advmod root obj det nsubj case det obl cc conj,prepositional_phrase,pos
+compound vocative iobj compound iobj det appos,noun_phrase,v
+case obl obj,prepositional_phrase,v
+case det obl advmod advmod aux iobj det amod nsubj parataxis det amod nsubj,prepositional_phrase,osv
+case obl acl nsubj parataxis advmod,prepositional_phrase,os
+case det obl nsubj parataxis,prepositional_phrase,vos
+case amod det obl,prepositional_phrase,v
+cc root nsubj advmod,adverbial_clause,ps
+case det amod obl nsubj aux,prepositional_phrase,osv
+ccomp case det obl cc,prepositional_phrase,v
+conj det det xcomp,noun_phrase,v
+case det obl xcomp X X X X X,prepositional_phrase,v
+cc mark advmod mark nsubj det advcl,subordinate_clause,sv
+punct advmod root nsubj obj advmod cc conj iobj obj advmod advmod nsubj advcl aux,subordinate_clause,pso
+cc root amod attr,noun_phrase,p
+cc conj obj nsubj advmod aux acl,adverbial_clause,osv
+punct mark,subordinate_clause,v
+mark advcl expl nsubj ccomp,subordinate_clause,sv
+cc advmod nsubj advmod ccomp aux,adverbial_clause,sv
+mark nsubj root obj advmod,subordinate_clause,spo
+ccomp advmod obj nsubj,adverbial_clause,vos
+acl:relcl,unknown_chunk,v
+advmod root det nsubj,adverbial_clause,ps
+case det obl case det nmod,prepositional_phrase,unknown
+vocative compound punct nsubj root advmod attr obl det pobj obl det amod pobj aux nsubj advmod obj,adverbial_clause,spo
+ccomp ref nsubj advmod obl acl,adverbial_clause,sov
+cc case mark nsubj advmod advcl,prepositional_phrase,sv
+ccomp nsubj obj advmod obj,adverbial_clause,vso
+ccomp advmod case obl advcl nsubj advmod ccomp advmod root nsubj obj,prepositional_phrase,osp
+case det obl case obl obj advmod ccomp det obj mark amod relcl case det obl advmod,prepositional_phrase,v
+case aux:pass acl:relcl iobj,prepositional_phrase,v
+mark case obl,prepositional_phrase,sv
+acl:relcl X,unknown_chunk,v
+cc nsubj root aux advmod,adverbial_clause,sp
+cc conj,unknown_chunk,v
+case det obl cc conj obj,prepositional_phrase,v
+cc det nsubj,noun_phrase,vs
+conj obj advmod mark xcomp cc det nsubj,subordinate_clause,ovs
+conj neg advmod advmod obj cc conj cc conj obj case det obl X X,prepositional_phrase,v
+cc det nsubj punct nsubj obj det xcomp acl,noun_phrase,sov
+punct root obj advmod advmod advmod,adverbial_clause,p
+mark mark xcomp,subordinate_clause,v
+case nmod:poss obl punct mark case advcl mark nsubj advmod advmod advmod advmod advmod,prepositional_phrase,ovs
+ccomp mark nsubj advmod advcl,subordinate_clause,sv
+cc advmod nsubj root advmod advmod,adverbial_clause,sp
+case det obl case obl punct det obj,prepositional_phrase,v
+cc det obj punct,noun_phrase,v
+conj case det nmod:poss obl advmod,prepositional_phrase,v
+cc det obj obj det obj case det obl cc det obj case det obl,prepositional_phrase,v
+cc case obl punct mark nsubj amod obj advcl xcomp,prepositional_phrase,osv
+case det obl nsubj case xcomp advcl,prepositional_phrase,osv
+cc det obj appos ccomp ref det advmod acomp acl:relcl root nsubj,adverbial_clause,ops
+ccomp obl det obj xcomp X X X,noun_phrase,v
+cc advmod root advmod det nsubj appos,adverbial_clause,ps
+cc conj case nmod punct cc det nsubj conj,prepositional_phrase,sv
+case det obl xcomp,prepositional_phrase,v
+case amod obl,prepositional_phrase,v
+case nmod cc case nmod punct,prepositional_phrase,unknown
+cc root aux,main_clause,p
+ccomp obl det obl obl det amod obl nsubj parataxis obl obl,noun_phrase,ovs
+mark xcomp advmod advmod,subordinate_clause,v
+mark nsubj nsubj advmod,subordinate_clause,s
+acl:relcl ccomp amod obj xcomp,noun_phrase,v
+cc conj advmod obl det amod obl obl obl X,adverbial_clause,v
+cc root nsubj det obj,noun_phrase,pso
+relcl case acl:relcl,prepositional_phrase,v
+punct nsubj,unknown_chunk,vs
+conj advmod xcomp obj punct ccomp nsubj advmod csubj,adverbial_clause,os
+case obl acl:relcl nsubj advmod xcomp csubj,prepositional_phrase,osv
+punct conj,unknown_chunk,v
+case nmod advmod csubj advmod xcomp det amod obj advmod obl pobj,prepositional_phrase,svo
+mark advmod det nsubj:pass advcl aux:pass,subordinate_clause,sv
+punct root nsubj obj det det appos nmod det obl,noun_phrase,pso
+punct ref advmod aux aux,adverbial_clause,sv
+acl:relcl punct nsubj neg aux,unknown_chunk,sv
+conj advmod obj,adverbial_clause,v
+punct nsubj aux obj det,noun_phrase,svo
+conj,unknown_chunk,v
+nsubj root det attr,noun_phrase,sp
+punct nsubj amod conj,noun_phrase,s
+advmod root det obj,adverbial_clause,p
+mark advcl case obl cc conj mark advmod advmod ccomp det nsubj advmod obj,prepositional_phrase,osv
+ccomp ccomp nsubj,complement_clause,vs
+case obl obj,prepositional_phrase,v
+ccomp case obl,prepositional_phrase,v
+punct cc,unknown_chunk,v
+ccomp nsubj,complement_clause,vs
+ccomp,complement_clause,v
+cc nsubj,unknown_chunk,s
+conj amod obj compound:prt cc nsubj det conj obj,noun_phrase,osv
+case obl cc conj det case det obl,prepositional_phrase,v
+case obl case det obl,prepositional_phrase,v
+conj case amod obl case obl nsubj det det obj advmod root X X,prepositional_phrase,osp
+cc det nsubj nsubj acl obj,noun_phrase,sv
+cc root,main_clause,p
+mark nsubj advmod ccomp conj mark nsubj obj xcomp punct advmod advmod nummod nsubj mark advmod obj conj mark nsubj advcl X,subordinate_clause,sov
+advmod root neg attr,adverbial_clause,p
+ccomp nsubj,complement_clause,vs
+ccomp amod nmod acomp punct advmod advmod conj obl advmod advmod xcomp,adverbial_clause,v
+cc det nsubj root aux det obj advmod advmod,adverbial_clause,spo
+cc conj advmod,adverbial_clause,v
+root nsubj acomp,main_clause,ps
+prep pobj advcl amod obl mark xcomp advcl nsubj ccomp aux advmod advmod punct conj det nsubj,prepositional_phrase,osv
+punct advmod nsubj advcl,subordinate_clause,sv
+prep det pobj xcomp,prepositional_phrase,v
+prep det amod pobj prep det pobj cc conj det amod pobj ref nsubj,prepositional_phrase,ovs
+acl:relcl prep det pobj,prepositional_phrase,v
+case obl root det nsubj advmod cc conj obj xcomp,prepositional_phrase,ops
+punct mark nsubj det amod attr advcl,subordinate_clause,sv
+cc advcl det nsubj advcl obl det pobj xcomplement,subordinate_clause,sov
+cc conj obl det amod pobj,noun_phrase,v
+punct advmod root nsubj mark nsubj det obj,subordinate_clause,pso
+ccomp,complement_clause,unknown
+advmod root det nsubj xcomp,adverbial_clause,ps
+punct advmod case obl obl,prepositional_phrase,v
+mark nsubj det obl aux advcl,subordinate_clause,sov
+cc mark advmod advmod nsubj advcl xcomp,subordinate_clause,sv
+cc advmod conj punct advmod root nsubj det obj,adverbial_clause,pso
+mark advmod amod mark nsubj acl det obj aux xcomp,subordinate_clause,sov
+case obl advmod root det amod nsubj,prepositional_phrase,ops
+punct relcl acl advmod advmod,adverbial_clause,v
+mark nsubj nummod obj amod ccomp advmod nsubj advmod aux xcomp punct,subordinate_clause,sov
+cc conj attr nsubj,unknown_chunk,vs
+case obl advmod conj nsubj obj amod det amod obj,prepositional_phrase,ovs
+punct cc conj nsubj det obj xcomp cc conj advmod advmod,adverbial_clause,sov
+case ccomp aux,prepositional_phrase,v
+punct cc advmod det nsubj,adverbial_clause,vs
+case det obl acl det obj,prepositional_phrase,v
+conj case det obl xcomp,prepositional_phrase,v
+punct nsubj conj attr acomp,unknown_chunk,sv
+punct conj,unknown_chunk,v
+cc conj,unknown_chunk,unknown
+cc mark nsubj conj det amod obj advmod xcomp,subordinate_clause,sv
+cc conj neg advmod advmod nsubj root det obj prt X,adverbial_clause,spo
+case det obl nsubj advmod advcl advmod root advmod det amod obj,prepositional_phrase,spo
+cc conj acomp obl det amod pobj,noun_phrase,v
+cc conj obj xcomp obj,infinitive_clause,v
+case obl,prepositional_phrase,v
+cc conj obl det amod pobj obl det pobj X X X,noun_phrase,v
+cc mark advmod mark nsubj advmod advcl,subordinate_clause,sv
+punct advmod advcl det det nsubj nmod amod obj,subordinate_clause,vso
+punct mark mark det det nsubj obl det det pobj advmod ccomp xcomp,subordinate_clause,sov
+punct cc root,main_clause,p
+case det obl case det obl case det obl,prepositional_phrase,unknown
+cc mark advmod mark det advcl advmod root det det nsubj:pass aux:pass obl det det amod,subordinate_clause,pso
+case ref nsubj xcomp acl:relcl X,prepositional_phrase,sv
+advmod nsubj advcl obl pobj obl det pobj,subordinate_clause,svo
+punct advmod advcl det amod nsubj obl pobj,subordinate_clause,vso
+punct mark nsubj root,subordinate_clause,sp
+ccomp nsubj advcl cc advmod conj,subordinate_clause,sv
+case obl advmod advmod nsubj root,prepositional_phrase,osp
+case xcomp advcl advmod,prepositional_phrase,v
+cc conj det obj,noun_phrase,v
+case det amod pobj cc obj ref nsubj case aux acl,prepositional_phrase,osv
+punct mark nsubj obj aux,subordinate_clause,sov
+ccomp case det amod pobj,prepositional_phrase,v
+case det amod pobj,prepositional_phrase,unknown
+cc advmod pobj det advmod obj nsubj appos det attr advmod,adverbial_clause,ovs
+case pobj prep det amod pobj acl:relcl poss nsubj prep root xcomp,prepositional_phrase,osp
+prep det det pobj,prepositional_phrase,sv
+acl:relcl advmod pobj acl xcomp X,adverbial_clause,v
+case det obl root acomp det nsubj cc det conj advcl nsubj advmod,prepositional_phrase,ops
+ccomp mark nsubj det compound obj neg,subordinate_clause,so
+ccomp xcomp advcl mark det det compound obj advcl advmod amod obj,subordinate_clause,v
+cc conj obj advmod obl mark advmod,subordinate_clause,v
+conj det obj ccomp X X X,noun_phrase,v
+cc det nsubj advmod root advmod obl case det obl nsubj advmod advmod acl:relcl,prepositional_phrase,spo
+cc conj,unknown_chunk,v
+voc voc punct nsubj aux advmod amod obj root obj iobj det nsubj,adverbial_clause,sop
+ccomp advmod amod obj punct obj nsubj obj,adverbial_clause,ovs
+case obl aux,prepositional_phrase,v
+ccomp case det advmod amod obl advcl,prepositional_phrase,v
+case det amod obl,prepositional_phrase,unknown
+voc punct root advmod xcomp,adverbial_clause,p
+punct advmod,adverbial_clause,v
+conj det amod nsubj advmod,adverbial_clause,vs
+punct nsubj obj advmod acl,adverbial_clause,sov
+det nsubj root xcomp,noun_phrase,sp
+case pobj pobj relcl aux obj acl,prepositional_phrase,v
+cc conj nsubj acl nsubj parataxis advmod,adverbial_clause,sv
+case det amod amod nmod pobj,prepositional_phrase,v
+conj mark nsubj aux,subordinate_clause,sv
+ccomp conj nsubj aux advmod advmod,adverbial_clause,sv
+ccomp xcomp advcl expl iobj obj nsubj,subordinate_clause,ovs
+ccomp X X X,complement_clause,v
+advmod root nsubj advmod advmod advmod xcomp,adverbial_clause,ps
+case amod obl case det amod obl mark nsubj obj,prepositional_phrase,ovs
+ccomp aux advmod,adverbial_clause,v
+mark nsubj advmod aux advcl,subordinate_clause,sv
+mark iobj advmod ccomp mark nsubj advmod advcl,subordinate_clause,ovs
+case amod obl advmod conj nsubj advmod xcomp X X X,prepositional_phrase,osv
+mark nsubj case det nmod advcl punct mark advcl nsubj advmod advmod,prepositional_phrase,sv
+case det conj cc conj obj det obj,prepositional_phrase,sv
+relcl det nmod acl aux xcomp cc root mark nsubj advmod,subordinate_clause,ps
+ccomp advmod advmod advmod,adverbial_clause,v
+conj mark mark nsubj aux xcomp obj,subordinate_clause,sv
+case det amod obl,prepositional_phrase,v
+mark det nsubj advmod conj mark nsubj obj advmod aux ccomp X X X X,subordinate_clause,sov
+cc advcl advmod advcl det nsubj advcl mark nsubj advmod,subordinate_clause,sv
+ccomp xcomp,infinitive_clause,v
+mark root expl,subordinate_clause,p
+case amod obl mark nsubj advmod advcl,prepositional_phrase,os
+mark nsubj obj advmod,subordinate_clause,so
+ccomp xcomp case det obl X X,prepositional_phrase,v
+cc root,main_clause,p
+case det obl xcomp,prepositional_phrase,unknown
+discourse advmod punct nsubj root obj xcomp obl det pobj,adverbial_clause,spo
+acl:relcl nsubj aux relcl,unknown_chunk,sv
+punct nsubj aux iobj conj det amod,noun_phrase,sov
+cc det conj obj acl:relcl nsubj aux acl:relcl punct,noun_phrase,osv
+cc nsubj conj det attr obl det pobj,noun_phrase,svo
+advmod nsubj aux root,adverbial_clause,sp
+punct mark advmod mark nsubj obl obl ccomp punct,subordinate_clause,sov
+mark nsubj advmod advmod advmod,subordinate_clause,sv
+cc advmod advmod advmod ccomp,adverbial_clause,v
+mark nsubj obl aux advcl,subordinate_clause,sov
+mark nsubj advmod root,subordinate_clause,sp
+mark nsubj,subordinate_clause,vs
+ccomp advmod advmod advmod obl det pobj,adverbial_clause,v
+punct mark nsubj advmod advmod advmod obj parataxis,subordinate_clause,sov
+mark nsubj advcl,subordinate_clause,s
+root case obl nsubj obj advmod advmod punct advcl nsubj obj det det obl advcl aux,prepositional_phrase,pos
+cc conj case det det obl punct advcl mark nsubj aux det attr,prepositional_phrase,osv
+cc det attr,noun_phrase,v
+ccomp,complement_clause,v
+advmod root iobj obj,adverbial_clause,p
+mark nsubj ccomp,subordinate_clause,sv
+punct mark nsubj advcl aux obl,subordinate_clause,svo
+case case xcomp,prepositional_phrase,v
+cc nmod:poss obj cc advcl advmod xcomp,subordinate_clause,v
+mark nsubj obj obj xcomp advcl,subordinate_clause,sov
+obl det case aux det nsubj obl case advmod root cc obl det case conj obl nsubj xcomp obl det,prepositional_phrase,osp
+case advmod ccomp det nsubj obl det,prepositional_phrase,vso
+case advmod acl X X,prepositional_phrase,v
+cc mark nsubj advcl xcomp,subordinate_clause,sv
+punct mark root nsubj,subordinate_clause,ps
+mark obj mark nsubj det obj obl det pobj,subordinate_clause,ovs
+ccomp,complement_clause,v
+discourse parataxis punct conj punct nsubj root iobj det amod obj xcomp,noun_phrase,spo
+cc det amod obj punct obj nsubj advmod xcomp ref,adverbial_clause,osv
+punct advcl,subordinate_clause,v
+mark nsubj ccomp advmod obj acl det obj xcomp,subordinate_clause,sov
+ccomp punct,complement_clause,v
+mark nsubj parataxis amod obj,subordinate_clause,sv
+mark det det obj advmod advmod xcomp,subordinate_clause,unknown
+voc voc punct root nsubj,main_clause,ps
+punct mark nsubj obj obj,subordinate_clause,sov
+punct parataxis amod nsubj mark nsubj acl advmod advmod obj,subordinate_clause,sv
+case nmod:poss obl xcomp,prepositional_phrase,v
+punct advmod obj cc conj parataxis amod obj cc amod obj punct,adverbial_clause,v
+cc parataxis obj xcomp,infinitive_clause,v
+cc advmod mark nsubj det advcl,subordinate_clause,vs
+case det obl nsubj root iobj advmod advmod advmod advmod X X,prepositional_phrase,osp
+voc punct root det nsubj,noun_phrase,ps
+punct det amod obj ref nsubj det poss obj,noun_phrase,osv
+case obl aux acl,prepositional_phrase,v
+mark acl obj amod obj xcomp,subordinate_clause,v
+punct nsubj conj neg attr,unknown_chunk,sv
+mark nsubj advcl acomp,subordinate_clause,sv
+mark advmod det nsubj obl det pobj advcl advmod det amod obj obl det pobj,subordinate_clause,sov
+mark nsubj advmod aux advcl obl det pobj,subordinate_clause,svo
+cc advmod nsubj advcl,subordinate_clause,sv
+mark nsubj advmod aux advcl,subordinate_clause,sv
+punct cc nsubj root det amod attr,noun_phrase,sp
+acl:relcl nsubj acl,unknown_chunk,s
+case det obl root xcomp advmod,prepositional_phrase,p
+mark xcomp cc conj advmod mark det nsubj aux,subordinate_clause,sv
+ccomp cc conj obj advmod xcomp,adverbial_clause,v
+mark nsubj aux,subordinate_clause,sv
+ccomp case det obl obj nsubj aux,prepositional_phrase,osv
+acl:relcl X X X X,unknown_chunk,v
+advmod nsubj root neg xcomp punct advcl nsubj advmod amod advcl aux,subordinate_clause,sp
+cc conj,unknown_chunk,v
+case amod det nmod xcomp,prepositional_phrase,v
+punct ref,unknown_chunk,v
+case det nmod acl:relcl punct advmod nsubj obj advcl xcomp det obj,prepositional_phrase,sov
+case det amod obl,prepositional_phrase,unknown
+cc root obj det obl,noun_phrase,p
+case obl xcomp obj advmod acl aux aux,prepositional_phrase,v
+cc conj nsubj advmod advmod obj amod acl advmod advmod amod obl,adverbial_clause,sov
+cc obl det pobj advmod obl det pobj advmod root nsubj appos xcomp obl det pobj X,adverbial_clause,ops
+mark det nsubj cc conj punct nsubj obl det obl acl:relcl xcomp punct root det obj,subordinate_clause,sop
+punct nsubj,unknown_chunk,vs
+conj advmod xcomp,adverbial_clause,v
+cc conj,unknown_chunk,v
+punct advmod det advmod nsubj,adverbial_clause,vs
+cc conj conj det attr obl det obl,noun_phrase,unknown
+cc nsubj parataxis neg acomp advmod root xcomp obl pobj advcl nsubj advcl,subordinate_clause,spo
+mark nsubj ccomp obl det pobj X X,subordinate_clause,sov
+advmod advmod root nsubj det amod obj mark xcomp,subordinate_clause,pso
+punct cc det nsubj,noun_phrase,vs
+conj det obj nsubj,noun_phrase,vos
+case obl acl:relcl,prepositional_phrase,v
+root iobj,main_clause,p
+punct parataxis nsubj advmod punct advmod det nsubj parataxis xcomp advmod,adverbial_clause,sv
+punct parataxis nsubj,unknown_chunk,vs
+punct vocative punct det vocative,noun_phrase,v
+ccomp aux obj xcomp,infinitive_clause,v
+cc obj cc det obj,noun_phrase,unknown
+cc advmod nsubj root obj obl pobj,adverbial_clause,spo
+cc det conj appos punct advmod conj obj det iobj det ref advmod acl:relcl obl det pobj,adverbial_clause,v
+mark nsubj advcl det obj mark advcl nsubj,subordinate_clause,sov
+ccomp case obl mark nsubj advcl,prepositional_phrase,osv
+mark nsubj,subordinate_clause,s
+ccomp xcomp cc root advmod xcomp obj nsubj,adverbial_clause,pos
+acl:relcl advmod,adverbial_clause,v
+case det obl X X X X,prepositional_phrase,v
+cc root obl det amod obj,noun_phrase,p
+mark nsubj advmod advmod acomp advcl,subordinate_clause,sv
+mark nsubj neg acomp,subordinate_clause,vs
+ccomp obj,complement_clause,v
+nsubj ccomp advmod amod acomp,adverbial_clause,sv
+punct root nsubj,main_clause,ps
+punct mark,subordinate_clause,v
+case det obl advmod aux nsubj obl det pobj advmod,prepositional_phrase,osv
+ccomp aux:pass,complement_clause,v
+punct mark obj aux advmod det obj advcl,subordinate_clause,v
+cc root iobj nsubj amod obj advmod det det obl det appos,adverbial_clause,pos
+relcl det,noun_phrase,v
+case amod attr acl mark nsubj obj aux,prepositional_phrase,sv
+ccomp X X,complement_clause,v
+mark det amod nsubj nmod det obl advcl obj xcomp advmod advmod,subordinate_clause,sov
+mark amod obj acl xcomp root,subordinate_clause,p
+cc nsubj root aux mark xcomp advcl amod obl,subordinate_clause,spo
+cc det det obj nsubj advmod acl:relcl case obl,prepositional_phrase,os
+advmod root nsubj det iobj acomp obl det pobj,adverbial_clause,pso
+mark nsubj obj xcomp advcl,subordinate_clause,sov
+cc mark advmod advmod det nsubj advcl compound:prt aux,subordinate_clause,sv
+case det obl cc det nsubj conj compound:prt aux,prepositional_phrase,osv
+cc obj conj,unknown_chunk,v
+case det obl mark root obj det nsubj,prepositional_phrase,ops
+case amod nmod cc conj parataxis cop attr,prepositional_phrase,v
+cc conj nsubj parataxis,unknown_chunk,vs
+case det obl nsubj parataxis obl,prepositional_phrase,vso
+case obl det obl X X X X,prepositional_phrase,v
+advmod root nsubj acomp obl det pobj nsubj obj advmod,adverbial_clause,pso
+acl:relcl xcomp xcomp,infinitive_clause,v
+cc conj cc conj det compound compound obj acl:relcl cop acl:relcl obl amod obj,noun_phrase,v
+cc conj obl det pobj X X,noun_phrase,v
+cc mark advmod mark nsubj obl det pobj advcl advmod root nsubj,subordinate_clause,sop
+case obj mark nsubj det nsubj advmod acl xcomp nsubj advmod,prepositional_phrase,osv
+ccomp X,complement_clause,unknown
+root punct nsubj xcomp,infinitive_clause,ps
+case det obl punct conj det nsubj det obj advmod obj nmod:poss,prepositional_phrase,ovs
+case det obl case nmod cc conj punct obj nsubj advmod,prepositional_phrase,ovs
+ccomp case amod obl,prepositional_phrase,v
+punct mark nsubj aux advmod advcl,subordinate_clause,sv
+punct nsubj conj advmod compound:prt xcomp,adverbial_clause,s
+advmod nsubj aux,adverbial_clause,sv
+case advmod amod pobj advcl nsubj root advmod advmod xcomp obj,prepositional_phrase,spo
+cc conj case det obl,prepositional_phrase,v
+cc case det obl X,prepositional_phrase,unknown
+mark det nsubj root neg aux obl amod pobj advcl,subordinate_clause,spo
+conj aux obl amod pobj nmod:poss nmod,noun_phrase,v
+cc conj det amod pobj obj det nsubj amod xcomp,noun_phrase,osv
+conj cc det amod obj,noun_phrase,sv
+relcl nsubj,unknown_chunk,s
+relcl case xcomp obl det pobj obl det amod pobj iobj nsubj xcomp,prepositional_phrase,osv
+conj det amod obj nmod det amod pobj,noun_phrase,v
+cc conj advmod xcomp xcomp obj det amod nsubj xcomp,adverbial_clause,ovs
+ccomp X X X,complement_clause,v
+case det nmod obl advmod root nsubj det obj,prepositional_phrase,ops
+cc conj case obl X,prepositional_phrase,v
+cc det nsubj aux det amod obj root aux,noun_phrase,sop
+cc conj punct cc det nsubj conj det obj,noun_phrase,sv
+case det obl,prepositional_phrase,v
+cc nsubj root,main_clause,sp
+case advmod punct mark nsubj advmod obj aux,prepositional_phrase,sov
+mark xcomp case amod obl case,prepositional_phrase,v
+cc det nsubj root,noun_phrase,sp
+case obl cc conj obj obl pobj,prepositional_phrase,v
+cc conj obj obj advmod nsubj,adverbial_clause,ovs
+ccomp X,complement_clause,v
+cc nsubj root obj iobj det amod obj,noun_phrase,spo
+mark nsubj poss obj advcl,subordinate_clause,sv
+cc mark nsubj ccomp attr appos advmod,subordinate_clause,sv
+conj nsubj amod obj X X,noun_phrase,svo
+advmod advmod obl case root advmod,prepositional_phrase,p
+ccomp det nsubj advmod advmod,adverbial_clause,s
+mark nsubj nmod:poss obj,subordinate_clause,svo
+ccomp cc,complement_clause,v
+mark nsubj obl aux,subordinate_clause,sov
+ccomp obl det nmod:poss amod pobj,noun_phrase,v
+mark nsubj advmod advmod advmod obl aux obj,subordinate_clause,sov
+ccomp X X,complement_clause,v
+cc advmod,adverbial_clause,v
+mark nsubj obj advmod advcl xcomp,subordinate_clause,sov
+case nmod:poss obl punct root nsubj,prepositional_phrase,ops
+case det obl case nmod:poss obl X,prepositional_phrase,unknown
+cc nsubj root mark nsubj obj neg advmod aux,subordinate_clause,spo
+ccomp obj advmod nsubj,adverbial_clause,ovs
+ccomp,complement_clause,v
+voc voc punct root nsubj,main_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp iobj obj,complement_clause,v
+punct advmod advcl nsubj det obj,subordinate_clause,sv
+case nmod obl ccomp nsubj obj xcomp,prepositional_phrase,osv
+punct advmod nsubj ccomp det amod attr,adverbial_clause,sv
+case det nmod punct,prepositional_phrase,v
+cc conj xcomp,infinitive_clause,v
+case det obl case nmod cc case nmod cc case det amod nmod det nsubj,prepositional_phrase,ovs
+acl:relcl punct,unknown_chunk,v
+cc conj advmod obj det obj xcomp,adverbial_clause,v
+case det obl cc case det amod case det obl,prepositional_phrase,unknown
+advmod nsubj root,adverbial_clause,sp
+case det det amod obl case det nmod mark nsubj advcl advmod advmod advmod,prepositional_phrase,os
+mark det advmod amod nsubj advmod,subordinate_clause,vs
+ccomp nsubj,complement_clause,s
+conj advmod advmod det obj xcomp X X,adverbial_clause,v
+advmod aux advcl det obj punct advmod root nsubj advmod acomp,subordinate_clause,ops
+cc conj obj advmod acomp,adverbial_clause,v
+punct cc nsubj conj iobj obl nmod,unknown_chunk,svo
+vocative punct root nsubj advmod advmod xcomp,adverbial_clause,ps
+ccomp nsubj ccomp punct advmod,adverbial_clause,sv
+conj nsubj obj iobj advmod xcomp,adverbial_clause,sov
+cc root expl attr ref nsubj acl obj det attr cop,noun_phrase,pso
+punct mark advcl nsubj obj,subordinate_clause,sv
+case det obl xcomp,prepositional_phrase,v
+punct cc conj expl attr advmod,adverbial_clause,v
+punct mark advcl nsubj obj advmod xcomp,subordinate_clause,vso
+case det obl ref nsubj iobj acl:relcl,prepositional_phrase,osv
+case obl root nsubj,prepositional_phrase,ops
+mark nsubj iobj obj neg xcomp,subordinate_clause,so
+ccomp advmod,adverbial_clause,v
+conj nsubj obj advmod xcomp X X X,adverbial_clause,sov
+advcl obj advcl,subordinate_clause,v
+punct nsubj root det attr appos,noun_phrase,sp
+case det obl cc det amod attr cc det amod amod,prepositional_phrase,v
+conj ref advmod acl xcomp,adverbial_clause,v
+case det obl,prepositional_phrase,unknown
+advmod iobj root nsubj nsubj,adverbial_clause,ops
+ccomp iobj neg conj xcomp,infinitive_clause,v
+cc obl pobj mark obl amod pobj cc conj pobj advcl nsubj neg xcomp xcomp X,subordinate_clause,osv
+voc root nsubj advcl nsubj advmod advmod,subordinate_clause,ps
+ccomp advmod advcl nsubj obj iobj xcomp nsubj advcl aux advmod advmod obj advmod xcomp X X X,subordinate_clause,sov
+advmod root nsubj advmod,adverbial_clause,ps
+cc mark advmod mark nsubj det amod attr,subordinate_clause,sv
+case det nmod conj,prepositional_phrase,v
+cc advmod nsubj obl root xcomp aux obl,adverbial_clause,sop
+cc det nsubj,noun_phrase,vs
+conj obj,unknown_chunk,v
+case det obl,prepositional_phrase,v
+cc advmod obl fixed det obl cc obj case xcomp,prepositional_phrase,v
+case det obl advmod appos obj,prepositional_phrase,v
+conj obl case amod nmod,prepositional_phrase,v
+cc case mark nsubj advmod advmod obj,prepositional_phrase,svo
+case obl,prepositional_phrase,v
+ccomp X X,complement_clause,v
+cc advmod root det nsubj,adverbial_clause,ps
+cc conj xcomp cc det conj advmod obl det case,prepositional_phrase,unknown
+cc det nsubj root det attr obl amod obl,noun_phrase,spo
+cc conj,unknown_chunk,v
+conj mark det nsubj cc det conj case det obl det nmod:gen,prepositional_phrase,sv
+ccomp xcomp,infinitive_clause,v
+cc conj advmod nsubj xcomp advmod nsubj advmod,adverbial_clause,vs
+conj mark nsubj advmod,subordinate_clause,sv
+ccomp xcomp,infinitive_clause,v
+cc obl case advmod xcomp root nsubj obl,prepositional_phrase,ops
+case punct mark nsubj advmod advcl,prepositional_phrase,sv
+mark nsubj det amod obj xcomp,subordinate_clause,sov
+ccomp obl det,noun_phrase,v
+case,prepositional_phrase,unknown
+nsubj root det attr advmod nsubj acomp,adverbial_clause,sp
+conj,unknown_chunk,v
+case advmod amod obl cc case amod obl root det nsubj amod,prepositional_phrase,ops
+cc conj nsubj case det obl case obl acl:relcl punct,prepositional_phrase,so
+cc advmod det compound nsubj root,adverbial_clause,sp
+mark det nsubj obl det,subordinate_clause,so
+case xcomp,prepositional_phrase,v
+ccomp cc det nsubj,noun_phrase,vs
+conj cc,unknown_chunk,v
+conj advmod det nsubj,adverbial_clause,vs
+conj advmod advmod nsubj ref obj,adverbial_clause,vso
+conj xcomp det obj,noun_phrase,v
+cc conj obj advmod,adverbial_clause,v
+cc conj obj,unknown_chunk,v
+cc advmod nsubj obj advmod acomp aux root,adverbial_clause,sop
+case det obl case det nmod,prepositional_phrase,unknown
+cc mark nsubj obj aux advcl,subordinate_clause,sov
+punct root,main_clause,p
+case det obl advmod nsubj acl cc nsubj aux,prepositional_phrase,osv
+case obl acl det nmod,prepositional_phrase,v
+cc mark nsubj advcl,subordinate_clause,sv
+punct advmod root nsubj obj xcomp,adverbial_clause,pso
+cc aux conj cc conj xcomp,infinitive_clause,v
+mark xcomp,subordinate_clause,unknown
+cc det nsubj punct nsubj obj mark obj acl,subordinate_clause,sov
+mark mark nsubj det obj acomp,subordinate_clause,sov
+ccomp punct root obj,complement_clause,p
+mark nsubj obl pobj advcl,subordinate_clause,sov
+nsubj root advmod xcomp advmod,adverbial_clause,sp
+cc conj advmod obj nmod:poss,adverbial_clause,v
+punct cc nsubj,unknown_chunk,vs
+conj obj advmod xcomp,adverbial_clause,v
+cc conj case obl,prepositional_phrase,unknown
+cc advmod root nsubj obj aux xcomp,adverbial_clause,pso
+cc conj,unknown_chunk,v
+root punct conj punct nsubj,main_clause,ps
+conj obj xcomp,infinitive_clause,v
+punct advcl det nsubj,subordinate_clause,vs
+ccomp advmod advmod acomp obl pobj xcomp,adverbial_clause,v
+mark nsubj advmod advcl xcomp,subordinate_clause,sv
+punct advcl nsubj advmod advmod advmod xcomp,subordinate_clause,sv
+ccomp obl advmod amod pobj,adverbial_clause,v
+mark nsubj iob advcl xcomp obl det pobj,subordinate_clause,svo
+advmod root nsubj acomp,adverbial_clause,ps
+case obl advmod advmod advmod advmod,prepositional_phrase,v
+case pobj pobj punct mark nsubj nsubj acl obj advmod amod obj,prepositional_phrase,osv
+case det obl xcomp advcl nsubj case pobj conj cc nsubj conj obj advmod neg compound:prt advmod obl det pobj,prepositional_phrase,osv
+mark nsubj advcl det amod obj,subordinate_clause,svo
+acl:relcl obl pobj obj acl X X,unknown_chunk,v
+mark det nsubj aux det obj advcl mark root nsubj,subordinate_clause,sop
+cc conj advmod cc case obl,prepositional_phrase,v
+mark conj case det obj,prepositional_phrase,v
+case nmod:poss obl X X,prepositional_phrase,v
+cc mark nsubj advcl det obj obj nsubj advmod acomp acl,subordinate_clause,sov
+punct root nsubj advmod xcomp,adverbial_clause,ps
+mark nsubj obj xcomp,subordinate_clause,sov
+ccomp cc conj advmod xcomp,adverbial_clause,v
+mark nsubj advmod advmod det obl advcl,subordinate_clause,sov
+cc nsubj root det amod obj obl det pobj,noun_phrase,spo
+cc mark nsubj xcomp,subordinate_clause,vs
+conj advmod,adverbial_clause,v
+conj nsubj advmod acomp X X,adverbial_clause,sv
+voc compound voc,noun_phrase,v
+punct nsubj root neg,main_clause,sp
+mark nsubj advmod xcomp,subordinate_clause,sv
+ccomp mark xcomp,subordinate_clause,v
+case det obl ref iobj nsubj aux acl,prepositional_phrase,osv
+advmod root nsubj,adverbial_clause,ps
+case obl,prepositional_phrase,unknown
+nsubj root obj det obj,noun_phrase,spo
+relcl obl obj,unknown_chunk,v
+cc conj cop attr nsubj iobj,unknown_chunk,vso
+ccomp xcomp mark amod obj,subordinate_clause,unknown
+voc punct root nsubj,main_clause,ps
+punct ccomp iobj obj,complement_clause,v
+cc obj,unknown_chunk,v
+nsubj ccomp punct root det nsubj,noun_phrase,sp
+punct advmod conj advmod amod obj xcomp,adverbial_clause,v
+vocative punct root nsubj,main_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp xcomp advmod,adverbial_clause,v
+mark advmod amod obj,subordinate_clause,v
+mark nsubj neg,subordinate_clause,vs
+ccomp mark nsubj ccomp aux xcomp obl amod pobj,subordinate_clause,svo
+punct mark nsubj nsubj advcl,subordinate_clause,sv
+punct nsubj,unknown_chunk,vs
+conj det obj cc ref advmod obj nsubj det obj conj,adverbial_clause,osv
+case det obl,prepositional_phrase,v
+punct parataxis det nsubj,noun_phrase,vs
+punct nsubj root advmod,adverbial_clause,sp
+mark nsubj aux,subordinate_clause,sv
+ccomp punct,complement_clause,v
+mark det amod obj acl:relcl nsubj case iobj aux acl obj xcomp,prepositional_phrase,osv
+punct mark nsubj obj advmod mark nsubj xcomp advcl,subordinate_clause,sov
+punct advmod parataxis nsubj advmod,adverbial_clause,vs
+mark nsubj xcomp ccomp punct advmod aux parataxis iobj,subordinate_clause,svo
+case obl xcomp,prepositional_phrase,v
+advmod advmod root nsubj advmod,adverbial_clause,ps
+mark nsubj advmod,subordinate_clause,sv
+case det obl ccomp,prepositional_phrase,v
+cc mark det nsubj,subordinate_clause,vs
+ccomp amod obj xcomp det obj cc det nsubj conj obj xcomp case det obl,prepositional_phrase,osv
+case det obl X,prepositional_phrase,unknown
+cc det nsubj root xcomp,noun_phrase,sp
+cc conj,unknown_chunk,v
+case det obl cc conj,prepositional_phrase,v
+vocative det nsubj root advmod obl advmod,adverbial_clause,spo
+mark mark xcomp case obl X,prepositional_phrase,v
+cc nsubj conj advmod,adverbial_clause,sv
+cc conj poss obj,unknown_chunk,v
+punct mark obj nsubj obj acl neg root det amod obj ref nsubj acl xcomp,subordinate_clause,osp
+det appos nsubj root iobj xcom det obj,noun_phrase,spo
+cc det nmod obj,noun_phrase,v
+cc advcl nsubj advmod acomp advcl punct obl nmod obl,subordinate_clause,svo
+punct cc root obl det obl,noun_phrase,p
+cc conj det obj,noun_phrase,v
+punct nsubj acl:relcl advmod acomp,adverbial_clause,sv
+cc conj obj xcomp,infinitive_clause,v
+cc mark nsubj case det amod obl advcl advmod acomp punct root nsubj advmod,prepositional_phrase,sop
+case det obl cc conj advmod,prepositional_phrase,v
+punct nsubj appos,unknown_chunk,vs
+cc det conj nsubj advmod acl:relcl acl:relcl,adverbial_clause,sv
+case det obl,prepositional_phrase,unknown
+vocative punct root det nsubj appos,noun_phrase,ps
+case det obl appos,prepositional_phrase,v
+punct mark det nsubj advmod acomp advcl acomp,subordinate_clause,sv
+mark nsubj advmod ccomp xcomp punct advmod parataxis nsubj advmod,subordinate_clause,sv
+mark nsubj det amod obj,subordinate_clause,vso
+ccomp mark det nsubj,subordinate_clause,vs
+ccomp det obj punct nsubj obj advcl,subordinate_clause,osv
+punct nsubj case det obl parataxis,prepositional_phrase,sov
+nsubj ccomp obj advmod advmod,adverbial_clause,svo
+punct root det nsubj,noun_phrase,ps
+punct advcl det obl,subordinate_clause,v
+cc nsubj obj advmod conj xcomp,adverbial_clause,so
+advmod mark nsubj det iobj det obj root advmod nsubj,subordinate_clause,sop
+conj advmod case obl case det obl,prepositional_phrase,unknown
+cc mark nsubj obj aux advcl,subordinate_clause,sov
+case det obl punct advmod root det nsubj,prepositional_phrase,ops
+voc parataxis conj advmod nsubj parataxis det attr,adverbial_clause,sv
+cc det conj aux case det obl advmod parataxis nsubj det amod obj voc root det nsubj obj nsubj parataxis obj neg xcomp,prepositional_phrase,osp
+case obl,prepositional_phrase,v
+mark det aux obj advcl obj nsubj,subordinate_clause,vos
+acl:relcl case obl,prepositional_phrase,v
+cc case obl,prepositional_phrase,v
+case det obl X X X X X X X,prepositional_phrase,v
+nsubj root det attr advmod xcomp,adverbial_clause,sp
+mark advmod nsubj obj advcl,subordinate_clause,sov
+punct advmod root nsubj det amod obj xcomp,adverbial_clause,pso
+mark nsubj aux advcl,subordinate_clause,sv
+punct cc conj,unknown_chunk,v
+advmod root nsubj obj punct,adverbial_clause,pso
+cc nsubj conj,unknown_chunk,sv
+cc conj advmod obl det pobj cc conj mark det amod obj ref nsubj obj,subordinate_clause,ovs
+cc obj cc advmod obj punct,adverbial_clause,v
+mark nsubj advmod advcl punct advmod case obl xcomp,prepositional_phrase,sov
+conj punct nsubj,unknown_chunk,vs
+conj advmod advmod obj,adverbial_clause,v
+case det amod obl punct mark nsubj aux obj,prepositional_phrase,osv
+cc conj case det nmod,prepositional_phrase,unknown
+advmod root nsubj advmod advmod mark advcl aux xcomp,subordinate_clause,ps
+cc advmod det nsubj advmod,adverbial_clause,vs
+conj cc obj,unknown_chunk,v
+cc conj,unknown_chunk,v
+cc conj cc conj det,noun_phrase,v
+conj X,unknown_chunk,v
+cc advmod root det nsubj obl det pobj obl,adverbial_clause,pso
+case det pobj cc advmod nsubj conj advmod obj,prepositional_phrase,osv
+cc obj punct advmod conj nsubj obj nsubj,adverbial_clause,ovs
+ccomp nummod,complement_clause,v
+cc conj,unknown_chunk,v
+punct acl:relcl det amod attr cop,noun_phrase,v
+cc nsubj conj advmod obl pobj advcl,subordinate_clause,sov
+cc advmod root nsubj det obj case det obl nsubj iobj obj relcl X,prepositional_phrase,pso
+cc mark nsubj aux advcl,subordinate_clause,sv
+punct mark advcl nsubj det obj,subordinate_clause,vso
+case det obl,prepositional_phrase,v
+punct advmod root nsubj det amod attr,adverbial_clause,ps
+mark nsubj advmod advmod xcomp acl,subordinate_clause,sv
+cc nsubj root obj case det obl cc conj det nsubj obj,prepositional_phrase,spo
+case amod obl,prepositional_phrase,v
+cc mark nsubj advcl,subordinate_clause,sv
+ccomp nsubj ccomp xcomp,infinitive_clause,sv
+cc neg advmod conj xcomp root nsubj prt advmod amod obj mark xcomp advcl,subordinate_clause,pso
+mark det nmod:poss nsubj aux xcomp obl nmod:poss pobj advcl X,subordinate_clause,sov
+cc case mark obj nsubj advmod obl,prepositional_phrase,sv
+mark nsubj obj ccomp advmod root nsubj,subordinate_clause,sop
+case nmod:poss obl cc conj case nmod:poss obl X X,prepositional_phrase,v
+advmod root nsubj obl det amod obj mark xcomp,subordinate_clause,pso
+mark advmod det nsubj advmod acomp ccomp conj nsubj obj xcomp nsubj,subordinate_clause,svo
+conj mark xcomp X X X,subordinate_clause,v
+cc advmod nsubj conj acomp xcomp,adverbial_clause,sv
+punct ref advmod amod obj aux advmod poss nmod pobj mark nsubj acl amod obj punct,subordinate_clause,osv
+conj nsubj obj,unknown_chunk,vso
+case det obl advmod nsubj obj aux advcl advmod,prepositional_phrase,osv
+punct cc root,main_clause,p
+case obl advmod,prepositional_phrase,unknown
+cc mark det nsubj obj advcl advmod advmod,subordinate_clause,sov
+conj advmod root nsubj prt mark xcomp X,subordinate_clause,ps
+vocative vocative nsubj root obj,main_clause,spo
+case advmod xcomp mark nsubj poss nmod obj,prepositional_phrase,so
+ccomp cc,complement_clause,v
+conj case amod obl mark advmod advmod advcl X,prepositional_phrase,unknown
+voc punct root nsubj,main_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp advmod xcomp,adverbial_clause,v
+punct mark nsubj advcl,subordinate_clause,sv
+punct advmod xcomp advmod nsubj xcomp,adverbial_clause,vs
+discourse compound voc root det nsubj det nsubj,noun_phrase,ps
+conj iobj advmod nsubj conj prep compound det amod pobj,prepositional_phrase,osv
+cc conj prep det pobj mark det nsubj advmod conj obl det nmod pobj X X X,prepositional_phrase,osv
+vocative nsubj root advmod advmod obl det obj X,adverbial_clause,spo
+mark nsubj advcl root nsubj nsubj advmod,subordinate_clause,sp
+ccomp advmod obj case nmod:poss obl mark nsubj advmod advcl xcomp advmod,prepositional_phrase,osv
+conj case det obl nsubj obj xcomp acl,prepositional_phrase,vos
+case det amod obl,prepositional_phrase,v
+mark mark xcomp det obj case det amod obl nsubj obj acl,prepositional_phrase,ovs
+cc conj,unknown_chunk,v
+case det det obl,prepositional_phrase,v
+mark nsubj obj advcl vocative,subordinate_clause,so
+conj nsubj obj obl obj,unknown_chunk,sov
+case nmod:poss amod obl X X X X X X X X X,prepositional_phrase,v
+case det advmod root nsubj case det obl cc conj,prepositional_phrase,pso
+case det obl advmod cc conj det nmod:poss obj neg advmod acl advmod parataxis xcomp,prepositional_phrase,unknown
+cc nsubj root,main_clause,sp
+case det obl,prepositional_phrase,v
+cc conj advmod,adverbial_clause,unknown
+cc det nsubj root det obj cc conj acl advmod xcomp,adverbial_clause,spo
+prep det pobj advcl det obj,prepositional_phrase,unknown
+nsubj root obl,main_clause,spo
+case cc conj,prepositional_phrase,v
+voc punct iobj root,main_clause,p
+mark nsubj neg obj cc mark nsubj neg,subordinate_clause,sov
+case obl obj advmod,prepositional_phrase,v
+mark det nsubj advcl,subordinate_clause,s
+voc root nsubj nsubj,main_clause,ps
+ccomp mark nsubj advmod det,subordinate_clause,vs
+ccomp advcl nsubj advmod obj,subordinate_clause,so
+case det obl advcl advmod,prepositional_phrase,v
+ccomp iobj case pobj X X X X,prepositional_phrase,v
+advmod parataxis obj vocative punct root det nsubj,adverbial_clause,ops
+punct mark nsubj,subordinate_clause,vs
+ccomp advmod mark nsubj neg advmod xcomp ccomp,subordinate_clause,s
+advmod root xcomp det nsubj det nsubj,adverbial_clause,ps
+cc conj advmod det obj,adverbial_clause,v
+cc det conj cc conj case det obl,prepositional_phrase,v
+mark obj nsubj,subordinate_clause,os
+case det obl advcl,prepositional_phrase,v
+cc conj obj advmod amod obj cc conj mark nsubj case det obl advcl advmod X X X X,prepositional_phrase,os
+cc advmod nsubj root obj det nsubj nsubj obl det pobj acl obl det amod pobj obl pobj,adverbial_clause,spo
+ccomp advmod,adverbial_clause,v
+conj nsubj advmod acomp,adverbial_clause,s
+cc acomp obl det det pobj nsubj advmod xcomp acl nsubj,adverbial_clause,ovs
+conj amod obj X X X X,noun_phrase,v
+mark nsubj advcl advmod amod obj,subordinate_clause,svo
+case det obl punct mark nsubj obj advmod advmod advcl det obj,prepositional_phrase,osv
+case advmod advmod mark mark case obl advmod advcl,prepositional_phrase,v
+punct cc advcl,subordinate_clause,v
+mark mark nsubj obj advmod ccomp,subordinate_clause,sov
+punct advmod nsubj advmod root,adverbial_clause,sp
+cc mark nsubj aux root,subordinate_clause,sp
+case det obl case det obl appos mark conj nsubj,prepositional_phrase,os
+case det obl X,prepositional_phrase,v
+advmod root det nsubj xcomp,adverbial_clause,ps
+case det obl,prepositional_phrase,unknown
+nsubj root advmod advmod xcomp punct nsubj conj advmod xcomp,adverbial_clause,sp
+cc conj obj xcomp,infinitive_clause,v
+punct mark nsubj advcl attr,subordinate_clause,sv
+relcl obj neg advmod xcomp acl,adverbial_clause,v
+mark nsubj advmod advcl,subordinate_clause,sv
+mark nsubj neg advmod xcomp ccomp advmod root nsubj advmod xcomp X,subordinate_clause,sp
+cc advmod det nmod:poss nsubj root det obj compound:prt case det obl punct,prepositional_phrase,spo
+cc advmod conj det nsubj obj,adverbial_clause,so
+cc advmod mark nsubj advmod advcl nmod:poss obj xcomp advmod root nsubj det obj det nmod advmod amod obl X X,subordinate_clause,sop
+cc case obl root nsubj obj,prepositional_phrase,ops
+case amod obl mark det nsubj aux xcomp ccomp,prepositional_phrase,osv
+cc det conj case det obl,prepositional_phrase,unknown
+cc root,main_clause,p
+mark mark nsubj ccomp,subordinate_clause,sv
+case det obl nmod:poss,prepositional_phrase,unknown
+det nsubj root det attr,noun_phrase,sp
+cc case amod obl cc conj det det amod attr,prepositional_phrase,v
+case det nmod advcl nsubj ccomp,prepositional_phrase,sv
+case obl,prepositional_phrase,unknown
+cc mark nsubj root,subordinate_clause,sp
+mark det nsubj case nmod:poss obl ccomp,prepositional_phrase,sov
+punct nsubj,unknown_chunk,vs
+conj det obj xcomp,noun_phrase,v
+case det obl cc conj,prepositional_phrase,v
+punct mark,subordinate_clause,v
+case det obl det nsubj advcl xcomp mark nsubj obj,prepositional_phrase,osv
+case nmod:poss obl ccomp,prepositional_phrase,v
+punct advmod parataxis nsubj advmod,adverbial_clause,sv
+case obl punct nsubj parataxis det obj xcomp det amod obj,prepositional_phrase,osv
+cc det amod obj punct ref nsubj obl,noun_phrase,ovs
+case obj nsubj aux acl:relcl,prepositional_phrase,osv
+cc obl det case root nsubj obj,prepositional_phrase,ops
+mark obl case cc advcl obj obj xcomp,prepositional_phrase,v
+punct cc,unknown_chunk,v
+conj obl det,noun_phrase,v
+case advmod advmod cc mark advmod obj nsubj obj det obj advcl,prepositional_phrase,sov
+mark nsubj det obj acl:relcl,subordinate_clause,sov
+advmod root nsubj obj det obl obj nsubj det obl,adverbial_clause,pso
+acl:relcl xcomp,infinitive_clause,v
+cc root,main_clause,p
+case obl,prepositional_phrase,v
+mark nsubj obj det nmod xcomp,subordinate_clause,sov
+ccomp punct,complement_clause,v
+cc advmod,adverbial_clause,v
+conj nsubj advmod obj xcomp,adverbial_clause,vso
+punct mark nsubj advcl,subordinate_clause,sv
+mark nsubj case obj mark xcomp ccomp,prepositional_phrase,sov
+mark nsubj advmod,subordinate_clause,vs
+case obl ccomp,prepositional_phrase,v
+det obl punct mark advmod mark det nsubj advcl punct advmod root det obj compound:prt,subordinate_clause,osp
+cc conj obj,unknown_chunk,v
+cc conj obj xcomp,infinitive_clause,v
+case det obl punct acl:rel acl:relcl,prepositional_phrase,v
+case det obl,prepositional_phrase,unknown
+cc mark nsubj obj advcl root nsubj obl amod,subordinate_clause,sop
+case cc conj det obj obl det,prepositional_phrase,v
+case det nmod:poss appos cc,prepositional_phrase,v
+conj obl amod det,noun_phrase,v
+case ref nsubj advmod xcomp acl:relcl X,prepositional_phrase,sv
+cc root,main_clause,p
+case det obl cc conj obj advmod obl,prepositional_phrase,v
+case det nmod mark nsubj xcomp advcl,prepositional_phrase,sv
+cc root,main_clause,p
+prep det pobj punct,prepositional_phrase,sv
+relcl nsubj advmod punct,adverbial_clause,sv
+relcl nsubj advmod punct advcl nsubj advcl,subordinate_clause,sv
+ccomp nsubj det acomp,noun_phrase,sv
+ccomp obl det det pobj advcl nsubj advcl obj,subordinate_clause,osv
+cc conj,unknown_chunk,unknown
+cc root advmod,adverbial_clause,p
+case det obl obj,prepositional_phrase,sv
+acl:relcl advmod advmod advcl advmod obj,subordinate_clause,v
+conj cc conj amod,noun_phrase,unknown
+punct advmod root det nsubj advmod obl det pobj cc conj obl pobj,adverbial_clause,pso
+punct mark nsubj obj advcl obj det nmod,subordinate_clause,sov
+advmod root det obj,adverbial_clause,p
+punct mark advcl aux advcl obl det nmod,subordinate_clause,v
+punct mark nsubj,subordinate_clause,vs
+ccomp nummod obj,complement_clause,v
+cc conj mark nsubj amod obj appos advmod advmod mark ccomp,subordinate_clause,sov
+cc obl det amod pobj obl pobj advmod root obl obj,adverbial_clause,p
+case nmod:poss obl ccomp obl det amod pobj X,prepositional_phrase,v
+cc mark nsubj advmod conj punct mark root nsubj case det obl,prepositional_phrase,spo
+discourse det advcl case nmod nsubj,prepositional_phrase,vs
+acl:relcl advmod,adverbial_clause,v
+cc conj,unknown_chunk,v
+case obl case obl mark obj nsubj advmod advcl,prepositional_phrase,osv
+punct mark nsubj det amod nmod:gen attr root,subordinate_clause,sp
+nsubj nummod root nmod:poss obj,main_clause,spo
+punct nsubj amod,noun_phrase,vs
+conj advmod obl det pobj,adverbial_clause,v
+punct nsubj,unknown_chunk,vs
+conj obl det pobj punct advmod advmod,adverbial_clause,v
+mark conj,subordinate_clause,v
+cc mark nsubj advmod xcomp advcl,subordinate_clause,sv
+punct nsubj root nummod obj obl det,noun_phrase,spo
+case punct nsubj obj nsubj acl:relcl attr,prepositional_phrase,sov
+acl:relcl cc det amod conj,noun_phrase,unknown
+cc mark advmod nsubj obj advcl,subordinate_clause,sv
+punct nsubj root advmod obl amod obj,adverbial_clause,spo
+cc conj advmod cc conj advmod acomp aux,adverbial_clause,v
+cc conj obj ref amod obj ref nsubj acl,noun_phrase,osv
+punct mark nsubj,subordinate_clause,vs
+mark advmod acomp advcl,subordinate_clause,v
+mark nsubj obj ccomp aux,subordinate_clause,sov
+punct cc,unknown_chunk,v
+conj iobj obj xcomp,infinitive_clause,v
+advmod root nsubj advmod advmod amod obj punct,adverbial_clause,pso
+mark det obj nsubj advcl obl pobj,subordinate_clause,osv
+cc conj,unknown_chunk,unknown
+det obl punct advcl nsubj aux advcl,subordinate_clause,osv
+cc conj aux xcomp obj,infinitive_clause,v
+case det obl punct advmod root nsubj,prepositional_phrase,ops
+ccomp obj obj nsubj advmod aux,adverbial_clause,sv
+ccomp,complement_clause,v
+nmod obj parataxis nsubj nsubj parataxis advmod,adverbial_clause,osv
+mark det obj aux xcomp nsubj root advmod advmod acomp,subordinate_clause,osp
+ccomp nsubj obj aux,complement_clause,sov
+ccomp aux xcomp nsubj advmod parataxis,adverbial_clause,vs
+case det obl case det obl,prepositional_phrase,sv
+acl:relcl nsubj acl:relcl xcomp case det obl X X X X,prepositional_phrase,sov
+advmod mark advmod nsubj,subordinate_clause,vs
+case xcomp,prepositional_phrase,v
+cc xcomp root,infinitive_clause,p
+punct mark,subordinate_clause,v
+case ccomp case det amod obl cc case det obl punct nsubj obj ccomp,prepositional_phrase,osv
+cc conj cc conj,unknown_chunk,unknown
+cc advmod root nsubj xcomp,adverbial_clause,ps
+mark xcomp,subordinate_clause,v
+mark nsubj ccomp attr,subordinate_clause,sv
+cc conj mark nsubj advmod obl,subordinate_clause,vso
+ccomp,complement_clause,v
+mark nsubj advcl,subordinate_clause,sv
+case obl advmod xcomp punct root det nsubj obj,prepositional_phrase,ops
+punct advmod,adverbial_clause,v
+conj nsubj xcomp,infinitive_clause,sv
+mark det nsubj ccomp advmod mark nsubj advcl,subordinate_clause,sv
+case obl punct parataxis nsubj,prepositional_phrase,ovs
+punct nsubj parataxis iobj obj,unknown_chunk,svo
+punct root det nsubj,noun_phrase,ps
+mark nsubj iobj advcl,subordinate_clause,sov
+cc conj,unknown_chunk,v
+punct mark nsubj advmod advmod aux,subordinate_clause,sv
+ccomp punct advmod advcl nsubj attr ref advmod,subordinate_clause,vs
+acl:relcl aux,unknown_chunk,v
+punct mark nsubj xcomp advcl advmod obj,subordinate_clause,svo
+voc punct root nsubj punct nsubj,main_clause,ps
+ccomp case obj xcomp,prepositional_phrase,v
+punct mark nsubj neg advcl,subordinate_clause,vs
+case det obl,prepositional_phrase,unknown
+nsubj root,main_clause,sp
+punct parataxis nsubj,unknown_chunk,vs
+punct obj obj advmod obl det pobj,adverbial_clause,v
+ccomp advmod,adverbial_clause,v
+mark xcomp mark det nsubj advmod ccomp expl advcl nsubj ccomp,subordinate_clause,sv
+mark root nsubj case obl,prepositional_phrase,pso
+det acl:relcl mark nsubj obl obl cc conj obl,subordinate_clause,sov
+case det obl obj nsubj aux root,prepositional_phrase,osp
+cc advmod amod root det nsubj obj punct,adverbial_clause,pso
+mark nsubj acl obj obj det nsubj advcl,subordinate_clause,sov
+advmod root nsubj,adverbial_clause,ps
+case det obl,prepositional_phrase,v
+cc conj punct,unknown_chunk,v
+mark nsubj det obj advmod xcomp advcl,subordinate_clause,sov
+mark nsubj advcl,subordinate_clause,sv
+cc advmod root obl,adverbial_clause,p
+case det obl nmod,prepositional_phrase,v
+cc det conj obl det pobj,noun_phrase,unknown
+cc case advmod punct mark nsubj obj advcl punct root det nsubj iobj obj,prepositional_phrase,sop
+case det obl mark det nsubj acl:relcl,prepositional_phrase,osv
+case obl nsubj det obj,prepositional_phrase,osv
+case det obl acl:relcl,prepositional_phrase,v
+voc punct root det amod nsubj,noun_phrase,ps
+punct advmod parataxis nsubj advmod advmod,adverbial_clause,sv
+punct conj nsubj,unknown_chunk,vs
+punct mark nsubj advmod,subordinate_clause,vs
+ccomp xcomp,infinitive_clause,v
+case obl punct,prepositional_phrase,v
+mark xcomp,subordinate_clause,v
+mark ccomp nsubj det obj,subordinate_clause,sv
+mark advcl nsubj,subordinate_clause,s
+case obl,prepositional_phrase,unknown
+nsubj root obj iobj neg,main_clause,spo
+punct parataxis det amod nsubj,noun_phrase,vs
+punct ccomp nsubj obj obl pobj,complement_clause,vso
+ccomp punct advcl nsubj advcl,subordinate_clause,sv
+ccomp nsubj neg advmod advmod obl pobj advmod ccomp advmod obj,adverbial_clause,so
+nsubj ccomp advcl nsubj ccomp punct cc conj nsubj obj xcomp,subordinate_clause,svo
+punct root nsubj,main_clause,ps
+cc advmod root nsubj obj,adverbial_clause,pso
+prep det amod pobj prep det pobj cc conj det amod obj,prepositional_phrase,v
+prep det amod pobj,prepositional_phrase,v
+advmod root det amod nsubj,adverbial_clause,ps
+advmod root det nsubj,adverbial_clause,ps
+punct mark nsubj advcl,subordinate_clause,sv
+cc nsubj root obl,main_clause,spo
+cc conj,unknown_chunk,v
+mark nsubj advmod advmod amod obj advmod advmod amod aux,subordinate_clause,sov
+ccomp cc,complement_clause,v
+conj advmod advmod,adverbial_clause,v
+mark mark det det nsubj obl det obl advmod aux ccomp X,subordinate_clause,sov
+mark obl case advcl advmod root nsubj X,prepositional_phrase,ops
+advmod root iobj voc,adverbial_clause,p
+punct nsubj root det attr ref nmod:poss xcomp,noun_phrase,sp
+acl:relcl case det obl,prepositional_phrase,v
+punct nsubj root advmod advmod amod attr advmod det obl,adverbial_clause,spo
+cc advmod root nsubj advmod,adverbial_clause,ps
+case det obl mark nsubj neg advcl,prepositional_phrase,ovs
+cc advmod acomp conj mark nsubj,subordinate_clause,vs
+case aux ccomp X,prepositional_phrase,v
+obl nmod punct root det nsubj obj,noun_phrase,ops
+punct nsubj,unknown_chunk,vs
+conj obj xcomp,infinitive_clause,v
+punct iobj conj advmod obl pobj nsubj advmod,adverbial_clause,ovs
+punct cc,unknown_chunk,v
+conj obj obl det pobj,noun_phrase,v
+cc conj obj obl det pobj,noun_phrase,v
+cc mark nsubj advcl,subordinate_clause,sv
+case det obl punct advmod root nsubj,prepositional_phrase,ops
+case obl,prepositional_phrase,v
+nsubj ccomp det advmod obj,adverbial_clause,svo
+punct root nsubj,main_clause,ps
+cc nsubj root case obl advmod punct,prepositional_phrase,spo
+cc det nsubj case det obl conj,prepositional_phrase,sov
+case det obl punct nsubj case obl,prepositional_phrase,osv
+acl:relcl cc det obj advmod conj,adverbial_clause,v
+punct mark nsubj advmod advcl,subordinate_clause,sv
+advmod nsubj root cc conj compound nsubj case obl acl:relcl advcl advmod,prepositional_phrase,spo
+mark mark nsubj det obj advcl,subordinate_clause,svo
+case det obl X X,prepositional_phrase,unknown
+cc det nsubj nmod root obj case det obl punct nsubj,prepositional_phrase,spo
+cc det nsubj,noun_phrase,vs
+punct cc conj advmod nummod obl cc conj,adverbial_clause,v
+case det obl case det obl,prepositional_phrase,unknown
+nsubj root,main_clause,sp
+mark advmod obj ccomp det nsubj,subordinate_clause,ovs
+punct acl case amod nmod punct cc conj,prepositional_phrase,v
+mark advmod advcl mark det nsubj advmod advcl,subordinate_clause,sv
+cc conj poss obj advmod cc conj advmod xcomp,adverbial_clause,v
+case,prepositional_phrase,unknown
+det nsubj nmod root obj xcomp obl,noun_phrase,spo
+mark advmod advmod nsubj,subordinate_clause,vs
+case xcomp advcl,prepositional_phrase,v
+cc conj det obj prt obl det det obj advmod obl,adverbial_clause,v
+conj,unknown_chunk,v
+cc det amod nsubj root advmod advmod advmod obj nsubj acl det obj,adverbial_clause,spo
+case det obl punct obj nsubj obj acl,prepositional_phrase,osv
+case det obl xcomp acl,prepositional_phrase,v
+cc conj advmod advmod advmod,adverbial_clause,v
+mark det nsubj amod amod advcl,subordinate_clause,sv
+punct obj nsubj advmod,adverbial_clause,vs
+case det obl case det obl acl,prepositional_phrase,v
+case det obl mark nsubj advmod advmod advcl det amod appos det obj det iobj,prepositional_phrase,osv
+case det obl cc root advmod advcl,prepositional_phrase,p
+mark nsubj obj advmod xcomp ccomp,subordinate_clause,sov
+cc mark obj det nsubj advmod,subordinate_clause,vos
+ccomp,complement_clause,v
+voc voc root nsubj nsubj,main_clause,ps
+ccomp mark det obj,subordinate_clause,v
+cc conj mark nsubj det obj advcl,subordinate_clause,so
+case nmod:poss obl,prepositional_phrase,v
+mark nsubj advcl det obj xcomp,subordinate_clause,sov
+mark xcomp nsubj parataxis advmod det attr,subordinate_clause,sv
+case det nmod X X X X,prepositional_phrase,unknown
+cc obl det pobj obj nsubj aux acl:relcl advmod root obj det compound nsubj xcomp obj aux xcomp obl det pobj X,adverbial_clause,osp
+cc mark nsubj obj aux advcl,subordinate_clause,sov
+punct advmod root nsubj,adverbial_clause,ps
+case det obl,prepositional_phrase,unknown
+root det obj,noun_phrase,p
+cc conj obj,unknown_chunk,v
+case det nmod nmod nmod obl det amod appos obj nsubj acl:relcl obj obj nsubj,prepositional_phrase,os
+acl:relcl case det obl X X X,prepositional_phrase,v
+cc root iobj,main_clause,p
+mark nsubj ccomp det amod obj,subordinate_clause,svo
+acl:relcl nsubj obj ccomp,complement_clause,sov
+nsubj aux obl nmod root,main_clause,sop
+mark advcl cc conj cc advmod,subordinate_clause,v
+conj mark nsubj advmod advcl,subordinate_clause,sv
+cc nsubj root det attr ref nsubj,noun_phrase,sp
+relcl advmod acomp,adverbial_clause,v
+case obj mark xcomp punct,prepositional_phrase,v
+cc conj advmod,adverbial_clause,v
+case nmod:poss obl mark advmod nsubj advmod advcl,prepositional_phrase,osv
+cc nsubj root advmod,adverbial_clause,sp
+mark nsubj ccomp punct,subordinate_clause,sv
+mark nsubj obj aux det iobj,subordinate_clause,sov
+ccomp punct,complement_clause,v
+mark nsubj,subordinate_clause,vs
+case obl ccomp,prepositional_phrase,v
+case det obl root nsubj advmod xcomp,prepositional_phrase,ops
+punct mark nsubj ccomp det attr ref nsubj iobj advmod det amod obl aux acl,subordinate_clause,sov
+punct cc advmod,adverbial_clause,v
+conj nsubj det obj,noun_phrase,sv
+cc conj,unknown_chunk,v
+mark nsubj obj ccomp,subordinate_clause,sov
+voc root det nsubj,noun_phrase,ps
+mark obj nsubj iobj det obj neg aux,subordinate_clause,osv
+ccomp conj nsubj iobj,complement_clause,vso
+case obl acl obj nsubj,prepositional_phrase,vos
+case det obl acl obj nsubj iobj det obj advcl aux,prepositional_phrase,osv
+case det obl,prepositional_phrase,v
+cc mark nsubj advcl case det obl xcomp,prepositional_phrase,sv
+cc advmod mark det nsubj aux advmod case advcl mark nsubj case det obl aux case case det obl conj case obl advmod advmod X X X X X,prepositional_phrase,sov
+mark advmod root obj xcomp,subordinate_clause,p
+ccomp nsubj iobj obj ccomp aux,complement_clause,sov
+cc neg iobj advmod,adverbial_clause,v
+mark nsubj advcl,subordinate_clause,sv
+ccomp nsubj iobj vocative,complement_clause,so
+ccomp det amod obj nsubj det obj,noun_phrase,osv
+acl:relcl aux X X X,unknown_chunk,v
+cc nsubj root nsubj,main_clause,sp
+ccomp obj advmod xcomp,adverbial_clause,v
+cc mark obl case obl,prepositional_phrase,v
+mark nsubj advmod,subordinate_clause,s
+acl:relcl aux mark nsubj advmod,subordinate_clause,vs
+ccomp X X,complement_clause,v
+case det obl punct root det nsubj,prepositional_phrase,ops
+punct mark nsubj obj advcl,subordinate_clause,sov
+advmod root det nsubj obl det pobj appos,adverbial_clause,pso
+cc conj advmod,adverbial_clause,v
+mark nsubj obj xcomp ccomp,subordinate_clause,sov
+advmod punct parataxis nsubj,adverbial_clause,vs
+punct advmod obj,adverbial_clause,v
+punct ccomp nsubj advmod xcomp root det nsubj,adverbial_clause,sp
+cc nsubj root obj advmod,adverbial_clause,spo
+cc conj,unknown_chunk,v
+punct nsubj parataxis obj xcomp,infinitive_clause,sov
+mark advcl mark nsubj advcl,subordinate_clause,sv
+cc det nsubj root iobj mark advmod mark nsubj advcl obl det pobj,subordinate_clause,spo
+cc nsubj root advmod punct,adverbial_clause,sp
+cc det nsubj conj advmod advmod mark obj mark xcomp,subordinate_clause,sov
+punct mark nsubj obj advmod neg,subordinate_clause,vso
+ccomp aux xcomp,infinitive_clause,v
+punct nsubj conj,unknown_chunk,sv
+mark det obl aux xcomp,subordinate_clause,v
+mark nsubj obj advcl punct mark advcl nsubj obj obl det pobj,subordinate_clause,sov
+punct mark det nsubj aux advcl,subordinate_clause,sv
+punct cc advcl,subordinate_clause,v
+mark advmod obl mark nsubj advcl obl det pobj,subordinate_clause,osv
+punct advmod nsubj root acomp,adverbial_clause,sp
+cc mark nsubj advmod xcomp root,subordinate_clause,sp
+mark nsubj ccomp mark,subordinate_clause,sv
+conj nsubj advmod xcomp advmod,adverbial_clause,s
+cc conj det obj nmod xcomp,noun_phrase,v
+cc conj advmod case det obl cc conj case nmod:poss obj,prepositional_phrase,sv
+relcl poss acomp cc acomp acl X X,unknown_chunk,unknown
+cc aux root obj nmod det pobj,noun_phrase,p
+punct acl:relcl obj poss,unknown_chunk,sv
+acl:relcl punct mark nsubj ccomp xcomp,subordinate_clause,sv
+nsubj root,main_clause,sp
+nsubj root advmod xcomp,adverbial_clause,sp
+punct mark nsubj advcl punct cc nsubj conj advmod amod attr,subordinate_clause,sv
+punct cc obj conj nsubj advmod xcomp,adverbial_clause,osv
+punct advmod nsubj conj,adverbial_clause,sv
+case obl punct nsubj det obj obl obj,prepositional_phrase,ovs
+ccomp punct obj iobj,complement_clause,v
+conj,unknown_chunk,v
+cc nsubj conj advmod,adverbial_clause,sv
+case det obl punct,prepositional_phrase,v
+mark nsubj obj advmod,subordinate_clause,vso
+case obl aux root,prepositional_phrase,p
+cc mark nsubj obl,subordinate_clause,vso
+case det obl aux advcl det obj ref nsubj,prepositional_phrase,ovs
+acl:relcl punct root det nsubj,noun_phrase,ps
+case iobj,prepositional_phrase,v
+mark advcl obj nsubj det det obj nsubj advmod acl:relcl,subordinate_clause,osv
+voc punct nsubj root xcomp det amod obj obl det amod obj punct acl det obj nmod xcomp acl,noun_phrase,spo
+punct cc conj iobj det obj,noun_phrase,v
+cc conj iobj obj nsubj advmod,adverbial_clause,ovs
+ccomp obj obl det amod obj advmod punct mark nsubj obj advcl nsubj advmod advmod,subordinate_clause,ovs
+conj advmod nsubj advmod,adverbial_clause,vs
+punct advmod,adverbial_clause,v
+conj nsubj advmod iobj obl obj xcomp,adverbial_clause,sov
+cc mark nsubj xcomp advcl,subordinate_clause,sv
+case obl det obj ccomp nsubj nsubj advmod advmod advmod advcl xcomp,prepositional_phrase,osv
+punct advmod root,adverbial_clause,p
+case obl punct,prepositional_phrase,v
+cc nsubj conj obj advmod xcomp,adverbial_clause,sov
+mark nsubj iobj xcomp advcl,subordinate_clause,sov
+cc advmod det nsubj root det obj advmod,adverbial_clause,spo
+conj nsubj obj amod obj cc conj mark ccomp nsubj nsubj advcl det obj advmod aux xcomp,subordinate_clause,sov
+mark nsubj advmod advmod,subordinate_clause,sv
+conj mark det amod amod,subordinate_clause,v
+ccomp case obl aux xcomp conj X X,prepositional_phrase,v
+cc nsubj flat root,main_clause,sp
+case obl,prepositional_phrase,v
+root det obj case det obl punct,prepositional_phrase,p
+mark nsubj aux neg obj advmod advcl advmod obj,subordinate_clause,svo
+punct advmod parataxis nmod:poss nsubj det obj xcomp,adverbial_clause,vso
+punct mark nsubj amod obj advcl advmod,subordinate_clause,sov
+mark xcomp advmod mark nsubj det obj advcl nsubj,subordinate_clause,sov
+acl:relcl aux det obj mark xcomp,subordinate_clause,v
+cc advmod root nsubj,adverbial_clause,ps
+conj case obl,prepositional_phrase,v
+case amod obl advcl mark nsubj,prepositional_phrase,os
+case aux ccomp X X,prepositional_phrase,v
+cc root obj,main_clause,p
+case det amod obl cc conj,prepositional_phrase,v
+case det obl xcomp,prepositional_phrase,v
+cc mark nsubj acomp advcl,subordinate_clause,sv
+punct mark,subordinate_clause,v
+conj nsubj det obj,noun_phrase,vso
+case det obl cc conj case det obl,prepositional_phrase,v
+cc conj,unknown_chunk,v
+case obl cc root det obj det nmod nmod,prepositional_phrase,p
+cc nsubj advcl acomp,subordinate_clause,sv
+cc conj,unknown_chunk,v
+case det obl acomp cc nsubj root nsubj,prepositional_phrase,osp
+ccomp advmod obj xcomp X X,adverbial_clause,v
+cc nsubj root mark nsubj neg,subordinate_clause,sp
+ccomp xcomp mark nsubj advmod amod obj neg,subordinate_clause,sov
+ccomp advcl det nsubj X,subordinate_clause,sv
+cc advmod root nsubj,adverbial_clause,ps
+case det obl cc advmod conj det obj X,prepositional_phrase,v
+cc nsubj appos root obl det pobj,noun_phrase,spo
+cc det nsubj case det amod nmod ref det obj advmod aux root ref,prepositional_phrase,sop
+acl:relcl advmod obl,adverbial_clause,v
+case X X,prepositional_phrase,v
+nsubj root advmod,adverbial_clause,sp
+punct cc,unknown_chunk,v
+mark nsubj obj xcomp advcl,subordinate_clause,sv
+punct nsubj,unknown_chunk,vs
+conj nmod:poss obj,unknown_chunk,v
+mark nsubj advmod advmod cc conj advcl punct cc conj obj punct cc nsubj det conj case det obl,prepositional_phrase,so
+advmod root obj,adverbial_clause,p
+case det obl obj nsubj xcomp acl det nsubj root,prepositional_phrase,osp
+cc advmod advmod case det nmod punct advcl nsubj aux xcomp advcl,prepositional_phrase,sv
+advmod root nsubj obj advmod xcomp,adverbial_clause,pso
+case amod obl punct mark nsubj iobj det obj,prepositional_phrase,ovs
+ccomp advmod,adverbial_clause,v
+cc mark nsubj advcl acomp,subordinate_clause,sv
+punct mark nsubj advmod advcl,subordinate_clause,sv
+mark nsubj obj advmod,subordinate_clause,vso
+ccomp,complement_clause,v
+vocative punct root nsubj,main_clause,ps
+punct nsubj,unknown_chunk,vs
+ccomp obj iobj advmod xcomp,adverbial_clause,v
+mark nsubj advcl,subordinate_clause,sv
+punct mark nsubj obj advmod advcl,subordinate_clause,sov
+voc conj root nsubj nsubj,main_clause,ps
+ccomp obl nmod:poss nmod:poss pobj nummod obl det obj,noun_phrase,v
+case nmod det amod appos,prepositional_phrase,sv
+acl:relcl nmod:poss obl case det obl acl acl:relcl case obl cc det amod obj case det nmod advmod nsubj conj X X X X,prepositional_phrase,osv
+cc mark advmod advcl nsubj,subordinate_clause,vs
+mark mark nsubj advcl,subordinate_clause,sv
+case det obl acl:relcl nsubj acl,prepositional_phrase,osv
+case det amod obl case obl mark det nsubj attr,prepositional_phrase,ovs
+conj nsubj advmod attr root X X,adverbial_clause,sp
+cc mark nsubj,subordinate_clause,s
+case obl advcl advmod root amod dobj,prepositional_phrase,p
+case det nmod:poss obl det amod amod,prepositional_phrase,v
+conj ref advmod acl:relcl case nmod:poss obl nsubj,prepositional_phrase,vs
+acl:relcl obj X X X X,unknown_chunk,v
+cc advmod root obj,adverbial_clause,p
+mark advmod acl obj nsubj,subordinate_clause,vos
+ccomp obl pobj,complement_clause,v
+punct nsubj obl nmod:poss pobj acl:relcl,unknown_chunk,sov
+punct appos nmod:poss nsubj nsubj,unknown_chunk,vs
+acl:relcl obl pobj,unknown_chunk,v
+punct mark nsubj advmod advmod,subordinate_clause,vs
+ccomp obl det obl punct nsubj aux,noun_phrase,osv
+conj cc,unknown_chunk,v
+conj obl nmod:poss pobj,unknown_chunk,v
+punct advmod ccomp nsubj iobj,adverbial_clause,vso
+punct punct root nsubj,main_clause,ps
+punct nsubj aux iobj advmod,adverbial_clause,svo
+ccomp punct,complement_clause,v
+punct root nsubj,main_clause,ps
+cc conj advmod cc conj iobj obl det amod pobj,adverbial_clause,v
+cc obl det amod pobj,noun_phrase,v
+cc obl det pobj amod nmod cc obl det pobj cc conj iobj det obj,noun_phrase,v
+punct cc,unknown_chunk,v
+conj iobj det amod obj xcomp obl det amod pobj nmod pobj,noun_phrase,v
+cc conj,unknown_chunk,v
+punct advmod vocative parataxis,adverbial_clause,v
+punct nsubj root obj xcomp,infinitive_clause,spo
+mark nsubj aux advcl det obj,subordinate_clause,svo
+cc det obj case det amod nmod,prepositional_phrase,unknown
+nsubj root attr nsubj aux parataxis,main_clause,sp
+case obl xcomp nummod obj cc nummod conj cc advmod obj,prepositional_phrase,v
+mark nsubj neg aux,subordinate_clause,sv
+ccomp X X,complement_clause,unknown
+advmod root xcomp det obj cc conj xcomp,adverbial_clause,p
+amod vocative punct obl det pobj nsubj obj advcl,subordinate_clause,osv
+punct advcl obj obl det pobj,subordinate_clause,v
+cc conj obj advmod,adverbial_clause,v
+cc det conj punct obl,noun_phrase,v
+mark nsubj det xcomp cc det obj xcomp root,subordinate_clause,sop
+punct obl case advmod root det nsubj obl,prepositional_phrase,ops
+case cc obl obl case,prepositional_phrase,unknown
+advmod root advmod discourse,adverbial_clause,p
+mark case obl advcl xcomp,prepositional_phrase,v
+cc mark nsubj advcl amod obj mark nsubj,subordinate_clause,sov
+ccomp xcomp,infinitive_clause,v
+punct mark root nsubj det obj,subordinate_clause,pso
+cc conj advmod advmod advmod advcl det nsubj punct,subordinate_clause,sv
+cc conj det obj,noun_phrase,sv
+acl:relcl obl pobj acl xcomp,infinitive_clause,v
+advmod root,adverbial_clause,p
+case obl cc conj punct,prepositional_phrase,v
+cc conj xcomp,infinitive_clause,v
+case det obj compound cc conj det obj case nmod cc det nmod:poss obj,prepositional_phrase,v
+cc mark nsubj advcl det obl nmod nsubj root det poss iobj det obj,subordinate_clause,sop
+mark nsubj aux,subordinate_clause,sv
+ccomp X,complement_clause,v
+cc nsubj root advmod det obj,adverbial_clause,spo
+case det obl cc,prepositional_phrase,v
+conj mark nsubj obj,subordinate_clause,vso
+ccomp xcomp X,infinitive_clause,v
+cc nsubj advmod obj aux parataxis,adverbial_clause,sov
+punct advmod root det nsubj,adverbial_clause,ps
+case obl punct iobj aux det nsubj acl,prepositional_phrase,ovs
+cc conj det obj,noun_phrase,v
+case det amod obl,prepositional_phrase,unknown
+cc nsubj det root obj,noun_phrase,spo
+punct cc nsubj,unknown_chunk,vs
+conj case obl,prepositional_phrase,v
+cc mark advmod mark nsubj advmod advcl obl det pobj obj obl det pobj advcl,subordinate_clause,sov
+punct advmod root nsubj det obj advmod xcomp obj nsubj,adverbial_clause,pso
+acl:relcl aux,unknown_chunk,v
+cc advmod root det amod nsubj,adverbial_clause,ps
+punct mark det nsubj punct nsubj case det obl advcl punct nsubj acl:relcl obj,prepositional_phrase,sov
+case det obl case det obl det nsubj aux acl:relcl mark nsubj xcomp advcl,prepositional_phrase,osv
+advmod root nsubj det obj cc conj acomp obj,adverbial_clause,pso
+cc conj compound compound nsubj,noun_phrase,vs
+cc mark det obj advmod amod,subordinate_clause,v
+conj,unknown_chunk,v
+cc advmod root,adverbial_clause,p
+mark nsubj,subordinate_clause,s
+ccomp obl det pobj nmod nsubj,noun_phrase,os
+cc det conj X,noun_phrase,v
+cc advmod nsubj root xcomp,adverbial_clause,sp
+case det amod pobj punct advmod conj nsubj det obj,prepositional_phrase,ovs
+punct rcmod advmod acomp,adverbial_clause,v
+cc conj cop,unknown_chunk,v
+punct rcmod,unknown_chunk,sv
+acl:relcl obj obj,unknown_chunk,v
+cc det amod conj case det pobj,prepositional_phrase,unknown
+cc advmod nsubj root obl pobj,adverbial_clause,spo
+punct advmod,adverbial_clause,v
+conj det nsubj advmod obl punct,adverbial_clause,sov
+mark obl det pobj advcl acomp obl,subordinate_clause,v
+case amod pobj advcl nsubj,prepositional_phrase,os
+cc mark det nsubj appos acomp advcl,subordinate_clause,sv
+punct mark root nsubj advmod,subordinate_clause,ps
+cc det obj cc obj compound det obj cc conj obl det amod,noun_phrase,v
+case obl case obj nsubj obj acl:relcl,prepositional_phrase,os
+cc conj cc conj obl cc det poss obj punct,noun_phrase,v
+cc root det obj xcomp,noun_phrase,p
+cc nsubj root obj,main_clause,spo
+mark xcomp ccomp nsubj advmod advmod det obl obl det pobj,subordinate_clause,svo
+ccomp xcomp,infinitive_clause,v
+cc conj obl pobj cc conj iobj obl det pobj acl:rel nsubj obj acl,noun_phrase,osv
+cc mark nsubj advcl,subordinate_clause,sv
+mark nsubj,subordinate_clause,s
+case det obl ccomp punct,prepositional_phrase,v
+cc conj punct nsubj obj aux acl:relcl,unknown_chunk,sov
+punct advcl,subordinate_clause,v
+mark nsubj case det obl xcomp,prepositional_phrase,sov
+ccomp punct,complement_clause,v
+mark parataxis nsubj,subordinate_clause,vs
+case obl cc conj advmod advmod,prepositional_phrase,v
+cc root,main_clause,p
+punct vocative punct advmod nsubj obj advmod,adverbial_clause,vso
+ccomp xcomp punct mark nsubj advmod advmod advmod advcl,subordinate_clause,sv
+case det obl punct,prepositional_phrase,v
+cc nsubj conj case det amod obl det det obj xcomp,prepositional_phrase,sov
+cc obj det obj,noun_phrase,v
+case obl punct,prepositional_phrase,v
+mark nsubj conj case obl xcomp,prepositional_phrase,sov
+punct conj iobj amod obj,noun_phrase,v
+mark nsubj acl det obj,subordinate_clause,vso
+case obl punct punct punct vocative punct punct root nsubj,prepositional_phrase,ops
+punct punct obj mark nsubj advmod acl,subordinate_clause,osv
+punct cc root xcomp obj nsubj obl xcomp acl,infinitive_clause,pos
+cc mark nsubj obj aux advmod advcl advmod root nsubj,subordinate_clause,sop
+punct vocative appos punct nsubj iobj root det obj obj nsubj,noun_phrase,sop
+acl:relcl case obl,prepositional_phrase,v
+cc det nsubj root mark nsubj obj advmod xcomp,subordinate_clause,spo
+ccomp mark nsubj advcl neg advmod,subordinate_clause,vs
+case nmod,prepositional_phrase,v
+mark advcl,subordinate_clause,v
+case obl case det obl nsubj advcl,prepositional_phrase,ovs
+cc nsubj case det obl obj,prepositional_phrase,sov
+conj X X X X X X,unknown_chunk,v
+cc aux det obj root obl,noun_phrase,p
+case,prepositional_phrase,unknown
+case pobj root advmod det nsubj aux acl,prepositional_phrase,ops
+case pobj advmod obj nmod:poss nmod advmod,prepositional_phrase,v
+conj case det pobj advmod obj,prepositional_phrase,v
+case pobj amod xcom p,prepositional_phrase,v
+cc nsubj conj det obj advmod,adverbial_clause,sov
+cc conj det obj case det pobj case det pobj mark nsubj advmod advcl,prepositional_phrase,osv
+cc root advmod mark nsubj ccomp det attr advmod obl nsubj iobj aux obj,subordinate_clause,pso
+cc mark nsubj aux det obj advcl,subordinate_clause,sov
+mark nsubj advmod advmod aux advcl punct root nsubj,subordinate_clause,sp
+punct root iobj det obj acl:relcl nsubj advmod acl,adverbial_clause,pos
+case det obl nmod:poss punct,prepositional_phrase,v
+mark nsubj advmod ccomp mark det nsubj aux,subordinate_clause,sv
+ccomp case nmod:poss obl,prepositional_phrase,v
+nsubj root advmod xcomp advmod acomp,adverbial_clause,sp
+cc advmod acomp,adverbial_clause,v
+cc advmod acomp mark advmod mark det nsubj xcomp aux,subordinate_clause,sv
+punct cc nsubj,unknown_chunk,vs
+conj neg acomp xcomp,infinitive_clause,v
+cc root ccomp advmod pobj xcomp csubj,adverbial_clause,pos
+punct conj det nsubj obj,noun_phrase,vso
+punct nsubj conj advmod,adverbial_clause,sv
+punct mark csubj det amod nsubj,subordinate_clause,s
+conj punct nsubj obl det pobj amod,noun_phrase,vso
+conj punct nsubj,unknown_chunk,vs
+conj advmod xcomp obl det pobj,adverbial_clause,v
+cc advmod root nsubj,adverbial_clause,ps
+mark appos det advmod advmod det obj advcl advmod csubj iobj advmod det obj xcomp aux,subordinate_clause,osv
+punct cc,unknown_chunk,v
+case det obl nsubj advmod advmod advmod obj conj xcomp obl det pobj advmod obl pobj,prepositional_phrase,osv
+punct advmod conj advmod nsubj obj,adverbial_clause,vso
+cc det conj xcomp obl det nsubj advmod advcl aux advmod obl pobj,subordinate_clause,osv
+punct punct ccomp obj advcl advmod nsubj iobj iobj xcomp advmod amod obj,subordinate_clause,osv
+case obl punct punct root det nsubj,prepositional_phrase,ops
+punct punct advmod ccomp advmod iobj,adverbial_clause,v
+mark xcomp advmod nsubj det obj aux,subordinate_clause,sov
+ccomp punct advmod nsubj advmod,adverbial_clause,vs
+ccomp obj nsubj,complement_clause,vs
+case det amod obl aux,prepositional_phrase,v
+ccomp obj,complement_clause,v
+case det obl ccomp,prepositional_phrase,unknown
+punct root nsubj,main_clause,ps
+punct advmod root nsubj xcomp advcl obj advmod,subordinate_clause,pso
+ccomp xcomp advcl nsubj advcl,subordinate_clause,sv
+punct advmod,adverbial_clause,v
+conj nsubj det dobj xcomp,noun_phrase,vso
+punct mark advmod advcl det amod nsubj,subordinate_clause,vs
+case det amod pobj punct mark nsubj xcomp,prepositional_phrase,osv
+conj det dobj,noun_phrase,v
+case det nmod,prepositional_phrase,unknown
+punct cc advmod root nsubj xcomp,adverbial_clause,ps
+punct advmod expl advmod det amod nsubj advcl,subordinate_clause,sv
+mark det nsubj advcl obl det obl punct mark nsubj xcomp advcl,subordinate_clause,sov
+advmod aux nsubj advmod root advcl det nsubj aux,subordinate_clause,sp
+ccomp cc det nsubj nsubj advmod advmod xcomp,adverbial_clause,vs
+conj acl:relcl,unknown_chunk,v
+case det obl acl:relcl det obj xcomp nsubj nmod iobj aux,prepositional_phrase,osv
+acl:relcl advmod advmod X,adverbial_clause,v
+cc mark nsubj det obj,subordinate_clause,sv
+mark conj nsubj det,subordinate_clause,s
+conj neg acomp,unknown_chunk,v
+conj nsubj xcomp root X X,infinitive_clause,sp
+cc advmod det nsubj ref case obl aux root det obj advmod,prepositional_phrase,sop
+conj nsubj case det obl cc conj conj advmod cc,prepositional_phrase,sov
+conj case obl,prepositional_phrase,v
+case det amod acl:relcl nsubj acl:relcl case obl det nmod nsubj,prepositional_phrase,sov
+case case obl advcl det nsubj case,prepositional_phrase,osv
+case obl,prepositional_phrase,v
+conj xcomp cc det nsubj,noun_phrase,s
+case obj,prepositional_phrase,v
+conj X X X X,unknown_chunk,v
+advmod punct root nsubj,adverbial_clause,ps
+punct mark nsubj obj aux,subordinate_clause,sov
+ccomp punct nsubj parataxis obj advmod neg,adverbial_clause,svo
+voc punct root nsubj,main_clause,ps
+punct advmod,adverbial_clause,v
+ccomp nsubj obj obl obj,complement_clause,vso
+mark nsubj obj obj,subordinate_clause,vso
+ccomp punct,complement_clause,v
+mark nsubj iobj advmod obl,subordinate_clause,sov
+mark nsubj obl obj,subordinate_clause,so
+ccomp aux aux,complement_clause,v
+punct mark nsubj obl,subordinate_clause,sv
+root xcomp det obj,noun_phrase,p
+punct nsubj advmod,adverbial_clause,vs
+acl:relcl punct cc conj case obl punct cc conj iobj,prepositional_phrase,v
+mark nsubj obj ccomp xcomp,subordinate_clause,sov
+vocative root det nsubj advmod,adverbial_clause,ps
+conj iobj advmod xcomp advmod nsubj,adverbial_clause,ovs
+conj aux mark advmod,subordinate_clause,v
+conj nsubj obj,unknown_chunk,vso
+cc conj cc nsubj conj obj advmod xcomp advmod advmod det pobj advmod advmod det pobj nsubj advmod,adverbial_clause,svo
+acl:relcl obj nsubj aux advmod obj,adverbial_clause,osv
+acl:relcl X X X X X X,unknown_chunk,v
+nsubj root obj advmod xcomp,adverbial_clause,spo
+punct conj obj,unknown_chunk,v
+cc conj advmod obl case det obl conj,prepositional_phrase,unknown
+mark nsubj case det obl advcl obj nsubj advmod ccomp punct mark root nsubj obj,prepositional_phrase,sop
+cc conj det obj advmod nsubj obj advmod,adverbial_clause,osv
+case xcomp,prepositional_phrase,v
+punct,unknown_chunk,unknown
+case obj obj mark advcl,prepositional_phrase,v
+punct root det nsubj,noun_phrase,ps
+punct cc nsubj conj poss det attr,noun_phrase,s
+cc det amod nsubj root punct,noun_phrase,sp
+mark det obj advcl,subordinate_clause,v
+cc nsubj case det obl root,prepositional_phrase,sop
+ccomp nsubj obj nsubj,complement_clause,sv
+ccomp neg root nsubj X,complement_clause,ps
+advmod root mark nsubj ccomp det acomp,subordinate_clause,ps
+punct nsubj acl,unknown_chunk,sv
+case det obl,prepositional_phrase,v
+case det obl cc conj advmod acomp,prepositional_phrase,v
+mark nsubj advmod xcomp,subordinate_clause,sv
+ccomp punct nsubj parataxis obj,complement_clause,svo
+case det obl det amod obl advmod,prepositional_phrase,v
+cc advcl obl pobj det nsubj ccomp advmod root nsubj nsubj,subordinate_clause,osp
+ccomp advmod obl det amod pobj X X,adverbial_clause,v
+advmod ccomp obj advmod,adverbial_clause,v
+punct root nsubj,main_clause,ps
+punct mark nsubj obj advmod advcl,subordinate_clause,sov
+advmod conj,adverbial_clause,v
+case obl punct root nsubj,prepositional_phrase,ops
+advmod root nsubj advmod case det obl case det obl punct advmod advmod punct case det obl,prepositional_phrase,pso
+advmod root det nsubj,adverbial_clause,ps
+voc punct ccomp nsubj advmod det amod obj,adverbial_clause,vso
+cc det obj nmod discourse punct root nsubj,noun_phrase,ops
+advmod root nsubj obj xcomp,adverbial_clause,pso
+punct parataxis det nsubj,noun_phrase,vs
+punct obj nsubj,unknown_chunk,vs
+ccomp xcomp,infinitive_clause,v
+root obl det,noun_phrase,p
+case cc conj obl advmod,prepositional_phrase,v
+nsubj root iobj,main_clause,spo
+mark nsubj aux advmod,subordinate_clause,sv
+ccomp det obj,noun_phrase,v
+case obl conj advmod advmod,prepositional_phrase,v
+cc conj det obj punct acl:relcl csubj det obj mark advcl mark nsubj obj csubj,subordinate_clause,os
+cc conj,unknown_chunk,v
+mark advcl mark expl advmod det nsubj acl:relcl advmod csubj,subordinate_clause,s
+cc root,main_clause,p
+compound compound vocative neg root iobj advmod advmod advmod,adverbial_clause,p
+mark nsubj advcl obj xcomp,subordinate_clause,sov
+case det obl,prepositional_phrase,v
+mark nsubj advmod obj acl:relcl aux X X,subordinate_clause,sov
+advmod root det nsubj advmod advcl nsubj neg,subordinate_clause,ps
+cc conj case det obl X,prepositional_phrase,v
+cc mark nsubj case case det obl xcomp root,prepositional_phrase,sop
+punct advmod parataxis nsubj advmod det det obj,adverbial_clause,svo
+cc det conj punct cc parataxis advmod advmod det det obj,adverbial_clause,v
+punct ref amod cc det conj case nummod nmod:poss obj punct,prepositional_phrase,v
+cc parataxis det obj case obl punct,prepositional_phrase,v
+mark nsubj advmod parataxis,subordinate_clause,sv
+mark nsubj obj ccomp aux,subordinate_clause,sov
+advmod root nsubj det obj punct nsubj acl:relcl,adverbial_clause,pso
+vocative punct amod appos punct nsubj root obj advmod obl det amod obj,adverbial_clause,spo
+punct obj nmod:poss nsubj,unknown_chunk,vs
+ccomp advmod aux xcomp nmod:poss obj,adverbial_clause,v
+punct nsubj parataxis iobj amod obj,noun_phrase,svo
+cc advmod root obj acl nsubj,adverbial_clause,pos
+conj obj,unknown_chunk,v
+cc conj det obj obj,noun_phrase,v
+cc conj det obj advmod advmod cc conj advmod X,adverbial_clause,v
+advmod root nsubj det amod obj,adverbial_clause,pso
+cc conj ref nsubj acl:relcl obl det obl,noun_phrase,svo
+cc mark nsubj obj advcl,subordinate_clause,sov
+punct mark conj nsubj det iobj,subordinate_clause,vso
+cc root,main_clause,p
+root advmod,adverbial_clause,p
+cc conj obj nsubj aux,unknown_chunk,sv
+ccomp cc,complement_clause,v
+conj iobj obj nsubj,unknown_chunk,ovs
+ccomp mark nsubj aux xcomp iobj,subordinate_clause,svo
+mark xcomp mark nsubj obj xcomp advcl X X,subordinate_clause,sov
+cc nsubj root det advmod,adverbial_clause,sp
+cc mark nsubj advcl det obj advmod xcomp,subordinate_clause,sov
+punct mark,subordinate_clause,v
+conj nsubj obl,unknown_chunk,vso
+cc root,main_clause,p
+vocative punct nsubj root neg advmod xcomp,adverbial_clause,sp
+mark nsubj aux advcl,subordinate_clause,sv
+punct det nsubj:pass punct nsubj advmod acl:relcl punct aux advmod obl det nmod aux:pass,adverbial_clause,sov
+conj mark nsubj advcl,subordinate_clause,sv
+advmod punct root det amod nsubj,adverbial_clause,ps
+punct ref det obj aux,noun_phrase,sv
+acl:relcl mark xcomp,subordinate_clause,v
+punct mark nsubj advcl xcomp,subordinate_clause,vs
+cc xcomp aux,infinitive_clause,v
+punct mark det nsubj advcl acomp,subordinate_clause,sv
+cc acomp punct cc advmod det nsubj obl det amod,adverbial_clause,vso
+cc amod obl conj neg advmod xcomp,adverbial_clause,v
+conj,unknown_chunk,v
+cc advmod root nsubj det obj,adverbial_clause,pso
+case det obl relcl nsubj advmod,prepositional_phrase,ovs
+acl:relcl case det obl,prepositional_phrase,v
+cc conj advmod obl det obl,adverbial_clause,v
+cc advmod root obj,adverbial_clause,p
+case det obl,prepositional_phrase,unknown
+voc punct ccomp nsubj obj ref,complement_clause,sov
+acl:relcl ref,unknown_chunk,v
+case det obl acl:relcl punct ref nsubj acomp acl:relcl,prepositional_phrase,osv
+case xcomp discourse,prepositional_phrase,v
+punct root nsubj,main_clause,ps
+punct advcl advmod nsubj obl advcl,subordinate_clause,sov
+punct case obl advmod advmod amod obj,prepositional_phrase,v
+cc case obl,prepositional_phrase,unknown
+cc root nsubj,main_clause,ps
+punct parataxis obj,unknown_chunk,v
+punct advmod mark amod obj nmod aux,subordinate_clause,v
+conj obl,unknown_chunk,v
+punct parataxis nsubj,unknown_chunk,vs
+punct discourse advmod,adverbial_clause,v
+punct cc nsubj,unknown_chunk,vs
+conj obj advmod advmod xcomp,adverbial_clause,v
+punct mark nsubj obj acomp advcl,subordinate_clause,sov
+mark xcomp cc nsubj amod obj conj,subordinate_clause,sov
+case obl acl:relcl root nsubj,prepositional_phrase,ops
+case det obl cc conj,prepositional_phrase,v
+case det obl advmod,prepositional_phrase,unknown
+cc advmod root,adverbial_clause,p
+case det obl mark nsubj det obl,prepositional_phrase,ovs
+case det obl ccomp xcomp,prepositional_phrase,v
+punct mark nsubj,subordinate_clause,vs
+case det obl obj xcomp advcl,prepositional_phrase,v
+cc root punct,main_clause,sp
+acl:relcl advmod advmod acl advcl,subordinate_clause,v
+mark nsubj case obl punct acl:relcl acomp obj advmod,prepositional_phrase,sov
+mark xcomp det amod obj det nmod punct advcl nsubj obj advmod advmod advcl,subordinate_clause,osv
+cc det amod nsubj conj obj,noun_phrase,svo
+cc conj obj,unknown_chunk,v
+case det obl cc conj obj xcomp cc conj obj xcomp,prepositional_phrase,v
+case det obl cc root,prepositional_phrase,p
+vocative nsubj parataxis obj advmod obl det obl nsubj nsubj aux,adverbial_clause,sov
+case obj acl cc nsubj root obj iobj advmod xcomp advcl,prepositional_phrase,osp
+case det obl advcl advmod nsubj ref advmod nsubj,prepositional_phrase,vos
+mark xcomp cop X X X X,subordinate_clause,v
+det nsubj root advmod acomp,adverbial_clause,sp
+mark xcomp det nmod:poss obj,subordinate_clause,v
+conj nsubj compound:prt xcomp case det obl cc det nsubj det appos nsubj obj,prepositional_phrase,sov
+conj det conj poss obj,noun_phrase,v
+cc poss conj,unknown_chunk,v
+cc case det amod obl conj nsubj advmod advmod xcomp det obj X X X X,prepositional_phrase,osv
+det appos punct nsubj det obj acl,noun_phrase,vso
+punct nsubj root,main_clause,sp
+mark xcomp det obj,subordinate_clause,v
+case det obl punct nsubj det nsubj appos acl advmod obj,prepositional_phrase,osv
+mark nsubj advmod obj advcl punct,subordinate_clause,sov
+mark det nsubj advcl det obj neg,subordinate_clause,svo
+punct cc det,noun_phrase,v
+conj det obj punct advmod,adverbial_clause,v
+conj nsubj det xcomp,noun_phrase,vs
+mark det obj punct nsubj case det obl acl:relcl,prepositional_phrase,osv
+cc advmod det nsubj case obl root ccomp advmod csubj advmod acomp nmod,prepositional_phrase,sop
+case obl conj nsubj det obj neg csubj,prepositional_phrase,ovs
+punct cc nsubj det obj neg conj punct cc mark conj,subordinate_clause,sov
+ccomp nsubj advmod csubj,adverbial_clause,vs
+punct advmod conj nsubj det obl amod obj,adverbial_clause,sov
+cc root det obj case det obl acl nsubj acl obj,prepositional_phrase,pos
+cc conj X,unknown_chunk,unknown
+cc obl det obj,noun_phrase,v
+mark obl cc obl det obj mark obl cc mark conj punct mark case iobj,prepositional_phrase,v
+case det obl cc root obj advmod acomp,prepositional_phrase,p
+cc advmod amod amod acomp det obj,adverbial_clause,v
+mark advmod acl xcomp det amod obj mark det obl,subordinate_clause,unknown
+mark nsubj advcl,subordinate_clause,sv
+case nmod obj det nmod nsubj,prepositional_phrase,vs
+ccomp attr,complement_clause,v
+mark mark nsubj,subordinate_clause,s
+ccomp nsubj root,complement_clause,sp
+mark advmod xcomp vocative advmod advmod aux obj xcomp,subordinate_clause,v
+case det obl case det obl X X X X X X,prepositional_phrase,v
+cc advmod advmod det nsubj advcl det obj advmod,subordinate_clause,svo
+mark xcomp det obj,subordinate_clause,v
+cc advmod root acomp,adverbial_clause,p
+prep pobj advcl advmod advmod det nsubj cc det conj advcl prep det pobj,prepositional_phrase,osv
+cc nsubj aux conj,unknown_chunk,sv
+cc conj advmod,adverbial_clause,v
+conj obj det obj compound xcomp,noun_phrase,v
+prep det amod pobj,prepositional_phrase,v
+cc mark conj prep det pobj,prepositional_phrase,v
+mark conj det obj cc advmod pobj,subordinate_clause,v
+mark conj mark nsubj advcl xcomp X X X,subordinate_clause,sv
+advmod root det nsubj xcomp det obj det nmod compound nmod,adverbial_clause,pso
+cc advmod obl amod pobj,adverbial_clause,unknown
+mark det nsubj advcl advmod acomp,subordinate_clause,sv
+case det obl det nmod cc aux,prepositional_phrase,v
+conj case nmod:poss obl,prepositional_phrase,v
+cc conj mark nsubj aux,subordinate_clause,sv
+ccomp det obj,noun_phrase,v
+case det amod obl punct discourse aux nsubj advmod root case obl advmod advmod case nummod obl,prepositional_phrase,osp
+cc root advmod mark nsubj aux,subordinate_clause,ps
+ccomp det obj,noun_phrase,v
+case obl mark mark nsubj advcl,prepositional_phrase,ovs
+advmod root iobj advmod xcomp,adverbial_clause,p
+mark nsubj ccomp xcomp obl nmod:poss,subordinate_clause,svo
+case,prepositional_phrase,unknown
+advmod root iobj,adverbial_clause,p
+punct parataxis advmod,adverbial_clause,v
+punct obj det nsubj acl,noun_phrase,sv
+punct obl det case aux nsubj iobj advmod det obj parataxis,prepositional_phrase,osv
+punct,unknown_chunk,unknown
+nsubj root,main_clause,sp
+nsubj aux obj advmod root,adverbial_clause,sop
+det nsubj root det amod obj det nmod,noun_phrase,spo
+punct mark nsubj advcl advmod acomp obl det amod pobj ref nsubj acl xcomp obl,subordinate_clause,sov
+case case obl punct mark advmod advcl,prepositional_phrase,v
+mark nsubj acomp ccomp obl det pobj det nmod nmod flat,subordinate_clause,sov
+advmod advmod nsubj det obj obl det pobj root nsubj parataxis advmod,adverbial_clause,sop
+case det obj cc conj obj nsubj,prepositional_phrase,ovs
+ccomp advmod,adverbial_clause,v
+mark nsubj advcl,subordinate_clause,vs
+cc conj obj obl det pobj obl det nmod:poss pobj,noun_phrase,sv
+acl:relcl nsubj advmod acl cc acl:relcl advmod obl det pobj aux,adverbial_clause,sov
+ccomp X X,complement_clause,v
+cc advmod root nsubj det obj,adverbial_clause,pso
+advmod root nsubj obj,adverbial_clause,pso
+cc conj nsubj,unknown_chunk,vs
+mark advmod advmod nsubj advcl det obj,subordinate_clause,svo
+case det obl advcl advmod nsubj advcl acomp aux,prepositional_phrase,osv
+cc advmod aux nsubj,adverbial_clause,vs
+case det obl cc case det obl,prepositional_phrase,v
+case det obl root,prepositional_phrase,p
+advmod root nsubj advmod advmod xcomp,adverbial_clause,ps
+mark det nsubj cc det conj advcl obl det nmod,subordinate_clause,svo
+punct ref advmod advmod advmod acl:relcl,adverbial_clause,v
+punct cc det obj obl det nmod,noun_phrase,v
+nsubj root,main_clause,sp
+nsubj root advmod,adverbial_clause,sp
+ccomp nsubj advmod obj obl nmod det nmod nsubj,adverbial_clause,vso
+conj attr aux neg obl pobj,unknown_chunk,v
+cc det pobj,noun_phrase,unknown
+cc case det obl advmod root nsubj xcomp,prepositional_phrase,ops
+cc conj obj mark obj nsubj,subordinate_clause,ovs
+acl:relcl,unknown_chunk,v
+advmod root nsubj advmod xcomp,adverbial_clause,ps
+mark det nsubj ccomp det obj poss nmod,subordinate_clause,svo
+cc conj prep det pobj,prepositional_phrase,unknown
+cc advmod root nsubj iobj obj,adverbial_clause,pso
+advmod advmod amod nsubj advmod advcl,subordinate_clause,sv
+cc conj,unknown_chunk,v
+case det obl cc nsubj conj obj xcomp advmod,prepositional_phrase,osv
+case obl cc nsubj advmod conj,prepositional_phrase,osv
+cc conj mark nsubj,subordinate_clause,vs
+ccomp acomp,complement_clause,v
+case obl advmod root nsubj nsubj advmod obj xcomp obl det pobj,prepositional_phrase,ops
+mark xcomp cc advmod nsubj conj mark nsubj,subordinate_clause,s
+ccomp nmod:poss obj obl det nmod:poss pobj X,noun_phrase,v
+cc nsubj advmod advmod obj aux advcl advmod obl det nmod pobj nsubj advmod advmod amod attr acl punct aux advmod det compound nsubj obl pobj root obl det pobj obl pobj aux xcomp,subordinate_clause,sop
+advmod mark advmod mark nsubj vocative root punct det appos,subordinate_clause,sp
+punct nsubj obj acl:relcl advmod xcomp,adverbial_clause,sov
+cc mark obj case amod nmod mark amod amod amod obj acl:relcl obj punct nsubj acl:relcl nmod:poss obj advmod acl:relcl,prepositional_phrase,osv
+cc conj,unknown_chunk,v
+cc conj det nmod:poss obj,noun_phrase,v
+case compound xcomp,prepositional_phrase,v
+punct cc nsubj,unknown_chunk,vs
+conj det obj punct mark nsubj advmod amod amod nsubj aux advcl,subordinate_clause,osv
+punct advmod root nsubj advmod det obj xcomp,adverbial_clause,pso
+prep det pobj,prepositional_phrase,unknown
+cc aux root,main_clause,p
+mark aux amod nsubj case advmod advmod advcl X,prepositional_phrase,sv
+det nsubj conj aux xcomp det obj det det nsubj root,noun_phrase,sop
+cc det obl root nsubj det obj xcomp,noun_phrase,ops
+punct mark nsubj advmod advcl obl det,subordinate_clause,svo
+case,prepositional_phrase,unknown
+cc mark nsubj advcl obj ref nsubj acomp,subordinate_clause,svo
+acl:relcl mark xcomp advmod root nsubj obj,subordinate_clause,pso
+mark nsubj,subordinate_clause,vs
+ccomp X,complement_clause,v
+cc nsubj root,main_clause,sp
+punct nsubj,unknown_chunk,vs
+conj obj,unknown_chunk,v
+cc conj det nmod attr,noun_phrase,v
+case obl,prepositional_phrase,unknown
+amod vocative appos punct root nsubj,noun_phrase,ps
+punct mark mark nsubj attr advcl,subordinate_clause,sv
+cc conj xcomp,infinitive_clause,v
+case advmod amod obl advmod,prepositional_phrase,v
+case obl punct advmod parataxis obj attr obl,prepositional_phrase,v
+case nsubj advmod acl:relcl cc conj nmod:poss obj punct advmod obl det pobj punct ref nsubj xcomp parataxis,prepositional_phrase,sov
+punct parataxis nsubj obj xcomp,infinitive_clause,sov
+advmod punct root det amod nsubj,adverbial_clause,ps
+punct vocative punct nsubj,unknown_chunk,vs
+ccomp obj advmod xcomp,adverbial_clause,v
+punct mark nsubj advcl,subordinate_clause,sv
+cc advmod nsubj root det obj punct cc nsubj conj obj iobj,adverbial_clause,spo
+cc nsubj root,main_clause,sp
+voc punct case nmod:poss obl cc det,prepositional_phrase,v
+conj nsubj obj obj root punct advcl nsubj advmod amod obj,subordinate_clause,sop
+case ccomp obj nsubj obj neg xcomp acl,prepositional_phrase,sov
+mark nsubj advmod advcl nsubj det obj obj,subordinate_clause,vso
+mark nsubj obj advmod aux xcomp acl det amod obj ref nsubj obj,subordinate_clause,sov
+acl:relcl root nsubj,main_clause,ps
+mark nsubj obl,subordinate_clause,vso
+ccomp amod obj X X,noun_phrase,v
+nsubj root obj,main_clause,spo
+punct parataxis obj,unknown_chunk,v
+punct advmod parataxis nsubj obj obj advmod,adverbial_clause,sov
+punct parataxis nsubj,unknown_chunk,vs
+punct nsubj parataxis iobj det obj xcomp,noun_phrase,svo
+cc xcomp iobj,infinitive_clause,v
+mark nsubj iobj obj,subordinate_clause,vso
+ccomp punct,complement_clause,v
+mark nsubj advcl attr advmod appos appos,subordinate_clause,sv
+case nmod,prepositional_phrase,unknown
+nsubj root obj iobj parataxis advmod,adverbial_clause,spo
+cc conj obj advmod xcomp X X,adverbial_clause,v
+amod voc root nsubj,noun_phrase,ps
+punct advmod parataxis nsubj xcomp obj nsubj obj,adverbial_clause,svo
+ccomp prep pobj prep det pobj mark advmod advcl obl advmod obj parataxis X,prepositional_phrase,unknown
+cc advmod punct,adverbial_clause,v
+mark obj nsubj advmod advmod advcl,subordinate_clause,os
+punct mark nsubj iobj det obj neg root obl det amod pobj,subordinate_clause,sop
+nsubj root obj advmod xcomp,adverbial_clause,spo
+punct conj obj,unknown_chunk,v
+advmod root obj obj nsubj,adverbial_clause,pos
+case obl det obj,prepositional_phrase,v
+mark nsubj,subordinate_clause,s
+case xcomp advmod advcl X,prepositional_phrase,v
+cc nsubj root obj,main_clause,spo
+case case obl cc nsubj,prepositional_phrase,ovs
+conj obl,unknown_chunk,v
+case obl case cc conj det obj cc det det conj X,prepositional_phrase,unknown
+cc advmod root,adverbial_clause,p
+case nummod nmod obl mark nsubj ccomp,prepositional_phrase,osv
+case det obl cc conj obj,prepositional_phrase,v
+punct ref relcl xcomp case det obl cc conj,prepositional_phrase,unknown
+voc root obj nsubj relcl obj acl conj advmod nummod obj appos,adverbial_clause,pos
+case det amod nmod cc,prepositional_phrase,v
+conj case det amod nmod X X X X X,prepositional_phrase,unknown
+det obl det pobj obj root nsubj iobj,noun_phrase,ops
+ccomp nsubj neg advmod,adverbial_clause,vs
+ccomp advcl advmod advmod det nsubj advcl nsubj xcomp,subordinate_clause,vs
+acl:relcl advmod acl ccomp nsubj advmod advmod,adverbial_clause,vs
+ccomp X X,complement_clause,v
+cc mark nsubj case det obl advcl punct advmod root advmod xcomp,prepositional_phrase,sop
+advmod nsubj root det obj,adverbial_clause,spo
+punct advmod,adverbial_clause,v
+conj nsubj,unknown_chunk,vs
+case obl,prepositional_phrase,v
+amod vocative root obj xcomp det obj,noun_phrase,p
+case det amod obl mark advmod advcl nsubj advmod xcomp det obj,prepositional_phrase,osv
+cc conj,unknown_chunk,v
+mark nsubj advmod aux,subordinate_clause,sv
+ccomp obj advmod nsubj poss obj advcl aux X X X,subordinate_clause,sv
+mark nsubj ccomp,subordinate_clause,sv
+punct conj xcomp,infinitive_clause,v
+punct advmod root obj advmod,adverbial_clause,p
+punct mark nsubj advmod xcomp mark nsubj ccomp advmod advcl advmod nsubj,subordinate_clause,sv
+cc nsubj root,main_clause,sp
+mark ccomp obj advmod aux advmod nsubj,subordinate_clause,ovs
+punct cc obl,unknown_chunk,v
+case advmod conj nsubj obl,prepositional_phrase,so
+case nmod punct cc advmod conj det obj,prepositional_phrase,v
+cc det obj,noun_phrase,v
+cc conj obj det nmod obj nsubj conj,noun_phrase,osv
+punct case det obl det nsubj,prepositional_phrase,vos
+case nmod cc root,prepositional_phrase,p
+case obl advmod case obl,prepositional_phrase,v
+advmod root det nsubj obj,adverbial_clause,pso
+punct mark nsubj,subordinate_clause,vs
+ccomp xcomp,infinitive_clause,v
+case pobj punct,prepositional_phrase,v
+conj nsubj obl det pobj,noun_phrase,vso
+punct acl:relcl advmod nummod nmod,adverbial_clause,v
+ccomp aux,complement_clause,v
+punct cc,unknown_chunk,v
+conj mark advmod advcl obj nsubj ccomp det obl obl pobj obl det pobj,subordinate_clause,osv
+cc conj advmod,adverbial_clause,v
+case det obl det amod obj cc amod,prepositional_phrase,v
+punct cc case det pobj conj advmod obj xcomp,prepositional_phrase,v
+cc conj xcomp obl det amod pobj acl:relcl nsubj xcomp ccomp,noun_phrase,osv
+punct cc conj obl det pobj det case nmod amod obj,prepositional_phrase,v
+cc nsubj root obj,main_clause,spo
+cc conj det obj,noun_phrase,sv
+acl:relcl advmod csubj advmod det obj nsubj advmod acomp,adverbial_clause,so
+acl:relcl obj nsubj,unknown_chunk,vs
+case amod obl aux ccomp,prepositional_phrase,sv
+acl:relcl nsubj ccomp aux X,complement_clause,sv
+cc advmod root nsubj obj,adverbial_clause,pso
+cc conj,unknown_chunk,v
+punct nsubj parataxis obj,unknown_chunk,svo
+case case xcomp punct,prepositional_phrase,v
+cc mark nsubj,subordinate_clause,vs
+case nmod:poss amod obl cc conj case ccomp,prepositional_phrase,unknown
+discourse nsubj root neg advmod xcomp,adverbial_clause,sp
+mark nsubj ccomp obl,subordinate_clause,svo
+case obl det obj,prepositional_phrase,v
+case det amod amod obl punct,prepositional_phrase,v
+cc conj,unknown_chunk,v
+case obj cc conj,prepositional_phrase,v
+compound vocative punct root det obj xcomp,noun_phrase,p
+punct mark nsubj advcl advmod advmod,subordinate_clause,sv
+punct cc conj mark nsubj obj case amod obl advmod punct cc mark nsubj obl conj punct mark conj nsubj obj obl mark nsubj advmod advcl,prepositional_phrase,sov
+mark nsubj xcomp,subordinate_clause,sv
+ccomp case obl,prepositional_phrase,v
+cc conj,unknown_chunk,v
+amod voc root det obj cc nsubj conj obl cc,noun_phrase,pos
+conj obl advmod advmod obl det obl,adverbial_clause,v
+cc conj det obl cc conj obl det obj obl det obl,noun_phrase,v
+cc conj obl advmod det obj,adverbial_clause,v
+cc conj obl advmod xcomp mark nsubj det obj ccomp obl det obl,subordinate_clause,osv
+cc det obj det nmod X X,noun_phrase,unknown
+cc root obj,main_clause,p
+case obl,prepositional_phrase,v
+cc conj iobj det obj,noun_phrase,v
+mark nsubj det obj advmod advmod advcl,subordinate_clause,so
+cc conj advmod det obl mark nsubj obj aux acl X X,subordinate_clause,osv
+cc advmod aux root,adverbial_clause,p
+mark nsubj advmod advmod aux advcl,subordinate_clause,sv
+cc conj,unknown_chunk,v
+mark nsubj,subordinate_clause,vs
+case det obl,prepositional_phrase,v
+ccomp aux,complement_clause,v
+cc conj obj advmod mark nsubj ccomp advmod obj aux,subordinate_clause,osv
+punct mark,subordinate_clause,v
+case obl advmod obl case advcl,prepositional_phrase,v
+cc case det obl nsubj acl:relcl,prepositional_phrase,osv
+case det obl advmod root expl,prepositional_phrase,p
+mark ccomp det obj advmod conj mark nsubj,subordinate_clause,ovs
+case obl ccomp X,prepositional_phrase,v
+cc advmod nsubj root,adverbial_clause,sp
+mark nsubj,subordinate_clause,s
+case det nmod ccomp advmod advmod advmod parataxis nsubj det advmod acomp advmod nsubj aux,prepositional_phrase,sv
+ccomp mark nsubj,subordinate_clause,vs
+ccomp aux X X,complement_clause,v
+cc advmod root nsubj advmod cc conj obl pobj,adverbial_clause,pso
+cc conj,unknown_chunk,v
+discourse appos nsubj,unknown_chunk,s
+conj obj det xcomp,noun_phrase,v
+mark obj nsubj conj cc advmod,subordinate_clause,osv
+case obj obl pobj conj advmod conj nsubj obl case det xcomp,prepositional_phrase,osv
+cc root X X X X X,main_clause,p
+voc voc punct case obl punct neg root obj xcomp advmod,prepositional_phrase,p
+case det obl punct,prepositional_phrase,v
+cc conj obj obj,unknown_chunk,v
+case det obl punct mark iobj aux advcl det obj,prepositional_phrase,v
+cc ccomp nsubj advmod,adverbial_clause,vs
+ccomp case det amod obl,prepositional_phrase,v
+punct,unknown_chunk,unknown
